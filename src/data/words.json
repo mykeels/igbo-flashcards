@@ -565,11 +565,6 @@
     "category": "Noun"
   },
   {
-    "english": "fog",
-    "igbo": "foogu",
-    "category": "Noun"
-  },
-  {
     "english": "sky",
     "igbo": "elu-igwe",
     "category": "Noun"
@@ -577,6 +572,11 @@
   {
     "english": "wind",
     "igbo": "ifufe",
+    "category": "Noun"
+  },
+  {
+    "english": "fog",
+    "igbo": "anwụrụ mmiri",
     "category": "Noun"
   },
   {
@@ -1021,7 +1021,7 @@
   },
   {
     "english": "freeze",
-    "igbo": "ifriizi",
+    "igbo": "udu oyi",
     "category": "Verb"
   },
   {
