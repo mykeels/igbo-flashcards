@@ -1,7 +1,8 @@
 // Import necessary libraries
 import React, { useState, useEffect } from "react";
-import words from "../data/words.json";
+import { clsx } from "clsx";
 import { createRootRoute } from "@tanstack/react-router";
+import words from "../data/words.json";
 
 // Define the WordCard component
 const WordFlashCard: React.FC = () => {
@@ -36,11 +37,24 @@ const WordFlashCard: React.FC = () => {
     }
   };
 
+  const backgroundColor = {
+    noun: "bg-blue-300",
+    verb: "bg-red-300",
+    adjective: "bg-green-300",
+    adverb: "bg-yellow-300",
+    pronoun: "bg-purple-300",
+    preposition: "bg-pink-300",
+    conjunction: "bg-gray-300",
+  }[currentWord.category.toLowerCase()];
+
   return (
     <div className="flex flex-col items-center justify-center h-screen">
       <div
-        className="max-w-sm mx-auto p-16 border rounded shadow-lg text-center cursor-pointer gap-8 
-        flex flex-col items-center justify-center"
+        className={clsx(
+          "max-w-sm mx-auto py-16 px-8 border rounded shadow-lg text-center cursor-pointer gap-8",
+          "flex flex-col items-center justify-center rounded-lg shadow-lg min-w-64",
+          backgroundColor
+        )}
         onClick={handleCardClick}
       >
         <h2 className="text-3xl font-bold">{currentWord.english}</h2>
