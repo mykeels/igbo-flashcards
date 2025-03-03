@@ -6,7 +6,7 @@ import rawPlugin from "vite-raw-plugin";
 import * as pkg from "./package.json";
 import { rootRoute } from "@tanstack/virtual-file-routes";
 
-const routes = rootRoute("../components/MemoryFlashCards.tsx", []);
+const routes = rootRoute("../components/WordFlashCard.tsx", []);
 
 // https://vitejs.dev/config/
 export default defineConfig({

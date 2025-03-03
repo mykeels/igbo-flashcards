@@ -10,7 +10,7 @@
 
 // Import Routes
 
-import { Route as rootRoute } from './components/MemoryFlashCards'
+import { Route as rootRoute } from './components/WordFlashCard'
 
 // Create/Update Routes
 
@@ -53,7 +53,7 @@ export const routeTree = rootRoute
 {
   "routes": {
     "__root__": {
-      "filePath": "../components/MemoryFlashCards.tsx",
+      "filePath": "../components/WordFlashCard.tsx",
       "children": []
     }
   }
