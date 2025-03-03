@@ -23,6 +23,9 @@ dependencies:
   '@tanstack/react-router':
     specifier: ^1.57.15
     version: 1.57.15(@tanstack/router-generator@1.57.15)(react-dom@18.3.1)(react@18.3.1)
+  '@tanstack/virtual-file-routes':
+    specifier: ^1.99.0
+    version: 1.99.0
   class-variance-authority:
     specifier: ^0.7.0
     version: 0.7.0
@@ -3272,7 +3275,7 @@ packages:
     resolution: {integrity: sha512-VcUZVxdqrHZJuVJKwrQfkRcTmZk9iems/E3XBi+Ls6Hrrpx/2u4zwy4cb9btTExYecHZICWY0wwK+2XJOWE/kw==}
     engines: {node: '>=12'}
     dependencies:
-      '@tanstack/virtual-file-routes': 1.56.0
+      '@tanstack/virtual-file-routes': 1.99.0
       prettier: 3.3.3
       tsx: 4.19.1
       zod: 3.23.8
@@ -3301,7 +3304,7 @@ packages:
       '@babel/traverse': 7.25.6
       '@babel/types': 7.25.6
       '@tanstack/router-generator': 1.57.15
-      '@tanstack/virtual-file-routes': 1.56.0
+      '@tanstack/virtual-file-routes': 1.99.0
       '@types/babel__core': 7.20.5
       '@types/babel__generator': 7.6.8
       '@types/babel__template': 7.4.4
@@ -3319,8 +3322,8 @@ packages:
   /@tanstack/store@0.5.5:
     resolution: {integrity: sha512-EOSrgdDAJExbvRZEQ/Xhh9iZchXpMN+ga1Bnk8Nmygzs8TfiE6hbzThF+Pr2G19uHL6+DTDTHhJ8VQiOd7l4tA==}
 
-  /@tanstack/virtual-file-routes@1.56.0:
-    resolution: {integrity: sha512-fBUj+lbSaw+VxoBN4J/WFE7dTx8x4XCTRAQvbiIyPJ8MY1KRVkdZV6cbLvg7MeDP6CxUcj6XNvWU6h0ic1Ipyg==}
+  /@tanstack/virtual-file-routes@1.99.0:
+    resolution: {integrity: sha512-XvX8bfdo4CYiCW+ItVdBfCorh3PwQFqYqd7ll+XKWiWOJpqUGIG7VlziVavARZpUySiY2VBlHadiUYS7jhgjRg==}
     engines: {node: '>=12'}
 
   /@testing-library/dom@10.4.0:
