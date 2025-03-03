@@ -670,6 +670,11 @@
     "category": "Noun"
   },
   {
+    "english": "for",
+    "igbo": "maka",
+    "category": "Preposition"
+  },
+  {
     "english": "this",
     "igbo": "nke a",
     "category": "Preposition"
@@ -752,6 +757,11 @@
   {
     "english": "they",
     "igbo": "ha",
+    "category": "Pronoun"
+  },
+  {
+    "english": "it",
+    "igbo": "ya",
     "category": "Pronoun"
   },
   {
@@ -1037,6 +1047,16 @@
   {
     "english": "be",
     "igbo": "bụrụ",
+    "category": "Verb"
+  },
+  {
+    "english": "have",
+    "igbo": "nwere",
+    "category": "Verb"
+  },
+  {
+    "english": "do",
+    "igbo": "mee",
     "category": "Verb"
   }
 ]
