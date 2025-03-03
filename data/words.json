@@ -1,0 +1,1042 @@
+[
+  {
+    "english": "all",
+    "igbo": "niile",
+    "category": "Adjective"
+  },
+  {
+    "english": "many",
+    "igbo": "ọtụtụ",
+    "category": "Adjective"
+  },
+  {
+    "english": "some",
+    "igbo": "ụfọdụ",
+    "category": "Adjective"
+  },
+  {
+    "english": "few",
+    "igbo": "ole na ole",
+    "category": "Adjective"
+  },
+  {
+    "english": "other",
+    "igbo": "ọzọ",
+    "category": "Adjective"
+  },
+  {
+    "english": "big",
+    "igbo": "nnukwu",
+    "category": "Adjective"
+  },
+  {
+    "english": "long",
+    "igbo": "ogologo",
+    "category": "Adjective"
+  },
+  {
+    "english": "wide",
+    "igbo": "obosara",
+    "category": "Adjective"
+  },
+  {
+    "english": "thick",
+    "igbo": "oké",
+    "category": "Adjective"
+  },
+  {
+    "english": "heavy",
+    "igbo": "arọ",
+    "category": "Adjective"
+  },
+  {
+    "english": "small",
+    "igbo": "obere",
+    "category": "Adjective"
+  },
+  {
+    "english": "short",
+    "igbo": "nkenke",
+    "category": "Adjective"
+  },
+  {
+    "english": "narrow",
+    "igbo": "warara",
+    "category": "Adjective"
+  },
+  {
+    "english": "thin",
+    "igbo": "mkpa",
+    "category": "Adjective"
+  },
+  {
+    "english": "warm",
+    "igbo": "na-ekpo ọkụ",
+    "category": "Adjective"
+  },
+  {
+    "english": "cold",
+    "igbo": "oyi",
+    "category": "Adjective"
+  },
+  {
+    "english": "full",
+    "igbo": "juputara",
+    "category": "Adjective"
+  },
+  {
+    "english": "new",
+    "igbo": "ọhụrụ",
+    "category": "Adjective"
+  },
+  {
+    "english": "old",
+    "igbo": "ochie",
+    "category": "Adjective"
+  },
+  {
+    "english": "good",
+    "igbo": "nke ọma",
+    "category": "Adjective"
+  },
+  {
+    "english": "bad",
+    "igbo": "ọjọọ",
+    "category": "Adjective"
+  },
+  {
+    "english": "rotten",
+    "igbo": "rere ure",
+    "category": "Adjective"
+  },
+  {
+    "english": "dirty",
+    "igbo": "ruru unyi",
+    "category": "Adjective"
+  },
+  {
+    "english": "straight",
+    "igbo": "Kwụ ọtọ",
+    "category": "Adjective"
+  },
+  {
+    "english": "round",
+    "igbo": "gburugburu",
+    "category": "Adjective"
+  },
+  {
+    "english": "sharp",
+    "igbo": "nkọ",
+    "category": "Adjective"
+  },
+  {
+    "english": "dull (as a knife)",
+    "igbo": "ogbu",
+    "category": "Adjective"
+  },
+  {
+    "english": "smooth",
+    "igbo": "ire ụtọ",
+    "category": "Adjective"
+  },
+  {
+    "english": "wet",
+    "igbo": "udu mmiri",
+    "category": "Adjective"
+  },
+  {
+    "english": "dry",
+    "igbo": "akọrọ",
+    "category": "Adjective"
+  },
+  {
+    "english": "correct",
+    "igbo": "ziri ezi",
+    "category": "Adjective"
+  },
+  {
+    "english": "near",
+    "igbo": "nso",
+    "category": "Adjective"
+  },
+  {
+    "english": "far",
+    "igbo": "anya",
+    "category": "Adjective"
+  },
+  {
+    "english": "how",
+    "igbo": "Kedu",
+    "category": "Adverb"
+  },
+  {
+    "english": "not",
+    "igbo": "ọ bụghị",
+    "category": "Adverb"
+  },
+  {
+    "english": "and",
+    "igbo": "na",
+    "category": "Conjunction"
+  },
+  {
+    "english": "if",
+    "igbo": "ọ bụrụ",
+    "category": "Conjunction"
+  },
+  {
+    "english": "because",
+    "igbo": "n'ihi na",
+    "category": "Conjunction"
+  },
+  {
+    "english": "one",
+    "igbo": "otu",
+    "category": "Noun"
+  },
+  {
+    "english": "two",
+    "igbo": "abuo",
+    "category": "Noun"
+  },
+  {
+    "english": "three",
+    "igbo": "atọ",
+    "category": "Noun"
+  },
+  {
+    "english": "four",
+    "igbo": "anọ",
+    "category": "Noun"
+  },
+  {
+    "english": "five",
+    "igbo": "ise",
+    "category": "Noun"
+  },
+  {
+    "english": "woman",
+    "igbo": "nwanyi",
+    "category": "Noun"
+  },
+  {
+    "english": "man (adult male)",
+    "igbo": "nwoke (oke nwoke)",
+    "category": "Noun"
+  },
+  {
+    "english": "man (human being)",
+    "igbo": "mmadụ (mmadụ)",
+    "category": "Noun"
+  },
+  {
+    "english": "child",
+    "igbo": "nwa",
+    "category": "Noun"
+  },
+  {
+    "english": "wife",
+    "igbo": "nwunye",
+    "category": "Noun"
+  },
+  {
+    "english": "husband",
+    "igbo": "di",
+    "category": "Noun"
+  },
+  {
+    "english": "mother",
+    "igbo": "nne",
+    "category": "Noun"
+  },
+  {
+    "english": "father",
+    "igbo": "nna",
+    "category": "Noun"
+  },
+  {
+    "english": "animal",
+    "igbo": "anụmanụ",
+    "category": "Noun"
+  },
+  {
+    "english": "fish",
+    "igbo": "azụ",
+    "category": "Noun"
+  },
+  {
+    "english": "bird",
+    "igbo": "nnụnụ",
+    "category": "Noun"
+  },
+  {
+    "english": "dog",
+    "igbo": "nkịta",
+    "category": "Noun"
+  },
+  {
+    "english": "louse",
+    "igbo": "owu",
+    "category": "Noun"
+  },
+  {
+    "english": "snake",
+    "igbo": "agwo",
+    "category": "Noun"
+  },
+  {
+    "english": "worm",
+    "igbo": "ikpuru",
+    "category": "Noun"
+  },
+  {
+    "english": "tree",
+    "igbo": "osisi",
+    "category": "Noun"
+  },
+  {
+    "english": "forest",
+    "igbo": "ọhịa",
+    "category": "Noun"
+  },
+  {
+    "english": "stick",
+    "igbo": "osisi",
+    "category": "Noun"
+  },
+  {
+    "english": "fruit",
+    "igbo": "mkpụrụ osisi",
+    "category": "Noun"
+  },
+  {
+    "english": "seed",
+    "igbo": "mkpụrụ",
+    "category": "Noun"
+  },
+  {
+    "english": "leaf",
+    "igbo": "akwukwo",
+    "category": "Noun"
+  },
+  {
+    "english": "root",
+    "igbo": "mgbọrọgwụ",
+    "category": "Noun"
+  },
+  {
+    "english": "bark (of a tree)",
+    "igbo": "ogbugbo (nke osisi)",
+    "category": "Noun"
+  },
+  {
+    "english": "flower",
+    "igbo": "ifuru",
+    "category": "Noun"
+  },
+  {
+    "english": "grass",
+    "igbo": "ahihia",
+    "category": "Noun"
+  },
+  {
+    "english": "rope",
+    "igbo": "eriri",
+    "category": "Noun"
+  },
+  {
+    "english": "skin",
+    "igbo": "akpụkpọ anụ",
+    "category": "Noun"
+  },
+  {
+    "english": "meat",
+    "igbo": "anụ",
+    "category": "Noun"
+  },
+  {
+    "english": "blood",
+    "igbo": "ọbara",
+    "category": "Noun"
+  },
+  {
+    "english": "bone",
+    "igbo": "ọkpụkpụ",
+    "category": "Noun"
+  },
+  {
+    "english": "fat (noun)",
+    "igbo": "abụba (aha)",
+    "category": "Noun"
+  },
+  {
+    "english": "egg",
+    "igbo": "akwa",
+    "category": "Noun"
+  },
+  {
+    "english": "horn",
+    "igbo": "mpi",
+    "category": "Noun"
+  },
+  {
+    "english": "tail",
+    "igbo": "ọdụ",
+    "category": "Noun"
+  },
+  {
+    "english": "feather",
+    "igbo": "nku",
+    "category": "Noun"
+  },
+  {
+    "english": "hair",
+    "igbo": "ntutu isi",
+    "category": "Noun"
+  },
+  {
+    "english": "head",
+    "igbo": "isi",
+    "category": "Noun"
+  },
+  {
+    "english": "ear",
+    "igbo": "nti",
+    "category": "Noun"
+  },
+  {
+    "english": "eye",
+    "igbo": "anya",
+    "category": "Noun"
+  },
+  {
+    "english": "nose",
+    "igbo": "imi",
+    "category": "Noun"
+  },
+  {
+    "english": "mouth",
+    "igbo": "ọnụ",
+    "category": "Noun"
+  },
+  {
+    "english": "tooth",
+    "igbo": "eze",
+    "category": "Noun"
+  },
+  {
+    "english": "tongue (organ)",
+    "igbo": "ire (ngwa)",
+    "category": "Noun"
+  },
+  {
+    "english": "fingernail",
+    "igbo": "mbọ aka",
+    "category": "Noun"
+  },
+  {
+    "english": "foot",
+    "igbo": "ukwu",
+    "category": "Noun"
+  },
+  {
+    "english": "leg",
+    "igbo": "ukwu",
+    "category": "Noun"
+  },
+  {
+    "english": "knee",
+    "igbo": "ikpere",
+    "category": "Noun"
+  },
+  {
+    "english": "hand",
+    "igbo": "aka",
+    "category": "Noun"
+  },
+  {
+    "english": "wing",
+    "igbo": "nku",
+    "category": "Noun"
+  },
+  {
+    "english": "belly",
+    "igbo": "afọ",
+    "category": "Noun"
+  },
+  {
+    "english": "guts",
+    "igbo": "eriri afọ",
+    "category": "Noun"
+  },
+  {
+    "english": "neck",
+    "igbo": "olu",
+    "category": "Noun"
+  },
+  {
+    "english": "back",
+    "igbo": "azụ",
+    "category": "Noun"
+  },
+  {
+    "english": "breast",
+    "igbo": "ara",
+    "category": "Noun"
+  },
+  {
+    "english": "heart",
+    "igbo": "obi",
+    "category": "Noun"
+  },
+  {
+    "english": "liver",
+    "igbo": "imeju",
+    "category": "Noun"
+  },
+  {
+    "english": "sun",
+    "igbo": "anyanwụ",
+    "category": "Noun"
+  },
+  {
+    "english": "moon",
+    "igbo": "ọnwa",
+    "category": "Noun"
+  },
+  {
+    "english": "star",
+    "igbo": "kpakpando",
+    "category": "Noun"
+  },
+  {
+    "english": "water",
+    "igbo": "mmiri",
+    "category": "Noun"
+  },
+  {
+    "english": "rain",
+    "igbo": "mmiri ozuzo",
+    "category": "Noun"
+  },
+  {
+    "english": "river",
+    "igbo": "osimiri",
+    "category": "Noun"
+  },
+  {
+    "english": "lake",
+    "igbo": "ọdọ mmiri",
+    "category": "Noun"
+  },
+  {
+    "english": "sea",
+    "igbo": "oké osimiri",
+    "category": "Noun"
+  },
+  {
+    "english": "salt",
+    "igbo": "nnu",
+    "category": "Noun"
+  },
+  {
+    "english": "stone",
+    "igbo": "nkume",
+    "category": "Noun"
+  },
+  {
+    "english": "sand",
+    "igbo": "ájá",
+    "category": "Noun"
+  },
+  {
+    "english": "dust",
+    "igbo": "uzuzu",
+    "category": "Noun"
+  },
+  {
+    "english": "earth",
+    "igbo": "ụwa",
+    "category": "Noun"
+  },
+  {
+    "english": "cloud",
+    "igbo": "igwe ojii",
+    "category": "Noun"
+  },
+  {
+    "english": "fog",
+    "igbo": "foogu",
+    "category": "Noun"
+  },
+  {
+    "english": "sky",
+    "igbo": "elu-igwe",
+    "category": "Noun"
+  },
+  {
+    "english": "wind",
+    "igbo": "ifufe",
+    "category": "Noun"
+  },
+  {
+    "english": "snow",
+    "igbo": "snow",
+    "category": "Noun"
+  },
+  {
+    "english": "ice",
+    "igbo": "ice",
+    "category": "Noun"
+  },
+  {
+    "english": "smoke",
+    "igbo": "anwụrụ",
+    "category": "Noun"
+  },
+  {
+    "english": "fire",
+    "igbo": "ọkụ",
+    "category": "Noun"
+  },
+  {
+    "english": "ash",
+    "igbo": "ntu",
+    "category": "Noun"
+  },
+  {
+    "english": "road",
+    "igbo": "okporo uzo",
+    "category": "Noun"
+  },
+  {
+    "english": "mountain",
+    "igbo": "ugwu",
+    "category": "Noun"
+  },
+  {
+    "english": "red",
+    "igbo": "uhie",
+    "category": "Noun"
+  },
+  {
+    "english": "green",
+    "igbo": "akwụkwọ ndụ akwụkwọ ndụ",
+    "category": "Noun"
+  },
+  {
+    "english": "yellow",
+    "igbo": "edo edo",
+    "category": "Noun"
+  },
+  {
+    "english": "white",
+    "igbo": "ọcha",
+    "category": "Noun"
+  },
+  {
+    "english": "black",
+    "igbo": "nwa",
+    "category": "Noun"
+  },
+  {
+    "english": "night",
+    "igbo": "abalị",
+    "category": "Noun"
+  },
+  {
+    "english": "day",
+    "igbo": "ụbọchị",
+    "category": "Noun"
+  },
+  {
+    "english": "year",
+    "igbo": "afọ",
+    "category": "Noun"
+  },
+  {
+    "english": "right",
+    "igbo": "nri",
+    "category": "Noun"
+  },
+  {
+    "english": "left",
+    "igbo": "aka ekpe",
+    "category": "Noun"
+  },
+  {
+    "english": "name",
+    "igbo": "aha",
+    "category": "Noun"
+  },
+  {
+    "english": "this",
+    "igbo": "nke a",
+    "category": "Preposition"
+  },
+  {
+    "english": "that",
+    "igbo": "na",
+    "category": "Preposition"
+  },
+  {
+    "english": "here",
+    "igbo": "Ebe a",
+    "category": "Preposition"
+  },
+  {
+    "english": "there",
+    "igbo": "Ebe ahụ",
+    "category": "Preposition"
+  },
+  {
+    "english": "who",
+    "igbo": "WHO",
+    "category": "Preposition"
+  },
+  {
+    "english": "what",
+    "igbo": "Kedu",
+    "category": "Preposition"
+  },
+  {
+    "english": "where",
+    "igbo": "ebee",
+    "category": "Preposition"
+  },
+  {
+    "english": "when",
+    "igbo": "mgbe ole",
+    "category": "Preposition"
+  },
+  {
+    "english": "at",
+    "igbo": "na",
+    "category": "Preposition"
+  },
+  {
+    "english": "in",
+    "igbo": "n'ime",
+    "category": "Preposition"
+  },
+  {
+    "english": "with",
+    "igbo": "ya na",
+    "category": "Preposition"
+  },
+  {
+    "english": "me",
+    "igbo": "m",
+    "category": "Pronoun"
+  },
+  {
+    "english": "you (singular)",
+    "igbo": "ị (otu)",
+    "category": "Pronoun"
+  },
+  {
+    "english": "he",
+    "igbo": "ọ",
+    "category": "Pronoun"
+  },
+  {
+    "english": "we",
+    "igbo": "anyi",
+    "category": "Pronoun"
+  },
+  {
+    "english": "you (plural)",
+    "igbo": "ị (ọtụtụ)",
+    "category": "Pronoun"
+  },
+  {
+    "english": "they",
+    "igbo": "ha",
+    "category": "Pronoun"
+  },
+  {
+    "english": "drink",
+    "igbo": "ṅụọ",
+    "category": "Verb"
+  },
+  {
+    "english": "eat",
+    "igbo": "rie",
+    "category": "Verb"
+  },
+  {
+    "english": "bite",
+    "igbo": "taa",
+    "category": "Verb"
+  },
+  {
+    "english": "suck",
+    "igbo": "nuo",
+    "category": "Verb"
+  },
+  {
+    "english": "spit",
+    "igbo": "gbaa ọnụ mmiri",
+    "category": "Verb"
+  },
+  {
+    "english": "vomit",
+    "igbo": "agbọ agbọ",
+    "category": "Verb"
+  },
+  {
+    "english": "blow",
+    "igbo": "ịfụ",
+    "category": "Verb"
+  },
+  {
+    "english": "breathe",
+    "igbo": "iku ume",
+    "category": "Verb"
+  },
+  {
+    "english": "laugh",
+    "igbo": "ochi",
+    "category": "Verb"
+  },
+  {
+    "english": "see",
+    "igbo": "hụ",
+    "category": "Verb"
+  },
+  {
+    "english": "hear",
+    "igbo": "nụ",
+    "category": "Verb"
+  },
+  {
+    "english": "know",
+    "igbo": "mara",
+    "category": "Verb"
+  },
+  {
+    "english": "think",
+    "igbo": "chee echiche",
+    "category": "Verb"
+  },
+  {
+    "english": "smell",
+    "igbo": "isi",
+    "category": "Verb"
+  },
+  {
+    "english": "fear",
+    "igbo": "egwu",
+    "category": "Verb"
+  },
+  {
+    "english": "sleep",
+    "igbo": "ura",
+    "category": "Verb"
+  },
+  {
+    "english": "live",
+    "igbo": "ibi ndụ",
+    "category": "Verb"
+  },
+  {
+    "english": "die",
+    "igbo": "anwụ",
+    "category": "Verb"
+  },
+  {
+    "english": "kill",
+    "igbo": "igbu",
+    "category": "Verb"
+  },
+  {
+    "english": "fight",
+    "igbo": "ọgụ",
+    "category": "Verb"
+  },
+  {
+    "english": "hunt",
+    "igbo": "ichu nta",
+    "category": "Verb"
+  },
+  {
+    "english": "hit",
+    "igbo": "see",
+    "category": "Verb"
+  },
+  {
+    "english": "cut",
+    "igbo": "bee",
+    "category": "Verb"
+  },
+  {
+    "english": "split",
+    "igbo": "Kewaa",
+    "category": "Verb"
+  },
+  {
+    "english": "stab",
+    "igbo": "ndumodu",
+    "category": "Verb"
+  },
+  {
+    "english": "scratch",
+    "igbo": "ọkọ",
+    "category": "Verb"
+  },
+  {
+    "english": "dig",
+    "igbo": "igwu",
+    "category": "Verb"
+  },
+  {
+    "english": "swim",
+    "igbo": "igwu mmiri",
+    "category": "Verb"
+  },
+  {
+    "english": "fly",
+    "igbo": "ofufe",
+    "category": "Verb"
+  },
+  {
+    "english": "walk",
+    "igbo": "ije",
+    "category": "Verb"
+  },
+  {
+    "english": "come",
+    "igbo": "bia",
+    "category": "Verb"
+  },
+  {
+    "english": "lie down",
+    "igbo": "dinara ala",
+    "category": "Verb"
+  },
+  {
+    "english": "sit",
+    "igbo": "nọdụ ala",
+    "category": "Verb"
+  },
+  {
+    "english": "stand",
+    "igbo": "guzoro",
+    "category": "Verb"
+  },
+  {
+    "english": "turn",
+    "igbo": "tụgharịa",
+    "category": "Verb"
+  },
+  {
+    "english": "fall",
+    "igbo": "daa",
+    "category": "Verb"
+  },
+  {
+    "english": "give",
+    "igbo": "nye",
+    "category": "Verb"
+  },
+  {
+    "english": "hold",
+    "igbo": "jide",
+    "category": "Verb"
+  },
+  {
+    "english": "squeeze",
+    "igbo": "afanyekwa",
+    "category": "Verb"
+  },
+  {
+    "english": "rub",
+    "igbo": "ite",
+    "category": "Verb"
+  },
+  {
+    "english": "wash",
+    "igbo": "saa",
+    "category": "Verb"
+  },
+  {
+    "english": "wipe",
+    "igbo": "hichapụ",
+    "category": "Verb"
+  },
+  {
+    "english": "pull",
+    "igbo": "Dọọ",
+    "category": "Verb"
+  },
+  {
+    "english": "push",
+    "igbo": "Kwaa",
+    "category": "Verb"
+  },
+  {
+    "english": "throw",
+    "igbo": "tufuo",
+    "category": "Verb"
+  },
+  {
+    "english": "tie",
+    "igbo": "tie",
+    "category": "Verb"
+  },
+  {
+    "english": "sew",
+    "igbo": "ịkwa akwa",
+    "category": "Verb"
+  },
+  {
+    "english": "count",
+    "igbo": "gụọ",
+    "category": "Verb"
+  },
+  {
+    "english": "say",
+    "igbo": "kwuo",
+    "category": "Verb"
+  },
+  {
+    "english": "sing",
+    "igbo": "gwuo egwu",
+    "category": "Verb"
+  },
+  {
+    "english": "play",
+    "igbo": "gwuo egwu",
+    "category": "Verb"
+  },
+  {
+    "english": "float",
+    "igbo": "sere n'elu",
+    "category": "Verb"
+  },
+  {
+    "english": "flow",
+    "igbo": "eruba",
+    "category": "Verb"
+  },
+  {
+    "english": "freeze",
+    "igbo": "ifriizi",
+    "category": "Verb"
+  },
+  {
+    "english": "swell",
+    "igbo": "zaa",
+    "category": "Verb"
+  },
+  {
+    "english": "burn",
+    "igbo": "ọkụ",
+    "category": "Verb"
+  },
+  {
+    "english": "be",
+    "igbo": "bụrụ",
+    "category": "Verb"
+  }
+]
