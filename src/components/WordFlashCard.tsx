@@ -48,11 +48,11 @@ const WordFlashCard: React.FC = () => {
   }[currentWord.category.toLowerCase()];
 
   return (
-    <div className="flex flex-col items-center justify-center h-screen">
+    <div className="flex flex-col items-center justify-center h-screen bg-primary">
       <div
         className={clsx(
           "max-w-sm mx-auto py-16 px-8 border rounded shadow-lg text-center cursor-pointer gap-8",
-          "flex flex-col items-center justify-center rounded-lg shadow-lg min-w-64",
+          "flex flex-col items-center justify-center rounded-lg shadow-lg min-w-64 border-2 border-gray-700",
           backgroundColor
         )}
         onClick={handleCardClick}

@@ -14,7 +14,11 @@ export default {
         "sans-serif",
       ],
     },
-    extend: {},
+    extend: {
+      colors: {
+        primary: "#BB017A",
+      },
+    },
   },
   plugins: [require("tailwindcss-animate")],
 };
