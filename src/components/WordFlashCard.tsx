@@ -58,11 +58,11 @@ const WordFlashCard: React.FC = () => {
   return (
     <div
       ref={ref}
-      className="flex flex-col items-center justify-center h-screen bg-primary"
+      className="flex flex-col items-center justify-center h-screen bg-primary gap-2"
     >
       <div
         className={clsx(
-          "max-w-sm mx-auto py-16 px-8 border rounded shadow-lg text-center cursor-pointer gap-8",
+          "max-w-sm mx-auto py-16 px-8 border rounded shadow-lg text-center cursor-pointer gap-8 relative",
           "flex flex-col items-center justify-center rounded-lg shadow-lg min-w-64 border-2 border-gray-700 select-none",
           backgroundColor
         )}
@@ -76,6 +76,9 @@ const WordFlashCard: React.FC = () => {
             Revealing in {countdown}...
           </p>
         )}
+      </div>
+      <div className="h-8 px-4 py-2 bg-black text-white flex items-center justify-center">
+        {currentWord.category}
       </div>
     </div>
   );
