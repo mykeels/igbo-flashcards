@@ -1,3 +1,4 @@
+import { hasTouch } from "@/utils/touch";
 import { useEffect, useRef, useState } from "react";
 
 /**
@@ -10,6 +11,9 @@ export const useMouseHold = () => {
   const ref = useRef<HTMLDivElement>(null);
   const [isHeld, setIsHeld] = useState(false);
 
+  const mouseUpEventName = hasTouch() ? "touchend" : "mouseup";
+  const mouseDownEventName = hasTouch() ? "touchstart" : "mousedown";
+
   useEffect(() => {
     const handleMouseDown = () => {
       setIsHeld(true);
@@ -20,14 +24,14 @@ export const useMouseHold = () => {
     const element = ref.current;
 
     if (element) {
-      element.addEventListener("mousedown", handleMouseDown);
-      element.addEventListener("mouseup", handleMouseUp);
+      element.addEventListener(mouseDownEventName, handleMouseDown);
+      element.addEventListener(mouseUpEventName, handleMouseUp);
     }
 
     return () => {
       if (element) {
-        element.removeEventListener("mousedown", handleMouseDown);
-        element.removeEventListener("mouseup", handleMouseUp);
+        element.removeEventListener(mouseDownEventName, handleMouseDown);
+        element.removeEventListener(mouseUpEventName, handleMouseUp);
       }
     };
   }, []);
