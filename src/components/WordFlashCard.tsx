@@ -3,6 +3,7 @@ import React, { useState, useEffect } from "react";
 import { clsx } from "clsx";
 import { createRootRoute } from "@tanstack/react-router";
 import words from "../data/words.json";
+import { useMouseHold } from "@/hooks/useMouseHold.hook";
 
 // Define the WordCard component
 const WordFlashCard: React.FC = () => {
@@ -15,16 +16,23 @@ const WordFlashCard: React.FC = () => {
     return words[Math.floor(Math.random() * words.length)];
   }
 
+  const { ref, isHeld } = useMouseHold();
+
   // Effect to handle the countdown
   useEffect(() => {
+    if (isHeld) {
+      return;
+    }
     if (countdown === 0) {
       setShowIgbo(true);
       return;
     }
 
-    const timer = setTimeout(() => setCountdown(countdown - 1), 1000);
+    const timer = setTimeout(() => {
+      setCountdown(countdown - 1);
+    }, 1000);
     return () => clearTimeout(timer);
-  }, [countdown]);
+  }, [countdown, isHeld]);
 
   // Function to handle card click
   const handleCardClick = () => {
@@ -48,11 +56,14 @@ const WordFlashCard: React.FC = () => {
   }[currentWord.category.toLowerCase()];
 
   return (
-    <div className="flex flex-col items-center justify-center h-screen bg-primary">
+    <div
+      ref={ref}
+      className="flex flex-col items-center justify-center h-screen bg-primary"
+    >
       <div
         className={clsx(
           "max-w-sm mx-auto py-16 px-8 border rounded shadow-lg text-center cursor-pointer gap-8",
-          "flex flex-col items-center justify-center rounded-lg shadow-lg min-w-64 border-2 border-gray-700",
+          "flex flex-col items-center justify-center rounded-lg shadow-lg min-w-64 border-2 border-gray-700 select-none",
           backgroundColor
         )}
         onClick={handleCardClick}
