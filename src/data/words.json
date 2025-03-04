@@ -2,1061 +2,4029 @@
   {
     "english": "all",
     "igbo": "niile",
-    "category": "Adjective"
+    "category": "Adjective",
+    "examples": [
+      {
+        "english": "All the students are here.",
+        "igbo": "ụmụ akwụkwọ niile nọ ebe a"
+      },
+      {
+        "english": "All the books are on the table.",
+        "igbo": "akwụkwọ niile dị na tebụl"
+      },
+      {
+        "english": "She ate all the food.",
+        "igbo": "ọ riri nri niile"
+      }
+    ]
   },
   {
     "english": "many",
     "igbo": "ọtụtụ",
-    "category": "Adjective"
+    "category": "Adjective",
+    "examples": [
+      {
+        "english": "Many people came to the party.",
+        "igbo": "ọtụtụ mmadụ bịara na emume"
+      },
+      {
+        "english": "There are many stars in the sky.",
+        "igbo": "e nwere ọtụtụ kpakpando n'elu igwe"
+      },
+      {
+        "english": "He has many friends.",
+        "igbo": "ọ nwere ọtụtụ enyi"
+      }
+    ]
   },
   {
     "english": "some",
     "igbo": "ụfọdụ",
-    "category": "Adjective"
+    "category": "Adjective",
+    "examples": [
+      {
+        "english": "Some students are absent today.",
+        "igbo": "ụfọdụ ụmụ akwụkwọ adịghị taa"
+      },
+      {
+        "english": "I need some water.",
+        "igbo": "achọrọ m ụfọdụ mmiri"
+      },
+      {
+        "english": "Some of the apples are ripe.",
+        "igbo": "ụfọdụ n'ime apụl dị ọka"
+      }
+    ]
   },
   {
     "english": "few",
-    "igbo": "ole na ole",
-    "category": "Adjective"
+    "igbo": "ọ̀lé nà ọ̀lé",
+    "category": "Adjective",
+    "examples": [
+      {
+        "english": "Few people attended the meeting.",
+        "igbo": "Ọ̀lé nà ọ̀lé mmadụ bịara nzukọ ahụ."
+      },
+      {
+        "english": "There are few apples left.",
+        "igbo": "Ọ̀lé nà ọ̀lé apụl fọdụrụ."
+      },
+      {
+        "english": "Few students passed the exam.",
+        "igbo": "Ọ̀lé nà ọ̀lé ụmụ akwụkwọ gafere ule ahụ."
+      }
+    ]
   },
   {
     "english": "other",
-    "igbo": "ọzọ",
-    "category": "Adjective"
+    "igbo": "ọ̀zọ",
+    "category": "Adjective",
+    "examples": [
+      {
+        "english": "The other book is on the shelf.",
+        "igbo": "Akwụkwọ ọzọ dị na shelf."
+      },
+      {
+        "english": "She has other plans for the weekend.",
+        "igbo": "Ọ nwere atụmatụ ọzọ maka ngwụsị izu."
+      },
+      {
+        "english": "Do you have any other questions?",
+        "igbo": "Ị nwere ajụjụ ọzọ ọ bụla?"
+      }
+    ]
   },
   {
     "english": "big",
     "igbo": "nnukwu",
-    "category": "Adjective"
+    "category": "Adjective",
+    "examples": [
+      {
+        "english": "The big dog barked loudly.",
+        "igbo": "Nkịta nnukwu kwara mkpu."
+      },
+      {
+        "english": "He lives in a big house.",
+        "igbo": "Ọ bi n'ụlọ nnukwu."
+      },
+      {
+        "english": "The big tree provides shade.",
+        "igbo": "Osisi nnukwu na-enye ndò."
+      }
+    ]
   },
   {
     "english": "long",
     "igbo": "ogologo",
-    "category": "Adjective"
+    "category": "Adjective",
+    "examples": [
+      {
+        "english": "The road is long.",
+        "igbo": "Ụzọ ahụ dị ogologo."
+      },
+      {
+        "english": "He wrote a long letter.",
+        "igbo": "Ọ dere akwụkwọ ozi ogologo."
+      },
+      {
+        "english": "The snake is long.",
+        "igbo": "Agwọ ahụ dị ogologo."
+      }
+    ]
   },
   {
     "english": "wide",
     "igbo": "obosara",
-    "category": "Adjective"
+    "category": "Adjective",
+    "examples": [
+      {
+        "english": "The river is wide.",
+        "igbo": "Osimiri ahụ dị obosara."
+      },
+      {
+        "english": "He has a wide smile.",
+        "igbo": "Ọ nwere ọchị obosara."
+      },
+      {
+        "english": "The street is wide.",
+        "igbo": "Okporo ụzọ ahụ dị obosara."
+      }
+    ]
   },
   {
     "english": "thick",
     "igbo": "oké",
-    "category": "Adjective"
+    "category": "Adjective",
+    "examples": [
+      {
+        "english": "The book is thick.",
+        "igbo": "Akwụkwọ ahụ dị oké."
+      },
+      {
+        "english": "The forest is thick.",
+        "igbo": "Ọhịa ahụ dị oké."
+      },
+      {
+        "english": "The soup is thick.",
+        "igbo": "Nri ahụ dị oké."
+      }
+    ]
   },
   {
     "english": "heavy",
     "igbo": "arọ",
-    "category": "Adjective"
+    "category": "Adjective",
+    "examples": [
+      {
+        "english": "The box is heavy.",
+        "igbo": "Igbe ahụ dị arọ."
+      },
+      {
+        "english": "He carried a heavy load.",
+        "igbo": "Ọ bu ibu arọ."
+      },
+      {
+        "english": "The rain is heavy.",
+        "igbo": "Mmiri ozuzo ahụ dị arọ."
+      }
+    ]
   },
   {
     "english": "small",
     "igbo": "obere",
-    "category": "Adjective"
+    "category": "Adjective",
+    "examples": [
+      {
+        "english": "The small cat is cute.",
+        "igbo": "Nwa nkịta obere mara mma."
+      },
+      {
+        "english": "He lives in a small apartment.",
+        "igbo": "Ọ bi n'ụlọ obere."
+      },
+      {
+        "english": "The small gift was appreciated.",
+        "igbo": "Ekele ekele maka onyinye obere."
+      }
+    ]
   },
   {
     "english": "short",
     "igbo": "nkenke",
-    "category": "Adjective"
+    "category": "Adjective",
+    "examples": [
+      {
+        "english": "The meeting was short.",
+        "igbo": "Nzukọ ahụ dị nkenke."
+      },
+      {
+        "english": "He gave a short speech.",
+        "igbo": "Ọ kwuputara okwu nkenke."
+      },
+      {
+        "english": "The short story was interesting.",
+        "igbo": "Akụkọ nkenke ahụ na-atọ ụtọ."
+      }
+    ]
   },
   {
     "english": "narrow",
     "igbo": "warara",
-    "category": "Adjective"
+    "category": "Adjective",
+    "examples": [
+      {
+        "english": "The path is narrow.",
+        "igbo": "Ụzọ ahụ dị warara."
+      },
+      {
+        "english": "He has a narrow view.",
+        "igbo": "Ọ nwere echiche warara."
+      },
+      {
+        "english": "The narrow bridge is dangerous.",
+        "igbo": "Afọ warara ahụ dị ize ndụ."
+      }
+    ]
   },
   {
     "english": "thin",
     "igbo": "mkpa",
-    "category": "Adjective"
+    "category": "Adjective",
+    "examples": [
+      {
+        "english": "The paper is thin.",
+        "igbo": "Akwụkwọ ahụ dị mkpa."
+      },
+      {
+        "english": "He is thin and tall.",
+        "igbo": "Ọ dị mkpa na ogologo."
+      },
+      {
+        "english": "The thin ice is fragile.",
+        "igbo": "Ice mkpa ahụ dị mfe ịgbaji."
+      }
+    ]
   },
   {
     "english": "warm",
     "igbo": "na-ekpo ọkụ",
-    "category": "Adjective"
+    "category": "Adjective",
+    "examples": [
+      {
+        "english": "The soup is warm.",
+        "igbo": "Nri ahụ na-ekpo ọkụ."
+      },
+      {
+        "english": "He gave a warm welcome.",
+        "igbo": "Ọ nyere nnabata na-ekpo ọkụ."
+      },
+      {
+        "english": "The weather is warm today.",
+        "igbo": "Ọdịdị ihu igwe na-ekpo ọkụ taa."
+      }
+    ]
   },
   {
     "english": "cold",
     "igbo": "oyi",
-    "category": "Adjective"
+    "category": "Adjective",
+    "examples": [
+      {
+        "english": "The water is cold.",
+        "igbo": "Mmiri ahụ dị oyi."
+      },
+      {
+        "english": "He caught a cold.",
+        "igbo": "Ọ jidere oyi."
+      },
+      {
+        "english": "The cold wind is blowing.",
+        "igbo": "Ifufe oyi na-efụ."
+      }
+    ]
   },
   {
     "english": "full",
     "igbo": "juputara",
-    "category": "Adjective"
+    "category": "Adjective",
+    "examples": [
+      {
+        "english": "The glass is full.",
+        "igbo": "Iko ahụ juputara."
+      },
+      {
+        "english": "He is full of energy.",
+        "igbo": "Ọ juputara na ume."
+      },
+      {
+        "english": "The room is full of people.",
+        "igbo": "Ụlọ ahụ juputara na mmadụ."
+      }
+    ]
   },
   {
     "english": "new",
     "igbo": "ọhụrụ",
-    "category": "Adjective"
+    "category": "Adjective",
+    "examples": [
+      {
+        "english": "The car is new.",
+        "igbo": "Ụgbọ ala ahụ bụ ọhụrụ."
+      },
+      {
+        "english": "He has a new job.",
+        "igbo": "Ọ nwere ọrụ ọhụrụ."
+      },
+      {
+        "english": "The new book is interesting.",
+        "igbo": "Akwụkwọ ọhụrụ ahụ na-atọ ụtọ."
+      }
+    ]
   },
   {
     "english": "old",
     "igbo": "ochie",
-    "category": "Adjective"
+    "category": "Adjective",
+    "examples": [
+      {
+        "english": "The house is old.",
+        "igbo": "Ụlọ ahụ bụ ochie."
+      },
+      {
+        "english": "He is an old friend.",
+        "igbo": "Ọ bụ enyi ochie."
+      },
+      {
+        "english": "The old tree is still standing.",
+        "igbo": "Osisi ochie ahụ ka na-eguzo."
+      }
+    ]
   },
   {
     "english": "good",
     "igbo": "nke ọma",
-    "category": "Adjective"
+    "category": "Adjective",
+    "examples": [
+      {
+        "english": "The food is good.",
+        "igbo": "Nri ahụ dị mma."
+      },
+      {
+        "english": "He is a good person.",
+        "igbo": "Ọ bụ mmadụ ọma."
+      },
+      {
+        "english": "The movie was good.",
+        "igbo": "Ihe nkiri ahụ dị mma."
+      }
+    ]
   },
   {
     "english": "bad",
     "igbo": "ọjọọ",
-    "category": "Adjective"
+    "category": "Adjective",
+    "examples": [
+      {
+        "english": "The weather is bad.",
+        "igbo": "Ọdịdị ihu igwe dị ọjọọ."
+      },
+      {
+        "english": "He made a bad decision.",
+        "igbo": "Ọ mere mkpebi ọjọọ."
+      },
+      {
+        "english": "The food tastes bad.",
+        "igbo": "Nri ahụ na-atọ ọjọọ."
+      }
+    ]
   },
   {
     "english": "rotten",
     "igbo": "rere ure",
-    "category": "Adjective"
+    "category": "Adjective",
+    "examples": [
+      {
+        "english": "The fruit is rotten.",
+        "igbo": "Mkpụrụ osisi ahụ rere ure."
+      },
+      {
+        "english": "He found a rotten egg.",
+        "igbo": "Ọ chọtara akwa rere ure."
+      },
+      {
+        "english": "The meat smells rotten.",
+        "igbo": "Anụ ahụ na-esi rere ure."
+      }
+    ]
   },
   {
     "english": "dirty",
     "igbo": "ruru unyi",
-    "category": "Adjective"
+    "category": "Adjective",
+    "examples": [
+      {
+        "english": "The floor is dirty.",
+        "igbo": "Ala ahụ ruru unyi."
+      },
+      {
+        "english": "He wore dirty clothes.",
+        "igbo": "Ọ yi uwe ruru unyi."
+      },
+      {
+        "english": "The water looks dirty.",
+        "igbo": "Mmiri ahụ na-ele anya ruru unyi."
+      }
+    ]
   },
   {
     "english": "straight",
     "igbo": "Kwụ ọtọ",
-    "category": "Adjective"
+    "category": "Adjective",
+    "examples": [
+      {
+        "english": "The road is straight.",
+        "igbo": "Ụzọ ahụ kwụ ọtọ."
+      },
+      {
+        "english": "He gave a straight answer.",
+        "igbo": "Ọ nyere azịza kwụ ọtọ."
+      },
+      {
+        "english": "The line is straight.",
+        "igbo": "Ahịrị ahụ kwụ ọtọ."
+      }
+    ]
   },
   {
     "english": "round",
     "igbo": "gburugburu",
-    "category": "Adjective"
+    "category": "Adjective",
+    "examples": [
+      {
+        "english": "The table is round.",
+        "igbo": "Tebụl ahụ bụ gburugburu."
+      },
+      {
+        "english": "He drew a round circle.",
+        "igbo": "Ọ dọrọ gburugburu."
+      },
+      {
+        "english": "The ball is round.",
+        "igbo": "Bọọlụ ahụ bụ gburugburu."
+      }
+    ]
   },
   {
     "english": "sharp",
     "igbo": "nkọ",
-    "category": "Adjective"
+    "category": "Adjective",
+    "examples": [
+      {
+        "english": "The knife is sharp.",
+        "igbo": "Mma ahụ dị nkọ."
+      },
+      {
+        "english": "He has a sharp mind.",
+        "igbo": "Ọ nwere uche nkọ."
+      },
+      {
+        "english": "The sharp edge cut him.",
+        "igbo": "Nkọ nkịtị ahụ kpara ya."
+      }
+    ]
   },
   {
     "english": "dull (as a knife)",
     "igbo": "ogbu",
-    "category": "Adjective"
+    "category": "Adjective",
+    "examples": [
+      {
+        "english": "The knife is dull.",
+        "igbo": "Mma ahụ bụ ogbu."
+      },
+      {
+        "english": "He used a dull blade.",
+        "igbo": "Ọ jiri mma ogbu."
+      },
+      {
+        "english": "The dull tool is hard to use.",
+        "igbo": "Ngwaọrụ ogbu ahụ siri ike iji."
+      }
+    ]
   },
   {
     "english": "smooth",
     "igbo": "ire ụtọ",
-    "category": "Adjective"
+    "category": "Adjective",
+    "examples": [
+      {
+        "english": "The surface is smooth.",
+        "igbo": "Elu ahụ dị ire ụtọ."
+      },
+      {
+        "english": "He has smooth skin.",
+        "igbo": "Ọ nwere akpụkpọ anụ ire ụtọ."
+      },
+      {
+        "english": "The transition was smooth.",
+        "igbo": "Mgbanwe ahụ dị ire ụtọ."
+      }
+    ]
   },
   {
     "english": "wet",
     "igbo": "udu mmiri",
-    "category": "Adjective"
+    "category": "Adjective",
+    "examples": [
+      {
+        "english": "The ground is wet.",
+        "igbo": "Ala ahụ dị udu mmiri."
+      },
+      {
+        "english": "He wore wet clothes.",
+        "igbo": "Ọ yi uwe udu mmiri."
+      },
+      {
+        "english": "The wet towel is on the floor.",
+        "igbo": "Tọwala udu mmiri dị na ala."
+      }
+    ]
   },
   {
     "english": "dry",
     "igbo": "akọrọ",
-    "category": "Adjective"
+    "category": "Adjective",
+    "examples": [
+      {
+        "english": "The clothes are dry.",
+        "igbo": "Uwe ahụ akọrọ."
+      },
+      {
+        "english": "He has dry skin.",
+        "igbo": "Ọ nwere akpụkpọ anụ akọrọ."
+      },
+      {
+        "english": "The dry season is here.",
+        "igbo": "Oge akọrọ abịarutela."
+      }
+    ]
   },
   {
     "english": "correct",
     "igbo": "ziri ezi",
-    "category": "Adjective"
+    "category": "Adjective",
+    "examples": [
+      {
+        "english": "The answer is correct.",
+        "igbo": "Azịza ahụ ziri ezi."
+      },
+      {
+        "english": "He made the correct choice.",
+        "igbo": "Ọ họpụtara nke ziri ezi."
+      },
+      {
+        "english": "The correct spelling is important.",
+        "igbo": "Ịkpọpụta okwu ziri ezi dị mkpa."
+      }
+    ]
   },
   {
     "english": "near",
     "igbo": "nso",
-    "category": "Adjective"
+    "category": "Adjective",
+    "examples": [
+      {
+        "english": "The school is near.",
+        "igbo": "Ụlọ akwụkwọ ahụ dị nso."
+      },
+      {
+        "english": "He lives near the market.",
+        "igbo": "Ọ bi nso ahịa."
+      },
+      {
+        "english": "The park is near my house.",
+        "igbo": "Ogige ahụ dị nso n'ụlọ m."
+      }
+    ]
   },
   {
     "english": "far",
     "igbo": "anya",
-    "category": "Adjective"
+    "category": "Adjective",
+    "examples": [
+      {
+        "english": "The city is far.",
+        "igbo": "Obodo ahụ dị anya."
+      },
+      {
+        "english": "He traveled far from home.",
+        "igbo": "Ọ gara njem anya site n'ụlọ."
+      },
+      {
+        "english": "The mountain is far away.",
+        "igbo": "Ugwu ahụ dị anya."
+      }
+    ]
   },
   {
     "english": "how",
     "igbo": "Kedu",
-    "category": "Adverb"
+    "category": "Adverb",
+    "examples": [
+      {
+        "english": "How are you?",
+        "igbo": "Kedu ka ị mere?"
+      },
+      {
+        "english": "How does it work?",
+        "igbo": "Kedu ka ọ si arụ ọrụ?"
+      },
+      {
+        "english": "How did you do it?",
+        "igbo": "Kedu ka ị si mee ya?"
+      }
+    ]
   },
   {
     "english": "not",
     "igbo": "ọ bụghị",
-    "category": "Adverb"
+    "category": "Adverb",
+    "examples": [
+      {
+        "english": "I am not hungry.",
+        "igbo": "A naghị m agụụ."
+      },
+      {
+        "english": "He is not coming.",
+        "igbo": "Ọ bụghị na-abịa."
+      },
+      {
+        "english": "It is not raining.",
+        "igbo": "Ọ bụghị na-ezo mmiri."
+      }
+    ]
   },
   {
     "english": "and",
     "igbo": "na",
-    "category": "Conjunction"
+    "category": "Conjunction",
+    "examples": [
+      {
+        "english": "He and I are friends.",
+        "igbo": "Ọ na m bụ enyi."
+      },
+      {
+        "english": "Bread and butter.",
+        "igbo": "Achịcha na bọta."
+      },
+      {
+        "english": "Cats and dogs.",
+        "igbo": "Nwa nkịta na nkịta."
+      }
+    ]
   },
   {
     "english": "if",
     "igbo": "ọ bụrụ",
-    "category": "Conjunction"
+    "category": "Conjunction",
+    "examples": [
+      {
+        "english": "If it rains, we will stay inside.",
+        "igbo": "Ọ bụrụ na ọ na-ezo mmiri, anyị ga-anọ n'ime."
+      },
+      {
+        "english": "If you come, I will be happy.",
+        "igbo": "Ọ bụrụ na ị bịa, obi ga-atọ m ụtọ."
+      },
+      {
+        "english": "If he calls, let me know.",
+        "igbo": "Ọ bụrụ na ọ kpọọ, gwa m."
+      }
+    ]
   },
   {
     "english": "because",
     "igbo": "n'ihi na",
-    "category": "Conjunction"
+    "category": "Conjunction",
+    "examples": [
+      {
+        "english": "I am happy because you are here.",
+        "igbo": "Ọ bụ n'ihi na ị nọ ebe a ka m ji nwee obi ụtọ."
+      },
+      {
+        "english": "He left because it was late.",
+        "igbo": "Ọ hapụrụ n'ihi na ọ dị n'abalị."
+      },
+      {
+        "english": "She cried because she was sad.",
+        "igbo": "Ọ kwara akwa n'ihi na obi dị ya ụtọ."
+      }
+    ]
   },
   {
     "english": "one",
     "igbo": "otu",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "One apple is left.",
+        "igbo": "Otu apụl fọdụrụ."
+      },
+      {
+        "english": "He is one of a kind.",
+        "igbo": "Ọ bụ otu n'ime ụdị."
+      },
+      {
+        "english": "One day, I will travel.",
+        "igbo": "Otu ụbọchị, aga m aga njem."
+      }
+    ]
   },
   {
     "english": "two",
     "igbo": "abuo",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "I have two brothers.",
+        "igbo": "Enwere m ụmụnna abụọ."
+      },
+      {
+        "english": "Two birds are flying.",
+        "igbo": "Nnụnụ abụọ na-efe."
+      },
+      {
+        "english": "He bought two books.",
+        "igbo": "Ọ zụtara akwụkwọ abụọ."
+      }
+    ]
   },
   {
     "english": "three",
     "igbo": "atọ",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "Three cats are playing.",
+        "igbo": "Nwa nkịta atọ na-egwu egwu."
+      },
+      {
+        "english": "He has three cars.",
+        "igbo": "Ọ nwere ụgbọ ala atọ."
+      },
+      {
+        "english": "Three days have passed.",
+        "igbo": "Ụbọchị atọ agafeela."
+      }
+    ]
   },
   {
     "english": "four",
     "igbo": "anọ",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "Four students are absent.",
+        "igbo": "Ụmụ akwụkwọ anọ adịghị."
+      },
+      {
+        "english": "He has four sisters.",
+        "igbo": "Ọ nwere ụmụnne nwanyị anọ."
+      },
+      {
+        "english": "Four chairs are in the room.",
+        "igbo": "Oche anọ dị n'ụlọ ahụ."
+      }
+    ]
   },
   {
     "english": "five",
     "igbo": "ise",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "Five apples are on the table.",
+        "igbo": "Apụl ise dị na tebụl."
+      },
+      {
+        "english": "He has five friends.",
+        "igbo": "Ọ nwere enyi ise."
+      },
+      {
+        "english": "Five days remain.",
+        "igbo": "Ụbọchị ise fọdụrụ."
+      }
+    ]
   },
   {
     "english": "woman",
     "igbo": "nwanyi",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The woman is kind.",
+        "igbo": "Nwanyi ahụ dị obiọma."
+      },
+      {
+        "english": "She is a strong woman.",
+        "igbo": "Ọ bụ nwanyi ike."
+      },
+      {
+        "english": "The woman is cooking.",
+        "igbo": "Nwanyi ahụ na-esi nri."
+      }
+    ]
   },
   {
     "english": "man (adult male)",
     "igbo": "nwoke (oke nwoke)",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The man is tall.",
+        "igbo": "Nwoke ahụ dị ogologo."
+      },
+      {
+        "english": "He is a brave man.",
+        "igbo": "Ọ bụ nwoke obi ike."
+      },
+      {
+        "english": "The man is working.",
+        "igbo": "Nwoke ahụ na-arụ ọrụ."
+      }
+    ]
   },
   {
     "english": "man (human being)",
     "igbo": "mmadụ (mmadụ)",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "Man is a social being.",
+        "igbo": "Mmadụ bụ anụ ọhịa mmekọrịta."
+      },
+      {
+        "english": "He is a good man.",
+        "igbo": "Ọ bụ mmadụ ọma."
+      },
+      {
+        "english": "Man has evolved over time.",
+        "igbo": "Mmadụ agbanweela n'oge."
+      }
+    ]
   },
   {
     "english": "child",
     "igbo": "nwa",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The child is playing.",
+        "igbo": "Nwa ahụ na-egwu egwu."
+      },
+      {
+        "english": "She is a happy child.",
+        "igbo": "Ọ bụ nwa obi ụtọ."
+      },
+      {
+        "english": "The child is sleeping.",
+        "igbo": "Nwa ahụ na-ehi ụra."
+      }
+    ]
   },
   {
     "english": "wife",
     "igbo": "nwunye",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "His wife is kind.",
+        "igbo": "Nwunye ya dị obiọma."
+      },
+      {
+        "english": "She is a supportive wife.",
+        "igbo": "Ọ bụ nwunye nkwado."
+      },
+      {
+        "english": "The wife is cooking dinner.",
+        "igbo": "Nwunye ahụ na-esi nri abalị."
+      }
+    ]
   },
   {
     "english": "husband",
     "igbo": "di",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "Her husband is caring.",
+        "igbo": "Di ya na-elekọta."
+      },
+      {
+        "english": "He is a loving husband.",
+        "igbo": "Ọ bụ di hụrụ n'anya."
+      },
+      {
+        "english": "The husband is fixing the car.",
+        "igbo": "Di ahụ na-emezi ụgbọ ala."
+      }
+    ]
   },
   {
     "english": "mother",
     "igbo": "nne",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The mother is singing.",
+        "igbo": "Nne ahụ na-agụ egwu."
+      },
+      {
+        "english": "She is a caring mother.",
+        "igbo": "Ọ bụ nne na-elekọta."
+      },
+      {
+        "english": "The mother is teaching her child.",
+        "igbo": "Nne ahụ na-akụziri nwa ya."
+      }
+    ]
   },
   {
     "english": "father",
     "igbo": "nna",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The father is reading.",
+        "igbo": "Nna ahụ na-agụ akwụkwọ."
+      },
+      {
+        "english": "He is a responsible father.",
+        "igbo": "Ọ bụ nna na-ahụ maka ọrụ."
+      },
+      {
+        "english": "The father is playing with his children.",
+        "igbo": "Nna ahụ na-egwu egwu na ụmụ ya."
+      }
+    ]
   },
   {
     "english": "animal",
     "igbo": "anụmanụ",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The animal is wild.",
+        "igbo": "Anụmanụ ahụ bụ anụ ọhịa."
+      },
+      {
+        "english": "He loves animals.",
+        "igbo": "Ọ hụrụ anụmanụ n'anya."
+      },
+      {
+        "english": "The animal is sleeping.",
+        "igbo": "Anụmanụ ahụ na-ehi ụra."
+      }
+    ]
   },
   {
     "english": "fish",
     "igbo": "azụ",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The fish is swimming.",
+        "igbo": "Azụ ahụ na-egwu mmiri."
+      },
+      {
+        "english": "He caught a big fish.",
+        "igbo": "Ọ jidere azụ nnukwu."
+      },
+      {
+        "english": "The fish is tasty.",
+        "igbo": "Azụ ahụ na-atọ ụtọ."
+      }
+    ]
   },
   {
     "english": "bird",
     "igbo": "nnụnụ",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The bird is singing.",
+        "igbo": "Nnụnụ ahụ na-agụ egwu."
+      },
+      {
+        "english": "He saw a colorful bird.",
+        "igbo": "Ọ hụrụ nnụnụ nwere agba."
+      },
+      {
+        "english": "The bird is flying.",
+        "igbo": "Nnụnụ ahụ na-efe."
+      }
+    ]
   },
   {
     "english": "dog",
     "igbo": "nkịta",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The dog is barking.",
+        "igbo": "Nkịta ahụ na-akpọ."
+      },
+      {
+        "english": "He has a friendly dog.",
+        "igbo": "Ọ nwere nkịta enyi."
+      },
+      {
+        "english": "The dog is playing in the yard.",
+        "igbo": "Nkịta ahụ na-egwu egwu n'ubi."
+      }
+    ]
   },
   {
     "english": "louse",
     "igbo": "owu",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The louse is small.",
+        "igbo": "Owu ahụ dị obere."
+      },
+      {
+        "english": "He found a louse in his hair.",
+        "igbo": "Ọ chọtara owu n'isi ya."
+      },
+      {
+        "english": "The louse is hard to see.",
+        "igbo": "Owu ahụ siri ike ịhụ."
+      }
+    ]
   },
   {
     "english": "snake",
     "igbo": "agwo",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The snake is long.",
+        "igbo": "Agwọ ahụ dị ogologo."
+      },
+      {
+        "english": "He saw a snake in the garden.",
+        "igbo": "Ọ hụrụ agwọ n'ubi."
+      },
+      {
+        "english": "The snake is dangerous.",
+        "igbo": "Agwọ ahụ dị ize ndụ."
+      }
+    ]
   },
   {
     "english": "worm",
     "igbo": "ikpuru",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The worm is crawling.",
+        "igbo": "Ikpuru ahụ na-arị."
+      },
+      {
+        "english": "He found a worm in the soil.",
+        "igbo": "Ọ chọtara ikpuru n'ala."
+      },
+      {
+        "english": "The worm is small.",
+        "igbo": "Ikpuru ahụ dị obere."
+      }
+    ]
   },
   {
     "english": "tree",
     "igbo": "osisi",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The tree is tall.",
+        "igbo": "Osisi ahụ dị ogologo."
+      },
+      {
+        "english": "He climbed the tree.",
+        "igbo": "Ọ rịgoro n'osisi ahụ."
+      },
+      {
+        "english": "The tree provides shade.",
+        "igbo": "Osisi ahụ na-enye ndò."
+      }
+    ]
   },
   {
     "english": "forest",
     "igbo": "ọhịa",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The forest is dense.",
+        "igbo": "Ọhịa ahụ dị oké."
+      },
+      {
+        "english": "He got lost in the forest.",
+        "igbo": "Ọ tụfuru ụzọ n'ọhịa ahụ."
+      },
+      {
+        "english": "The forest is home to many animals.",
+        "igbo": "Ọhịa ahụ bụ ebe obibi maka ọtụtụ anụmanụ."
+      }
+    ]
   },
   {
     "english": "stick",
     "igbo": "osisi",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "He picked up a stick.",
+        "igbo": "Ọ kpọrọ osisi."
+      },
+      {
+        "english": "The stick is strong.",
+        "igbo": "Osisi ahụ dị ike."
+      },
+      {
+        "english": "He used a stick to draw in the sand.",
+        "igbo": "Ọ jiri osisi dọta n'ájá."
+      }
+    ]
   },
   {
     "english": "fruit",
     "igbo": "mkpụrụ osisi",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The fruit is ripe.",
+        "igbo": "Mkpụrụ osisi ahụ dị ọka."
+      },
+      {
+        "english": "He ate a fruit.",
+        "igbo": "Ọ riri mkpụrụ osisi."
+      },
+      {
+        "english": "The fruit is sweet.",
+        "igbo": "Mkpụrụ osisi ahụ na-atọ ụtọ."
+      }
+    ]
   },
   {
     "english": "seed",
     "igbo": "mkpụrụ",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "He planted a seed.",
+        "igbo": "Ọ kụrụ mkpụrụ."
+      },
+      {
+        "english": "The seed is small.",
+        "igbo": "Mkpụrụ ahụ dị obere."
+      },
+      {
+        "english": "The seed will grow into a tree.",
+        "igbo": "Mkpụrụ ahụ ga-eto n'osisi."
+      }
+    ]
   },
   {
     "english": "leaf",
     "igbo": "akwukwo",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The leaf is green.",
+        "igbo": "Akwukwo ahụ dị akwụkwọ ndụ."
+      },
+      {
+        "english": "He picked a leaf.",
+        "igbo": "Ọ kpọrọ akwukwo."
+      },
+      {
+        "english": "The leaf fell from the tree.",
+        "igbo": "Akwukwo ahụ dara n'osisi."
+      }
+    ]
   },
   {
     "english": "root",
     "igbo": "mgbọrọgwụ",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The root is deep.",
+        "igbo": "Mgbọrọgwụ ahụ dị omimi."
+      },
+      {
+        "english": "He dug up the root.",
+        "igbo": "Ọ gwuru mgbọrọgwụ ahụ."
+      },
+      {
+        "english": "The root supports the tree.",
+        "igbo": "Mgbọrọgwụ ahụ na-akwado osisi ahụ."
+      }
+    ]
   },
   {
     "english": "bark (of a tree)",
     "igbo": "ogbugbo (nke osisi)",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The bark is rough.",
+        "igbo": "Ogbugbo ahụ dị nkọ."
+      },
+      {
+        "english": "He peeled the bark.",
+        "igbo": "Ọ kpụrụ ogbugbo ahụ."
+      },
+      {
+        "english": "The bark protects the tree.",
+        "igbo": "Ogbugbo ahụ na-echebe osisi ahụ."
+      }
+    ]
   },
   {
     "english": "flower",
     "igbo": "ifuru",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The flower is blooming.",
+        "igbo": "Ifuru ahụ na-eto eto."
+      },
+      {
+        "english": "He picked a flower.",
+        "igbo": "Ọ kpọrọ ifuru."
+      },
+      {
+        "english": "The flower is beautiful.",
+        "igbo": "Ifuru ahụ mara mma."
+      }
+    ]
   },
   {
     "english": "grass",
     "igbo": "ahihia",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The grass is green.",
+        "igbo": "Ahihia ahụ dị akwụkwọ ndụ."
+      },
+      {
+        "english": "He cut the grass.",
+        "igbo": "Ọ kpụchara ahihia ahụ."
+      },
+      {
+        "english": "The grass is wet with dew.",
+        "igbo": "Ahihia ahụ dị udu mmiri na mmiri ozuzo."
+      }
+    ]
   },
   {
     "english": "rope",
     "igbo": "eriri",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The rope is strong.",
+        "igbo": "Eriri ahụ dị ike."
+      },
+      {
+        "english": "He tied the rope.",
+        "igbo": "Ọ tiri eriri ahụ."
+      },
+      {
+        "english": "The rope is long.",
+        "igbo": "Eriri ahụ dị ogologo."
+      }
+    ]
   },
   {
     "english": "skin",
     "igbo": "akpụkpọ anụ",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "Her skin is smooth.",
+        "igbo": "Akpụkpọ anụ ya dị ire ụtọ."
+      },
+      {
+        "english": "He has sensitive skin.",
+        "igbo": "Ọ nwere akpụkpọ anụ na-eche mmetụta."
+      },
+      {
+        "english": "The skin protects the body.",
+        "igbo": "Akpụkpọ anụ na-echebe ahụ."
+      }
+    ]
   },
   {
     "english": "meat",
     "igbo": "anụ",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The meat is cooked.",
+        "igbo": "Anụ ahụ esiri."
+      },
+      {
+        "english": "He bought some meat.",
+        "igbo": "Ọ zụtara anụ."
+      },
+      {
+        "english": "The meat is tender.",
+        "igbo": "Anụ ahụ dị nro."
+      }
+    ]
   },
   {
     "english": "blood",
     "igbo": "ọbara",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "Blood is red.",
+        "igbo": "Ọbara bụ uhie."
+      },
+      {
+        "english": "He donated blood.",
+        "igbo": "Ọ nyere ọbara."
+      },
+      {
+        "english": "The blood flows through the veins.",
+        "igbo": "Ọbara na-asọba n'ime akwara."
+      }
+    ]
   },
   {
     "english": "bone",
     "igbo": "ọkpụkpụ",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The bone is strong.",
+        "igbo": "Ọkpụkpụ ahụ dị ike."
+      },
+      {
+        "english": "He broke a bone.",
+        "igbo": "Ọ gbajiri ọkpụkpụ."
+      },
+      {
+        "english": "The bone supports the body.",
+        "igbo": "Ọkpụkpụ na-akwado ahụ."
+      }
+    ]
   },
   {
     "english": "fat (noun)",
     "igbo": "abụba (aha)",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The fat is used in cooking.",
+        "igbo": "Abụba na-eji esi nri."
+      },
+      {
+        "english": "He trimmed the fat.",
+        "igbo": "Ọ kpụchara abụba ahụ."
+      },
+      {
+        "english": "The fat is stored in the body.",
+        "igbo": "Abụba na-echekwa n'ime ahụ."
+      }
+    ]
   },
   {
     "english": "egg",
     "igbo": "akwa",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The egg is boiled.",
+        "igbo": "Akwa ahụ esiri."
+      },
+      {
+        "english": "He cracked an egg.",
+        "igbo": "Ọ gbajiri akwa."
+      },
+      {
+        "english": "The egg is fresh.",
+        "igbo": "Akwa ahụ dị ọhụrụ."
+      }
+    ]
   },
   {
     "english": "horn",
     "igbo": "mpi",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The horn is sharp.",
+        "igbo": "Mpi ahụ dị nkọ."
+      },
+      {
+        "english": "He blew the horn.",
+        "igbo": "Ọ fụụrụ mpi."
+      },
+      {
+        "english": "The horn is used for decoration.",
+        "igbo": "Mpi na-eji eme mma."
+      }
+    ]
   },
   {
     "english": "tail",
     "igbo": "ọdụ",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The tail is long.",
+        "igbo": "Ọdị ahụ dị ogologo."
+      },
+      {
+        "english": "He grabbed the tail.",
+        "igbo": "Ọ kpọrọ ọdụ ahụ."
+      },
+      {
+        "english": "The tail wags when the dog is happy.",
+        "igbo": "Ọdị na-agagharị mgbe nkịta na-enwe obi ụtọ."
+      }
+    ]
   },
   {
     "english": "feather",
     "igbo": "nku",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The feather is soft.",
+        "igbo": "Nku ahụ dị nro."
+      },
+      {
+        "english": "He found a feather.",
+        "igbo": "Ọ chọtara nku."
+      },
+      {
+        "english": "The feather helps the bird fly.",
+        "igbo": "Nku na-enyere nnụnụ aka ife."
+      }
+    ]
   },
   {
     "english": "hair",
     "igbo": "ntutu isi",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "Her hair is long.",
+        "igbo": "Ntutu isi ya dị ogologo."
+      },
+      {
+        "english": "He combed his hair.",
+        "igbo": "Ọ kpụchara ntutu isi ya."
+      },
+      {
+        "english": "The hair is soft.",
+        "igbo": "Ntutu isi ahụ dị nro."
+      }
+    ]
   },
   {
     "english": "head",
     "igbo": "isi",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The head is round.",
+        "igbo": "Isi ahụ bụ gburugburu."
+      },
+      {
+        "english": "He nodded his head.",
+        "igbo": "Ọ kwadoro isi ya."
+      },
+      {
+        "english": "The head contains the brain.",
+        "igbo": "Isi na-enwe ụbụrụ."
+      }
+    ]
   },
   {
     "english": "ear",
     "igbo": "nti",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The ear is sensitive.",
+        "igbo": "Nti ahụ na-eche mmetụta."
+      },
+      {
+        "english": "He cleaned his ear.",
+        "igbo": "Ọ sachara nti ya."
+      },
+      {
+        "english": "The ear helps in hearing.",
+        "igbo": "Nti na-enyere aka n'ịgụ."
+      }
+    ]
   },
   {
     "english": "eye",
     "igbo": "anya",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The eye is blue.",
+        "igbo": "Anya ahụ bụ akwụkwọ ndụ akwụkwọ ndụ."
+      },
+      {
+        "english": "He closed his eyes.",
+        "igbo": "Ọ mechiri anya ya."
+      },
+      {
+        "english": "The eye sees everything.",
+        "igbo": "Anya na-ahụ ihe niile."
+      }
+    ]
   },
   {
     "english": "nose",
     "igbo": "imi",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The nose is small.",
+        "igbo": "Imi ahụ dị obere."
+      },
+      {
+        "english": "He blew his nose.",
+        "igbo": "Ọ fụụrụ imi ya."
+      },
+      {
+        "english": "The nose helps in smelling.",
+        "igbo": "Imi na-enyere aka n'ịhụ isi."
+      }
+    ]
   },
   {
     "english": "mouth",
     "igbo": "ọnụ",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The mouth is open.",
+        "igbo": "Ọnụ ahụ meghere."
+      },
+      {
+        "english": "He closed his mouth.",
+        "igbo": "Ọ mechiri ọnụ ya."
+      },
+      {
+        "english": "The mouth is used for eating.",
+        "igbo": "Ọnụ na-eji eri nri."
+      }
+    ]
   },
   {
     "english": "tooth",
     "igbo": "eze",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The tooth is white.",
+        "igbo": "Eze ahụ bụ ọcha."
+      },
+      {
+        "english": "He brushed his teeth.",
+        "igbo": "Ọ sachara eze ya."
+      },
+      {
+        "english": "The tooth is used for chewing.",
+        "igbo": "Eze na-eji taa nri."
+      }
+    ]
   },
   {
     "english": "tongue (organ)",
     "igbo": "ire (ngwa)",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The tongue is pink.",
+        "igbo": "Ire ahụ bụ pink."
+      },
+      {
+        "english": "He stuck out his tongue.",
+        "igbo": "Ọ kpọpụụrụ ire ya."
+      },
+      {
+        "english": "The tongue helps in tasting.",
+        "igbo": "Ire na-enyere aka n'ịhụ ụtọ."
+      }
+    ]
   },
   {
     "english": "fingernail",
     "igbo": "mbọ aka",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The fingernail is long.",
+        "igbo": "Mbọ aka ahụ dị ogologo."
+      },
+      {
+        "english": "He trimmed his fingernails.",
+        "igbo": "Ọ kpụchara mbọ aka ya."
+      },
+      {
+        "english": "The fingernail protects the finger.",
+        "igbo": "Mbọ aka na-echebe mkpịsị aka."
+      }
+    ]
   },
   {
     "english": "foot",
     "igbo": "ukwu",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The foot is large.",
+        "igbo": "Ukwu ahụ dị nnukwu."
+      },
+      {
+        "english": "He washed his feet.",
+        "igbo": "Ọ sachara ukwu ya."
+      },
+      {
+        "english": "The foot helps in walking.",
+        "igbo": "Ukwu na-enyere aka n'ịga ije."
+      }
+    ]
   },
   {
     "english": "leg",
     "igbo": "ukwu",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The leg is strong.",
+        "igbo": "Ukwu ahụ dị ike."
+      },
+      {
+        "english": "He injured his leg.",
+        "igbo": "Ọ merụrụ ukwu ya."
+      },
+      {
+        "english": "The leg helps in running.",
+        "igbo": "Ukwu na-enyere aka n'ịgba ọsọ."
+      }
+    ]
   },
   {
     "english": "knee",
     "igbo": "ikpere",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The knee is bent.",
+        "igbo": "Ikpere ahụ agbajiri."
+      },
+      {
+        "english": "He injured his knee.",
+        "igbo": "Ọ merụrụ ikpere ya."
+      },
+      {
+        "english": "The knee supports the leg.",
+        "igbo": "Ikpere na-akwado ukwu."
+      }
+    ]
   },
   {
     "english": "hand",
     "igbo": "aka",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The hand is strong.",
+        "igbo": "Aka ahụ dị ike."
+      },
+      {
+        "english": "He raised his hand.",
+        "igbo": "Ọ welitere aka ya."
+      },
+      {
+        "english": "The hand helps in holding.",
+        "igbo": "Aka na-enyere aka n'ịjide."
+      }
+    ]
   },
   {
     "english": "wing",
     "igbo": "nku",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The wing is large.",
+        "igbo": "Nku ahụ dị nnukwu."
+      },
+      {
+        "english": "He clipped the wing.",
+        "igbo": "Ọ kpụchara nku ahụ."
+      },
+      {
+        "english": "The wing helps the bird fly.",
+        "igbo": "Nku na-enyere nnụnụ aka ife."
+      }
+    ]
   },
   {
     "english": "belly",
     "igbo": "afọ",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The belly is full.",
+        "igbo": "Afọ ahụ juputara."
+      },
+      {
+        "english": "He rubbed his belly.",
+        "igbo": "Ọ kpụchara afọ ya."
+      },
+      {
+        "english": "The belly is round.",
+        "igbo": "Afọ ahụ bụ gburugburu."
+      }
+    ]
   },
   {
     "english": "guts",
     "igbo": "eriri afọ",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The guts are strong.",
+        "igbo": "Eriri afọ ahụ dị ike."
+      },
+      {
+        "english": "He felt it in his guts.",
+        "igbo": "Ọ nụrụ ya n'eriri afọ ya."
+      },
+      {
+        "english": "The guts are essential for digestion.",
+        "igbo": "Eriri afọ dị mkpa maka ịgbari nri."
+      }
+    ]
   },
   {
     "english": "neck",
     "igbo": "olu",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The neck is long.",
+        "igbo": "Olu ahụ dị ogologo."
+      },
+      {
+        "english": "He turned his neck.",
+        "igbo": "Ọ tụgharịrị olu ya."
+      },
+      {
+        "english": "The neck supports the head.",
+        "igbo": "Olu na-akwado isi."
+      }
+    ]
   },
   {
     "english": "back",
     "igbo": "azụ",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The back is strong.",
+        "igbo": "Azụ ahụ dị ike."
+      },
+      {
+        "english": "He leaned on his back.",
+        "igbo": "Ọ kwụgidere n'azụ ya."
+      },
+      {
+        "english": "The back supports the body.",
+        "igbo": "Azụ na-akwado ahụ."
+      }
+    ]
   },
   {
     "english": "breast",
     "igbo": "ara",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The breast is full.",
+        "igbo": "Ara ahụ juputara."
+      },
+      {
+        "english": "She fed the baby with her breast.",
+        "igbo": "Ọ na-enye nwa ahụ ara."
+      },
+      {
+        "english": "The breast is sensitive.",
+        "igbo": "Ara ahụ na-eche mmetụta."
+      }
+    ]
   },
   {
     "english": "heart",
     "igbo": "obi",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The heart is beating.",
+        "igbo": "Obi ahụ na-ama."
+      },
+      {
+        "english": "He has a kind heart.",
+        "igbo": "Ọ nwere obiọma."
+      },
+      {
+        "english": "The heart pumps blood.",
+        "igbo": "Obi na-afụ ọbara."
+      }
+    ]
   },
   {
     "english": "liver",
     "igbo": "imeju",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The liver is healthy.",
+        "igbo": "Imeju ahụ dị mma."
+      },
+      {
+        "english": "He damaged his liver.",
+        "igbo": "Ọ merụrụ imeju ya."
+      },
+      {
+        "english": "The liver detoxifies the body.",
+        "igbo": "Imeju na-ehichapụ ahụ."
+      }
+    ]
   },
   {
     "english": "sun",
     "igbo": "anyanwụ",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The sun is bright.",
+        "igbo": "Anyanwụ ahụ na-enwu."
+      },
+      {
+        "english": "He watched the sunrise.",
+        "igbo": "Ọ lere anyanwụ na-epụta."
+      },
+      {
+        "english": "The sun provides warmth.",
+        "igbo": "Anyanwụ na-enye ọkụ."
+      }
+    ]
   },
   {
     "english": "moon",
     "igbo": "ọnwa",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The moon is full.",
+        "igbo": "Ọnwa ahụ juputara."
+      },
+      {
+        "english": "He gazed at the moon.",
+        "igbo": "Ọ lere ọnwa ahụ anya."
+      },
+      {
+        "english": "The moonlight is soothing.",
+        "igbo": "Ọnwa na-enye ọkụ dị nro."
+      }
+    ]
   },
   {
     "english": "star",
     "igbo": "kpakpando",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The star is shining.",
+        "igbo": "Kpakpando ahụ na-enwu."
+      },
+      {
+        "english": "He wished upon a star.",
+        "igbo": "Ọ chere n'echiche n'elu kpakpando."
+      },
+      {
+        "english": "The star is far away.",
+        "igbo": "Kpakpando ahụ dị anya."
+      }
+    ]
   },
   {
     "english": "water",
     "igbo": "mmiri",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The water is clear.",
+        "igbo": "Mmiri ahụ dị ọcha."
+      },
+      {
+        "english": "He drank the water.",
+        "igbo": "Ọ ṅụrụ mmiri ahụ."
+      },
+      {
+        "english": "The water flows gently.",
+        "igbo": "Mmiri na-asọba nwayọ."
+      }
+    ]
   },
   {
     "english": "rain",
     "igbo": "mmiri ozuzo",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The rain is heavy.",
+        "igbo": "Mmiri ozuzo ahụ dị arọ."
+      },
+      {
+        "english": "He danced in the rain.",
+        "igbo": "Ọ gwuo egwu n'ime mmiri ozuzo."
+      },
+      {
+        "english": "The rain nourishes the earth.",
+        "igbo": "Mmiri ozuzo na-enye ala nri."
+      }
+    ]
   },
   {
     "english": "river",
     "igbo": "osimiri",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The river is wide.",
+        "igbo": "Osimiri ahụ dị obosara."
+      },
+      {
+        "english": "He swam in the river.",
+        "igbo": "Ọ gwuo mmiri n'osimiri ahụ."
+      },
+      {
+        "english": "The river flows to the sea.",
+        "igbo": "Osimiri na-asọba n'oké osimiri."
+      }
+    ]
   },
   {
     "english": "lake",
     "igbo": "ọdọ mmiri",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The lake is calm.",
+        "igbo": "Ọdọ mmiri ahụ dị jụụ."
+      },
+      {
+        "english": "He fished in the lake.",
+        "igbo": "Ọ chụụrụ azụ n'ọdọ mmiri ahụ."
+      },
+      {
+        "english": "The lake reflects the sky.",
+        "igbo": "Ọdọ mmiri na-egosi igwe."
+      }
+    ]
   },
   {
     "english": "sea",
     "igbo": "oké osimiri",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The sea is vast.",
+        "igbo": "Oké osimiri ahụ dị ukwuu."
+      },
+      {
+        "english": "He sailed on the sea.",
+        "igbo": "Ọ gara n'oké osimiri."
+      },
+      {
+        "english": "The sea is full of life.",
+        "igbo": "Oké osimiri juputara na ndụ."
+      }
+    ]
   },
   {
     "english": "salt",
     "igbo": "nnu",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The salt is white.",
+        "igbo": "Nnu ahụ bụ ọcha."
+      },
+      {
+        "english": "He added salt to the soup.",
+        "igbo": "Ọ tinyere nnu n'ime nri."
+      },
+      {
+        "english": "The salt enhances the flavor.",
+        "igbo": "Nnu na-eme ka ụtọ dị mma."
+      }
+    ]
   },
   {
     "english": "stone",
     "igbo": "nkume",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The stone is hard.",
+        "igbo": "Nkume ahụ siri ike."
+      },
+      {
+        "english": "He threw a stone.",
+        "igbo": "Ọ tufuru nkume."
+      },
+      {
+        "english": "The stone is smooth.",
+        "igbo": "Nkume ahụ dị ire ụtọ."
+      }
+    ]
   },
   {
     "english": "sand",
     "igbo": "ájá",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The sand is hot.",
+        "igbo": "Ájá ahụ dị ọkụ."
+      },
+      {
+        "english": "He built a sandcastle.",
+        "igbo": "Ọ wuru ụlọ ájá."
+      },
+      {
+        "english": "The sand is soft.",
+        "igbo": "Ájá ahụ dị nro."
+      }
+    ]
   },
   {
     "english": "dust",
     "igbo": "uzuzu",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The dust is thick.",
+        "igbo": "Uzuzu ahụ dị oké."
+      },
+      {
+        "english": "He wiped away the dust.",
+        "igbo": "Ọ sachara uzuzu ahụ."
+      },
+      {
+        "english": "The dust settled on the furniture.",
+        "igbo": "Uzuzu ahụ kwụsịrị n'elu ngwa ụlọ."
+      }
+    ]
   },
   {
     "english": "earth",
     "igbo": "ụwa",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The earth is round.",
+        "igbo": "Ụwa ahụ bụ gburugburu."
+      },
+      {
+        "english": "He loves the earth.",
+        "igbo": "Ọ hụrụ ụwa n'anya."
+      },
+      {
+        "english": "The earth supports life.",
+        "igbo": "Ụwa na-akwado ndụ."
+      }
+    ]
   },
   {
     "english": "cloud",
     "igbo": "igwe ojii",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The cloud is dark.",
+        "igbo": "Igwe ojii ahụ dị ọchịchịrị."
+      },
+      {
+        "english": "He watched the clouds.",
+        "igbo": "Ọ lere igwe ojii anya."
+      },
+      {
+        "english": "The cloud brings rain.",
+        "igbo": "Igwe ojii na-eweta mmiri ozuzo."
+      }
+    ]
   },
   {
     "english": "sky",
     "igbo": "elu-igwe",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The sky is blue.",
+        "igbo": "Elu-igwe ahụ bụ akwụkwọ ndụ akwụkwọ ndụ."
+      },
+      {
+        "english": "He looked at the sky.",
+        "igbo": "Ọ lere elu-igwe anya."
+      },
+      {
+        "english": "The sky is clear.",
+        "igbo": "Elu-igwe ahụ dị ọcha."
+      }
+    ]
   },
   {
     "english": "wind",
     "igbo": "ifufe",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The wind is strong.",
+        "igbo": "Ifufe ahụ dị ike."
+      },
+      {
+        "english": "He felt the wind on his face.",
+        "igbo": "Ọ nụrụ ifufe n'iru ya."
+      },
+      {
+        "english": "The wind blows gently.",
+        "igbo": "Ifufe na-efụ nwayọ."
+      }
+    ]
   },
   {
     "english": "fog",
     "igbo": "anwụrụ mmiri",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The fog is thick.",
+        "igbo": "Anwụrụ mmiri ahụ dị oké."
+      },
+      {
+        "english": "He walked through the fog.",
+        "igbo": "Ọ gara n'ime anwụrụ mmiri ahụ."
+      },
+      {
+        "english": "The fog obscures the view.",
+        "igbo": "Anwụrụ mmiri na-egbochi ọhụụ."
+      }
+    ]
   },
   {
     "english": "snow",
     "igbo": "snow",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The snow is falling.",
+        "igbo": "Snow na-adaba."
+      },
+      {
+        "english": "He built a snowman.",
+        "igbo": "Ọ wuru nwoke snow."
+      },
+      {
+        "english": "The snow is cold.",
+        "igbo": "Snow ahụ dị oyi."
+      }
+    ]
   },
   {
     "english": "ice",
     "igbo": "ice",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The ice is slippery.",
+        "igbo": "Ice ahụ na-agba ọsọ."
+      },
+      {
+        "english": "He skated on the ice.",
+        "igbo": "Ọ gbaa ọsọ n'elu ice."
+      },
+      {
+        "english": "The ice is melting.",
+        "igbo": "Ice ahụ na-agbaze."
+      }
+    ]
   },
   {
     "english": "smoke",
     "igbo": "anwụrụ",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The smoke is thick.",
+        "igbo": "Anwụrụ ahụ dị oké."
+      },
+      {
+        "english": "He inhaled the smoke.",
+        "igbo": "Ọ nụrụ anwụrụ ahụ."
+      },
+      {
+        "english": "The smoke rises into the air.",
+        "igbo": "Anwụrụ na-ebili n'elu ikuku."
+      }
+    ]
   },
   {
     "english": "fire",
     "igbo": "ọkụ",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The fire is hot.",
+        "igbo": "Ọkụ ahụ dị ọkụ."
+      },
+      {
+        "english": "He started a fire.",
+        "igbo": "Ọ malitere ọkụ."
+      },
+      {
+        "english": "The fire burns brightly.",
+        "igbo": "Ọkụ na-enwu ọkụ."
+      }
+    ]
   },
   {
     "english": "ash",
     "igbo": "ntu",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The ash is gray.",
+        "igbo": "Ntu ahụ bụ isi awọ."
+      },
+      {
+        "english": "He cleaned the ash.",
+        "igbo": "Ọ sachara ntu ahụ."
+      },
+      {
+        "english": "The ash settled on the ground.",
+        "igbo": "Ntu ahụ kwụsịrị n'ala."
+      }
+    ]
   },
   {
     "english": "road",
     "igbo": "okporo uzo",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The road is long.",
+        "igbo": "Okporo ụzọ ahụ dị ogologo."
+      },
+      {
+        "english": "He walked down the road.",
+        "igbo": "Ọ gara n'okporo ụzọ ahụ."
+      },
+      {
+        "english": "The road leads to the village.",
+        "igbo": "Okporo ụzọ na-eduga n'ugbo."
+      }
+    ]
   },
   {
     "english": "mountain",
     "igbo": "ugwu",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The mountain is high.",
+        "igbo": "Ugwu ahụ dị elu."
+      },
+      {
+        "english": "He climbed the mountain.",
+        "igbo": "Ọ rịgoro n'ugwu ahụ."
+      },
+      {
+        "english": "The mountain is covered in snow.",
+        "igbo": "Ugwu ahụ jupụtara na snow."
+      }
+    ]
   },
   {
     "english": "red",
     "igbo": "uhie",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The apple is red.",
+        "igbo": "Apụl ahụ bụ uhie."
+      },
+      {
+        "english": "He wore a red shirt.",
+        "igbo": "Ọ yi uwe uhie."
+      },
+      {
+        "english": "The red rose is beautiful.",
+        "igbo": "Ifuru uhie ahụ mara mma."
+      }
+    ]
   },
   {
     "english": "green",
     "igbo": "akwụkwọ ndụ akwụkwọ ndụ",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The grass is green.",
+        "igbo": "Ahihia ahụ dị akwụkwọ ndụ."
+      },
+      {
+        "english": "He painted the wall green.",
+        "igbo": "Ọ dọrọ mgbidi akwụkwọ ndụ."
+      },
+      {
+        "english": "The green leaves are fresh.",
+        "igbo": "Akwụkwọ ndụ akwụkwọ ndụ ahụ dị ọhụrụ."
+      }
+    ]
   },
   {
     "english": "yellow",
     "igbo": "edo edo",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The sun is yellow.",
+        "igbo": "Anyanwụ ahụ bụ edo edo."
+      },
+      {
+        "english": "He wore a yellow hat.",
+        "igbo": "Ọ yi okpu edo edo."
+      },
+      {
+        "english": "The yellow flower is bright.",
+        "igbo": "Ifuru edo edo ahụ na-enwu."
+      }
+    ]
   },
   {
     "english": "white",
     "igbo": "ọcha",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The snow is white.",
+        "igbo": "Snow ahụ bụ ọcha."
+      },
+      {
+        "english": "He wore a white shirt.",
+        "igbo": "Ọ yi uwe ọcha."
+      },
+      {
+        "english": "The white dove is peaceful.",
+        "igbo": "Nnụnụ ọcha ahụ dị jụụ."
+      }
+    ]
   },
   {
     "english": "black",
     "igbo": "nwa",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The cat is black.",
+        "igbo": "Nwa nkịta ahụ bụ nwa."
+      },
+      {
+        "english": "He wore a black suit.",
+        "igbo": "Ọ yi uwe nwa."
+      },
+      {
+        "english": "The black night is quiet.",
+        "igbo": "Abalị nwa ahụ dị jụụ."
+      }
+    ]
   },
   {
     "english": "night",
     "igbo": "abalị",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The night is dark.",
+        "igbo": "Abalị ahụ dị ọchịchịrị."
+      },
+      {
+        "english": "He slept through the night.",
+        "igbo": "Ọ nọrọ n'abalị ahụ."
+      },
+      {
+        "english": "The night sky is full of stars.",
+        "igbo": "Igwe abalị juputara na kpakpando."
+      }
+    ]
   },
   {
     "english": "day",
     "igbo": "ụbọchị",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The day is bright.",
+        "igbo": "Ụbọchị ahụ na-enwu."
+      },
+      {
+        "english": "He worked all day.",
+        "igbo": "Ọ rụrụ ọrụ ụbọchị niile."
+      },
+      {
+        "english": "The day is long.",
+        "igbo": "Ụbọchị ahụ dị ogologo."
+      }
+    ]
   },
   {
     "english": "year",
     "igbo": "afọ",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The year is new.",
+        "igbo": "Afọ ahụ bụ ọhụrụ."
+      },
+      {
+        "english": "He celebrated the new year.",
+        "igbo": "Ọ mere emume afọ ọhụrụ."
+      },
+      {
+        "english": "The year is long.",
+        "igbo": "Afọ ahụ dị ogologo."
+      }
+    ]
   },
   {
     "english": "right",
     "igbo": "nri",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The right hand is strong.",
+        "igbo": "Aka nri ahụ dị ike."
+      },
+      {
+        "english": "He turned right.",
+        "igbo": "Ọ tụgharịrị aka nri."
+      },
+      {
+        "english": "The right path is clear.",
+        "igbo": "Ụzọ nri ahụ dị ọcha."
+      }
+    ]
   },
   {
     "english": "left",
     "igbo": "aka ekpe",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The left hand is strong.",
+        "igbo": "Aka ekpe ahụ dị ike."
+      },
+      {
+        "english": "He turned left.",
+        "igbo": "Ọ tụgharịrị aka ekpe."
+      },
+      {
+        "english": "The left path is narrow.",
+        "igbo": "Ụzọ aka ekpe ahụ dị warara."
+      }
+    ]
   },
   {
     "english": "name",
     "igbo": "aha",
-    "category": "Noun"
+    "category": "Noun",
+    "examples": [
+      {
+        "english": "The name is unique.",
+        "igbo": "Aha ahụ bụ pụrụ iche."
+      },
+      {
+        "english": "He wrote his name.",
+        "igbo": "Ọ dere aha ya."
+      },
+      {
+        "english": "The name is important.",
+        "igbo": "Aha dị mkpa."
+      }
+    ]
   },
   {
     "english": "for",
     "igbo": "maka",
-    "category": "Preposition"
+    "category": "Preposition",
+    "examples": [
+      {
+        "english": "This gift is for you.",
+        "igbo": "Onyinye a bụ maka gị."
+      },
+      {
+        "english": "He works for a company.",
+        "igbo": "Ọ na-arụ ọrụ maka ụlọ ọrụ."
+      },
+      {
+        "english": "The book is for children.",
+        "igbo": "Akwụkwọ ahụ bụ maka ụmụaka."
+      }
+    ]
   },
   {
     "english": "this",
     "igbo": "nke a",
-    "category": "Preposition"
+    "category": "Preposition",
+    "examples": [
+      {
+        "english": "This is my house.",
+        "igbo": "Nke a bụ ụlọ m."
+      },
+      {
+        "english": "He likes this song.",
+        "igbo": "Ọ na-enwe mmasị na abụ a."
+      },
+      {
+        "english": "This is important.",
+        "igbo": "Nke a dị mkpa."
+      }
+    ]
   },
   {
     "english": "that",
     "igbo": "na",
-    "category": "Preposition"
+    "category": "Preposition",
+    "examples": [
+      {
+        "english": "That is his car.",
+        "igbo": "Na bụ ụgbọ ala ya."
+      },
+      {
+        "english": "He wants that book.",
+        "igbo": "Ọ chọrọ akwụkwọ ahụ."
+      },
+      {
+        "english": "That is amazing.",
+        "igbo": "Na dị ịtụnanya."
+      }
+    ]
   },
   {
     "english": "here",
     "igbo": "Ebe a",
-    "category": "Preposition"
+    "category": "Preposition",
+    "examples": [
+      {
+        "english": "I am here.",
+        "igbo": "Anọ m ebe a."
+      },
+      {
+        "english": "He lives here.",
+        "igbo": "Ọ bi ebe a."
+      },
+      {
+        "english": "Here is the key.",
+        "igbo": "Ebe a bụ igodo."
+      }
+    ]
   },
   {
     "english": "there",
     "igbo": "Ebe ahụ",
-    "category": "Preposition"
+    "category": "Preposition",
+    "examples": [
+      {
+        "english": "The book is there.",
+        "igbo": "Akwụkwọ ahụ dị ebe ahụ."
+      },
+      {
+        "english": "He went there.",
+        "igbo": "Ọ gara ebe ahụ."
+      },
+      {
+        "english": "There is a problem.",
+        "igbo": "E nwere nsogbu ebe ahụ."
+      }
+    ]
   },
   {
     "english": "who",
     "igbo": "WHO",
-    "category": "Preposition"
+    "category": "Preposition",
+    "examples": [
+      {
+        "english": "Who is that?",
+        "igbo": "Kedu ka ọ si arụ ọrụ?"
+      },
+      {
+        "english": "Who is the man?",
+        "igbo": "Kedu ka ọ si nwoke?"
+      },
+      {
+        "english": "Who is the woman?",
+        "igbo": "Kedu ka ọ si nwanyi?"
+      }
+    ]
   },
   {
     "english": "what",
     "igbo": "Kedu",
-    "category": "Preposition"
+    "category": "Preposition",
+    "examples": [
+      {
+        "english": "What is your name?",
+        "igbo": "Kedu ka aha?"
+      },
+      {
+        "english": "What is the weather?",
+        "igbo": "Kedu ka ọdịdị ihu?"
+      },
+      {
+        "english": "What is the time?",
+        "igbo": "Kedu ka ọbọchị?"
+      }
+    ]
   },
   {
     "english": "where",
     "igbo": "ebee",
-    "category": "Preposition"
+    "category": "Preposition",
+    "examples": [
+      {
+        "english": "Where is the school?",
+        "igbo": "Ebee akwụkwọ ahụ dị nso?"
+      },
+      {
+        "english": "Where is the market?",
+        "igbo": "Ebee ahịa ahụ dị obodo?"
+      },
+      {
+        "english": "Where is the park?",
+        "igbo": "Ebee ogige ahụ dị nso?"
+      }
+    ]
   },
   {
     "english": "when",
     "igbo": "mgbe ole",
-    "category": "Preposition"
+    "category": "Preposition",
+    "examples": [
+      {
+        "english": "When is the meeting?",
+        "igbo": "Mgbe ole nzukọ ahụ dị nkenke?"
+      },
+      {
+        "english": "When is the party?",
+        "igbo": "Mgbe ole mmadụ bịara na emume?"
+      },
+      {
+        "english": "When is the sunrise?",
+        "igbo": "Mgbe ole anyanwụ na-epụta?"
+      }
+    ]
   },
   {
     "english": "at",
     "igbo": "na",
-    "category": "Preposition"
+    "category": "Preposition",
+    "examples": [
+      {
+        "english": "I am at home.",
+        "igbo": "Anọ m ebe a."
+      },
+      {
+        "english": "He is at school.",
+        "igbo": "Ọ bụ nso ahụ."
+      },
+      {
+        "english": "The party is at the park.",
+        "igbo": "Nzukọ abalị ahụ dị ogige."
+      }
+    ]
   },
   {
     "english": "in",
     "igbo": "n'ime",
-    "category": "Preposition"
+    "category": "Preposition",
+    "examples": [
+      {
+        "english": "I am in the room.",
+        "igbo": "Anọ m n'ime ahụ."
+      },
+      {
+        "english": "He is in the forest.",
+        "igbo": "Ọ bụ ọhịa ahụ."
+      },
+      {
+        "english": "The book is in the bag.",
+        "igbo": "Akwụkwọ ahụ dị n'ime abụọ."
+      }
+    ]
   },
   {
     "english": "with",
     "igbo": "ya na",
-    "category": "Preposition"
+    "category": "Preposition",
+    "examples": [
+      {
+        "english": "I am with you.",
+        "igbo": "Anọ m ya na ị."
+      },
+      {
+        "english": "He is with his friends.",
+        "igbo": "Ọ bụ enyi ya na."
+      },
+      {
+        "english": "We are with them.",
+        "igbo": "Anyị m ha."
+      }
+    ]
   },
   {
     "english": "me",
     "igbo": "m",
-    "category": "Pronoun"
+    "category": "Pronoun",
+    "examples": [
+      {
+        "english": "I am here.",
+        "igbo": "Anọ m ebe a."
+      },
+      {
+        "english": "I need your help.",
+        "igbo": "M ọbụghị mmiri."
+      },
+      {
+        "english": "I will go with you.",
+        "igbo": "M ga-atọ m ị."
+      }
+    ]
   },
   {
     "english": "you (singular)",
     "igbo": "ị (otu)",
-    "category": "Pronoun"
+    "category": "Pronoun",
+    "examples": [
+      {
+        "english": "I am here.",
+        "igbo": "Anọ m ebe a."
+      },
+      {
+        "english": "I need your help.",
+        "igbo": "M ọbụghị mmiri."
+      },
+      {
+        "english": "I will go with you.",
+        "igbo": "M ga-atọ m ị."
+      }
+    ]
   },
   {
     "english": "he",
     "igbo": "ọ",
-    "category": "Pronoun"
+    "category": "Pronoun",
+    "examples": [
+      {
+        "english": "He is tall.",
+        "igbo": "Ọ ogologo."
+      },
+      {
+        "english": "He is here.",
+        "igbo": "Ọ bi ebe a."
+      },
+      {
+        "english": "He is with us.",
+        "igbo": "Ọ bụ enyi ya na."
+      }
+    ]
   },
   {
     "english": "we",
     "igbo": "anyi",
-    "category": "Pronoun"
+    "category": "Pronoun",
+    "examples": [
+      {
+        "english": "We are here.",
+        "igbo": "Anyị m ebe a."
+      },
+      {
+        "english": "We are going to the party.",
+        "igbo": "Anyị ga-atọ m mmadụ bịara na emume."
+      },
+      {
+        "english": "We are happy.",
+        "igbo": "Anyị bụ n'ihi na ọkụ."
+      }
+    ]
   },
   {
     "english": "you (plural)",
     "igbo": "ị (ọtụtụ)",
-    "category": "Pronoun"
+    "category": "Pronoun",
+    "examples": [
+      {
+        "english": "We are here.",
+        "igbo": "Anyị m ebe a."
+      },
+      {
+        "english": "We are going to the party.",
+        "igbo": "Anyị ga-atọ m mmadụ bịara na emume."
+      },
+      {
+        "english": "We are happy.",
+        "igbo": "Anyị bụ n'ihi na ọkụ."
+      }
+    ]
   },
   {
     "english": "they",
     "igbo": "ha",
-    "category": "Pronoun"
+    "category": "Pronoun",
+    "examples": [
+      {
+        "english": "They are here.",
+        "igbo": "Ha ebe a."
+      },
+      {
+        "english": "They are happy.",
+        "igbo": "Ha bụ n'ihi na ọkụ."
+      },
+      {
+        "english": "They are at the party.",
+        "igbo": "Ha mmadụ bịara na emume."
+      }
+    ]
   },
   {
     "english": "it",
     "igbo": "ya",
-    "category": "Pronoun"
+    "category": "Pronoun",
+    "examples": [
+      {
+        "english": "It is here.",
+        "igbo": "Ya ahụ dị ebe a."
+      },
+      {
+        "english": "It is raining.",
+        "igbo": "Ya dịdị ihu."
+      },
+      {
+        "english": "It is the book.",
+        "igbo": "Ya akwụkwọ."
+      }
+    ]
   },
   {
     "english": "drink",
     "igbo": "ṅụọ",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "I drank the water.",
+        "igbo": "M ṅụrụ mmiri ahụ."
+      },
+      {
+        "english": "He drank the beer.",
+        "igbo": "Ọ ṅụrụ nri ahụ."
+      },
+      {
+        "english": "We drank the wine.",
+        "igbo": "Anyị m ṅụrụ nri ahụ."
+      }
+    ]
   },
   {
     "english": "eat",
     "igbo": "rie",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He ate the food.",
+        "igbo": "Ọ rie nri ahụ."
+      },
+      {
+        "english": "We ate the pizza.",
+        "igbo": "Anyị m rie akwụkwọ abụọ."
+      },
+      {
+        "english": "She ate the apple.",
+        "igbo": "Ọ rie apụl ahụ."
+      }
+    ]
   },
   {
     "english": "bite",
     "igbo": "taa",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He bit the apple.",
+        "igbo": "Ọ tiri apụl ahụ."
+      },
+      {
+        "english": "She bit the bread.",
+        "igbo": "Ọ tiri bọta ahụ."
+      },
+      {
+        "english": "They bit the pizza.",
+        "igbo": "Ha tiri akwụkwọ abụọ."
+      }
+    ]
   },
   {
     "english": "suck",
     "igbo": "nuo",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He sucked the straw.",
+        "igbo": "Ọ nuo ọdụ ahụ."
+      },
+      {
+        "english": "She sucked the juice.",
+        "igbo": "Ọ nuo ọbara ahụ."
+      },
+      {
+        "english": "They sucked the straw.",
+        "igbo": "Ha nuo ọdụ ahụ."
+      }
+    ]
   },
   {
     "english": "spit",
     "igbo": "gbaa ọnụ mmiri",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He spat on the ground.",
+        "igbo": "Ọ gbaa ọnụ mmiri ahụ."
+      },
+      {
+        "english": "She spat on the table.",
+        "igbo": "Ọ gbaa ọnụ mmiri ahụ."
+      },
+      {
+        "english": "They spat on the floor.",
+        "igbo": "Ha gbaa ọnụ mmiri ahụ."
+      }
+    ]
   },
   {
     "english": "vomit",
     "igbo": "agbọ agbọ",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He vomited on the floor.",
+        "igbo": "Ọ agbọ agbọ ahụ dị ala."
+      },
+      {
+        "english": "She vomited on the table.",
+        "igbo": "Ọ agbọ agbọ ahụ dị tebụl."
+      },
+      {
+        "english": "They vomited on the carpet.",
+        "igbo": "Ha agbọ agbọ ahụ dị ọdọ mmiri."
+      }
+    ]
   },
   {
     "english": "blow",
     "igbo": "ịfụ",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He blew the horn.",
+        "igbo": "Ọ fụụrụ mpi."
+      },
+      {
+        "english": "She blew the whistle.",
+        "igbo": "Ọ gbaa ọnụ mmiri ahụ."
+      },
+      {
+        "english": "They blew the whistle.",
+        "igbo": "Ha gbaa ọnụ mmiri ahụ."
+      }
+    ]
   },
   {
     "english": "breathe",
     "igbo": "iku ume",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He breathed deeply.",
+        "igbo": "Ọ iku ume ogologo."
+      },
+      {
+        "english": "She breathed in the fresh air.",
+        "igbo": "Ọ iku ume ọdị ọcha ahụ."
+      },
+      {
+        "english": "They breathed out the smoke.",
+        "igbo": "Ha iku ume anwụrụ ahụ."
+      }
+    ]
   },
   {
     "english": "laugh",
     "igbo": "ochi",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He laughed loudly.",
+        "igbo": "Ọ ochi ogologo."
+      },
+      {
+        "english": "She laughed at the joke.",
+        "igbo": "Ọ ochi ọdị ọjọọ ya."
+      },
+      {
+        "english": "They laughed together.",
+        "igbo": "Ha ochi obi ọkụ."
+      }
+    ]
   },
   {
     "english": "see",
     "igbo": "hụ",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "I saw the movie.",
+        "igbo": "Anọ m hụ nkiri ahụ."
+      },
+      {
+        "english": "He saw the bird.",
+        "igbo": "Ọ hụrụ nnụnụ ahụ."
+      },
+      {
+        "english": "They saw the sunset.",
+        "igbo": "Ha hụdịdị ihu igwe."
+      }
+    ]
   },
   {
     "english": "hear",
     "igbo": "nụ",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "I heard the music.",
+        "igbo": "Anọ m hụdịdị ihu."
+      },
+      {
+        "english": "He heard the laughter.",
+        "igbo": "Ọ hụrụ ọjọọ ya."
+      },
+      {
+        "english": "They heard the birds singing.",
+        "igbo": "Ha hụdịdị ọbara ahụ."
+      }
+    ]
   },
   {
     "english": "know",
     "igbo": "mara",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "I know the answer.",
+        "igbo": "Anọ m hụ ziri ezi."
+      },
+      {
+        "english": "He knows the language.",
+        "igbo": "Ọ bụ enyi ọhịa mmekọrịta."
+      },
+      {
+        "english": "They know the song.",
+        "igbo": "Ha bụ enyi ọhịa mmasị."
+      }
+    ]
   },
   {
     "english": "think",
     "igbo": "chee echiche",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "I think it is a good idea.",
+        "igbo": "Anọ m hụ ọhịa mmekọrịta."
+      },
+      {
+        "english": "He thinks he is right.",
+        "igbo": "Ọ bụ nri ọhịa mmekọrịta."
+      },
+      {
+        "english": "They think it is important.",
+        "igbo": "Ha hụ ọhịa mmekọrịta."
+      }
+    ]
   },
   {
     "english": "smell",
     "igbo": "isi",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "I smelled the flowers.",
+        "igbo": "Anọ m hụ ifuru."
+      },
+      {
+        "english": "He smelled the food.",
+        "igbo": "Ọ hụrụ nri ahụ."
+      },
+      {
+        "english": "They smelled the smoke.",
+        "igbo": "Ha hụrụ anwụrụ ahụ."
+      }
+    ]
   },
   {
     "english": "fear",
     "igbo": "egwu",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "I am afraid of the dark.",
+        "igbo": "Anọ m hụ ọchịchịrị."
+      },
+      {
+        "english": "He is afraid of the snake.",
+        "igbo": "Ọ bụ enyi ọhịa agwọ."
+      },
+      {
+        "english": "They are afraid of the storm.",
+        "igbo": "Ha bụ enyi ọhịa mmiri ozuzo."
+      }
+    ]
   },
   {
     "english": "sleep",
     "igbo": "ura",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He slept through the night.",
+        "igbo": "Ọ nọrọ n'abalị ahụ."
+      },
+      {
+        "english": "She slept soundly.",
+        "igbo": "Ọ nọrọ ọhịa mmekọrịta."
+      },
+      {
+        "english": "They slept in the tent.",
+        "igbo": "Ha nọrọ ọhịa ahụ."
+      }
+    ]
   },
   {
     "english": "live",
     "igbo": "ibi ndụ",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He lives in the city.",
+        "igbo": "Ọ bụ obodo ahụ."
+      },
+      {
+        "english": "She lives in the countryside.",
+        "igbo": "Ọ bụ ọhịa ahụ."
+      },
+      {
+        "english": "They live in the house.",
+        "igbo": "Ha bụ ụlọ ahụ."
+      }
+    ]
   },
   {
     "english": "die",
     "igbo": "anwụ",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He died yesterday.",
+        "igbo": "Ọ anwụ ọdị n'abalị."
+      },
+      {
+        "english": "She died peacefully.",
+        "igbo": "Ọ anwụ mmekọrịta."
+      },
+      {
+        "english": "They died in the accident.",
+        "igbo": "Ha anwụ ọhịa mmiri ozuzo."
+      }
+    ]
   },
   {
     "english": "kill",
     "igbo": "igbu",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He killed the bird.",
+        "igbo": "Ọ jidere agwọ ahụ."
+      },
+      {
+        "english": "She killed the plant.",
+        "igbo": "Ọ kwara ọhịa ahụ."
+      },
+      {
+        "english": "They killed the fish.",
+        "igbo": "Ha jidere azụ ahụ."
+      }
+    ]
   },
   {
     "english": "fight",
     "igbo": "ọgụ",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He fought in the battle.",
+        "igbo": "Ọ ọgụ ọhịa mmiri ozuzo."
+      },
+      {
+        "english": "She fought with the opponent.",
+        "igbo": "Ọ ọgụ ọhịa enyi."
+      },
+      {
+        "english": "They fought in the war.",
+        "igbo": "Ha ọgụ ọhịa mmiri ozuzo."
+      }
+    ]
   },
   {
     "english": "hunt",
     "igbo": "ichu nta",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He hunted the deer.",
+        "igbo": "Ọ ichu nta ọhịa."
+      },
+      {
+        "english": "She hunted the rabbit.",
+        "igbo": "Ọ ichu nta ọhịa."
+      },
+      {
+        "english": "They hunted the boar.",
+        "igbo": "Ha ichu nta ọhịa."
+      }
+    ]
   },
   {
     "english": "hit",
     "igbo": "see",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He hit the ball.",
+        "igbo": "Ọ jidere azụ ahụ."
+      },
+      {
+        "english": "She hit the target.",
+        "igbo": "Ọ kwara ọhịa ahụ."
+      },
+      {
+        "english": "They hit the mark.",
+        "igbo": "Ha jidere azụ ahụ."
+      }
+    ]
   },
   {
     "english": "cut",
     "igbo": "bee",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He cut the wood.",
+        "igbo": "Ọ jiri azụ ahụ."
+      },
+      {
+        "english": "She cut the cake.",
+        "igbo": "Ọ kpụchara akwụkwọ abụọ."
+      },
+      {
+        "english": "They cut the vegetables.",
+        "igbo": "Ha jiri ọhịa ahụ."
+      }
+    ]
   },
   {
     "english": "split",
     "igbo": "Kewaa",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He split the wood.",
+        "igbo": "Ọ jiri azụ ahụ."
+      },
+      {
+        "english": "She split the cake.",
+        "igbo": "Ọ kpụchara akwụkwọ abụọ."
+      },
+      {
+        "english": "They split the vegetables.",
+        "igbo": "Ha jiri ọhịa ahụ."
+      }
+    ]
   },
   {
     "english": "stab",
     "igbo": "ndumodu",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He stabbed the man.",
+        "igbo": "Ọ jiri ọhịa ahụ."
+      },
+      {
+        "english": "She stabbed the knife.",
+        "igbo": "Ọ kpụchara nku ahụ."
+      },
+      {
+        "english": "They stabbed the target.",
+        "igbo": "Ha jiri ọhịa ahụ."
+      }
+    ]
   },
   {
     "english": "scratch",
     "igbo": "ọkọ",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He scratched his arm.",
+        "igbo": "Ọ jiri ọhịa ahụ."
+      },
+      {
+        "english": "She scratched the wall.",
+        "igbo": "Ọ jiri ọdọ mmiri ahụ."
+      },
+      {
+        "english": "They scratched the book.",
+        "igbo": "Ha jiri ọhịa ahụ."
+      }
+    ]
   },
   {
     "english": "dig",
     "igbo": "igwu",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He dug the hole.",
+        "igbo": "Ọ gwuru azụ ahụ."
+      },
+      {
+        "english": "She dug the garden.",
+        "igbo": "Ọ gwuru ọhịa ahụ."
+      },
+      {
+        "english": "They dug the garden.",
+        "igbo": "Ha gwuru ọhịa ahụ."
+      }
+    ]
   },
   {
     "english": "swim",
     "igbo": "igwu mmiri",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He swam in the pool.",
+        "igbo": "Ọ gwuo mmiri n'ọdọ mmiri ahụ."
+      },
+      {
+        "english": "She swam in the lake.",
+        "igbo": "Ọ gwuo mmiri n'ọdọ mmiri ahụ."
+      },
+      {
+        "english": "They swam in the sea.",
+        "igbo": "Ha gwuo mmiri n'oké osimiri ahụ."
+      }
+    ]
   },
   {
     "english": "fly",
     "igbo": "ofufe",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He flew to the airport.",
+        "igbo": "Ọ gwuo mmiri n'ọdọ mmiri ahụ."
+      },
+      {
+        "english": "She flew to the city.",
+        "igbo": "Ọ gwuo mmiri n'ọdọ mmiri ahụ."
+      },
+      {
+        "english": "They flew to the destination.",
+        "igbo": "Ha gwuo mmiri n'oké osimiri ahụ."
+      }
+    ]
   },
   {
     "english": "walk",
     "igbo": "ije",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He walked to the park.",
+        "igbo": "Ọ gwuo mmiri n'ọdọ mmiri ahụ."
+      },
+      {
+        "english": "She walked to the store.",
+        "igbo": "Ọ gwuo mmiri n'ọdọ mmiri ahụ."
+      },
+      {
+        "english": "They walked to the beach.",
+        "igbo": "Ha gwuo mmiri n'oké osimiri ahụ."
+      }
+    ]
   },
   {
     "english": "come",
     "igbo": "bia",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He came to the party.",
+        "igbo": "Ọ bia mmadụ bịara na emume."
+      },
+      {
+        "english": "She came to the meeting.",
+        "igbo": "Ọ bia mmadụ nzukọ ahụ."
+      },
+      {
+        "english": "They came to the house.",
+        "igbo": "Ha bia mmadụ ụlọ ahụ."
+      }
+    ]
   },
   {
     "english": "lie down",
     "igbo": "dinara ala",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He lay down on the grass.",
+        "igbo": "Ọ dinara ala ahụ dị akwụkwọ ndụ."
+      },
+      {
+        "english": "She lay down on the bed.",
+        "igbo": "Ọ dinara ala ahụ dị ọhịa."
+      },
+      {
+        "english": "They lay down on the floor.",
+        "igbo": "Ha dinara ala ahụ dị ala."
+      }
+    ]
   },
   {
     "english": "sit",
     "igbo": "nọdụ ala",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He sat on the chair.",
+        "igbo": "Ọ dinara ala ahụ dị ogologo."
+      },
+      {
+        "english": "She sat on the bench.",
+        "igbo": "Ọ dinara ala ahụ dị ogologo."
+      },
+      {
+        "english": "They sat on the floor.",
+        "igbo": "Ha dinara ala ahụ dị ala."
+      }
+    ]
   },
   {
     "english": "stand",
     "igbo": "guzoro",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He stood up.",
+        "igbo": "Ọ guzoro ahụ."
+      },
+      {
+        "english": "She stood on the stage.",
+        "igbo": "Ọ guzoro ọhịa."
+      },
+      {
+        "english": "They stood in line.",
+        "igbo": "Ha guzoro ahụ dị ọdọ mmiri."
+      }
+    ]
   },
   {
     "english": "turn",
     "igbo": "tụgharịa",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He turned the page.",
+        "igbo": "Ọ tụgharịrị akwụkwọ ahụ."
+      },
+      {
+        "english": "She turned the corner.",
+        "igbo": "Ọ tụgharịrị ọdọ mmiri ahụ."
+      },
+      {
+        "english": "They turned the corner.",
+        "igbo": "Ha tụgharịrị ọdọ mmiri ahụ."
+      }
+    ]
   },
   {
     "english": "fall",
     "igbo": "daa",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He fell off the bike.",
+        "igbo": "Ọ daa ọgbọ ala ahụ."
+      },
+      {
+        "english": "She fell down the stairs.",
+        "igbo": "Ọ daa ọhịa abalị ahụ."
+      },
+      {
+        "english": "They fell in the hole.",
+        "igbo": "Ha daa ọhịa ọdọ mmiri ahụ."
+      }
+    ]
   },
   {
     "english": "give",
     "igbo": "nye",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He gave the book to her.",
+        "igbo": "Ọ nye akwụkwọ abụọ."
+      },
+      {
+        "english": "She gave the gift to him.",
+        "igbo": "Ọ nye onyinye abụọ."
+      },
+      {
+        "english": "They gave the money to the charity.",
+        "igbo": "Ha nye ọbara abụọ."
+      }
+    ]
   },
   {
     "english": "hold",
     "igbo": "jide",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He held the baby.",
+        "igbo": "Ọ jide nwa ahụ."
+      },
+      {
+        "english": "She held the glass.",
+        "igbo": "Ọ jide ọdọ mmiri ahụ."
+      },
+      {
+        "english": "They held the meeting.",
+        "igbo": "Ha jide mmadụ bịara ahụ."
+      }
+    ]
   },
   {
     "english": "squeeze",
     "igbo": "afanyekwa",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He squeezed the lemon.",
+        "igbo": "Ọ afanyekwa ọhịa ahụ."
+      },
+      {
+        "english": "She squeezed the juice.",
+        "igbo": "Ọ afanyekwa ọbara ahụ."
+      },
+      {
+        "english": "They squeezed the grapes.",
+        "igbo": "Ha afanyekwa ọhịa ahụ."
+      }
+    ]
   },
   {
     "english": "rub",
     "igbo": "ite",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He rubbed the lotion on his skin.",
+        "igbo": "Ọ ite ọbara ahụ."
+      },
+      {
+        "english": "She rubbed the oil on her hair.",
+        "igbo": "Ọ ite ọbara ahụ."
+      },
+      {
+        "english": "They rubbed the dirt off the car.",
+        "igbo": "Ha ite ọhịa ahụ."
+      }
+    ]
   },
   {
     "english": "wash",
     "igbo": "saa",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He washed his clothes.",
+        "igbo": "Ọ saa ọhịa ahụ."
+      },
+      {
+        "english": "She washed the dishes.",
+        "igbo": "Ọ saa ọdọ mmiri ahụ."
+      },
+      {
+        "english": "They washed the car.",
+        "igbo": "Ha saa ọgbọ ala ahụ."
+      }
+    ]
   },
   {
     "english": "wipe",
     "igbo": "hichapụ",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He wiped the table.",
+        "igbo": "Ọ hichapụ ọdọ mmiri ahụ."
+      },
+      {
+        "english": "She wiped the window.",
+        "igbo": "Ọ hichapụ ọhịa ahụ."
+      },
+      {
+        "english": "They wiped the car.",
+        "igbo": "Ha hichapụ ọgbọ ala ahụ."
+      }
+    ]
   },
   {
     "english": "pull",
     "igbo": "Dọọ",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He pulled the door.",
+        "igbo": "Ọ Dọọ ọdọ mmiri ahụ."
+      },
+      {
+        "english": "She pulled the string.",
+        "igbo": "Ọ Dọọ ọhịa ahụ."
+      },
+      {
+        "english": "They pulled the cart.",
+        "igbo": "Ha Dọọ ọgbọ ala ahụ."
+      }
+    ]
   },
   {
     "english": "push",
     "igbo": "Kwaa",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He pushed the cart.",
+        "igbo": "Ọ Kwaa ọgbọ ala ahụ."
+      },
+      {
+        "english": "She pushed the door.",
+        "igbo": "Ọ Kwaa ọhịa ahụ."
+      },
+      {
+        "english": "They pushed the car.",
+        "igbo": "Ha Kwaa ọgbọ ala ahụ."
+      }
+    ]
   },
   {
     "english": "throw",
     "igbo": "tufuo",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He threw the ball.",
+        "igbo": "Ọ tufuo azụ ahụ."
+      },
+      {
+        "english": "She threw the paper.",
+        "igbo": "Ọ tufuo akwụkwọ abụọ."
+      },
+      {
+        "english": "They threw the stone.",
+        "igbo": "Ha tufuo nkume ahụ."
+      }
+    ]
   },
   {
     "english": "tie",
     "igbo": "tie",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He tied the knot.",
+        "igbo": "Ọ tie ọdọ mmiri ahụ."
+      },
+      {
+        "english": "She tied the ribbon.",
+        "igbo": "Ọ tie ọhịa ahụ."
+      },
+      {
+        "english": "They tied the shoes.",
+        "igbo": "Ha tie ọgbọ ala ahụ."
+      }
+    ]
   },
   {
     "english": "sew",
     "igbo": "ịkwa akwa",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He sewed the button.",
+        "igbo": "Ọ kwa akwa ọdọ mmiri ahụ."
+      },
+      {
+        "english": "She sewed the dress.",
+        "igbo": "Ọ kwa akwa ọhịa ahụ."
+      },
+      {
+        "english": "They sewed the clothes.",
+        "igbo": "Ha kwa akwa ọhịa ahụ."
+      }
+    ]
   },
   {
     "english": "count",
     "igbo": "gụọ",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He counted the money.",
+        "igbo": "Ọ gụọ ọbara ahụ."
+      },
+      {
+        "english": "She counted the guests.",
+        "igbo": "Ọ gụọ mmadụ bịara ahụ."
+      },
+      {
+        "english": "They counted the votes.",
+        "igbo": "Ha gụọ ọbara ahụ."
+      }
+    ]
   },
   {
     "english": "say",
     "igbo": "kwuo",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He said hello.",
+        "igbo": "Ọ kwuo ọhịa."
+      },
+      {
+        "english": "She said thank you.",
+        "igbo": "Ọ kwuo ọbara."
+      },
+      {
+        "english": "They said goodbye.",
+        "igbo": "Ha kwuo ọhịa."
+      }
+    ]
   },
   {
     "english": "sing",
     "igbo": "gwuo egwu",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He sang the song.",
+        "igbo": "Ọ gwuo egwu n'ime nkiri ahụ."
+      },
+      {
+        "english": "She sang the national anthem.",
+        "igbo": "Ọ gwuo egwu n'ime igwe ahụ."
+      },
+      {
+        "english": "They sang the song together.",
+        "igbo": "Ha gwuo egwu ọhịa nkiri ahụ."
+      }
+    ]
   },
   {
     "english": "play",
     "igbo": "gwuo egwu",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He played the guitar.",
+        "igbo": "Ọ gwuo egwu n'ime nkịta ahụ."
+      },
+      {
+        "english": "She played the piano.",
+        "igbo": "Ọ gwuo egwu n'ime ọhịa ahụ."
+      },
+      {
+        "english": "They played the game.",
+        "igbo": "Ha gwuo egwu ọhịa nkịta ahụ."
+      }
+    ]
   },
   {
     "english": "float",
     "igbo": "sere n'elu",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "The boat floated on the water.",
+        "igbo": "Ọdọ mmiri ahụ dị ọhịa."
+      },
+      {
+        "english": "The leaf floated on the river.",
+        "igbo": "Akwụkwọ ndụ ahụ dị ọhịa."
+      },
+      {
+        "english": "The balloon floated in the sky.",
+        "igbo": "Igwe osimiri ahụ dị elu."
+      }
+    ]
   },
   {
     "english": "flow",
     "igbo": "eruba",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "The river flowed through the valley.",
+        "igbo": "Osimiri ahụ dị ọhịa."
+      },
+      {
+        "english": "The water flowed into the lake.",
+        "igbo": "Mmiri ahụ dị ọhịa."
+      },
+      {
+        "english": "The oil flowed into the bottle.",
+        "igbo": "Abụba ahụ dị ọhịa."
+      }
+    ]
   },
   {
     "english": "freeze",
     "igbo": "udu oyi",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "The water froze in the winter.",
+        "igbo": "Mmiri ahụ dị oyi."
+      },
+      {
+        "english": "He froze the ice cream.",
+        "igbo": "Ọ udu oyi azụ ahụ."
+      },
+      {
+        "english": "The ice froze in the freezer.",
+        "igbo": "Ice ahụ dị oyi."
+      }
+    ]
   },
   {
     "english": "swell",
     "igbo": "zaa",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "The water swelled in the river.",
+        "igbo": "Mmiri ahụ dị ọhịa."
+      },
+      {
+        "english": "The flower swelled in the sun.",
+        "igbo": "Ifuru ahụ dị ọhịa."
+      },
+      {
+        "english": "The dough swelled in the oven.",
+        "igbo": "Anụ ahụ dị ọhịa."
+      }
+    ]
   },
   {
     "english": "burn",
     "igbo": "ọkụ",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He burned the toast.",
+        "igbo": "Ọ ọkụ ọdọ mmiri ahụ."
+      },
+      {
+        "english": "She burned the candle.",
+        "igbo": "Ọ ọkụ ọhịa ahụ."
+      },
+      {
+        "english": "They burned the house.",
+        "igbo": "Ha ọkụ ọhịa ahụ."
+      }
+    ]
   },
   {
     "english": "be",
     "igbo": "bụrụ",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "I am here.",
+        "igbo": "Anọ m ebe a."
+      },
+      {
+        "english": "He is here.",
+        "igbo": "Ọ bi ebe a."
+      },
+      {
+        "english": "She is here.",
+        "igbo": "Ọ bụ ebe a."
+      }
+    ]
   },
   {
     "english": "have",
     "igbo": "nwere",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "He has a car.",
+        "igbo": "Ọ nwere ụgbọ ala ahụ."
+      },
+      {
+        "english": "She has a cat.",
+        "igbo": "Ọ nwere nkịta ahụ."
+      },
+      {
+        "english": "They have a house.",
+        "igbo": "Ha nwere ụlọ ahụ."
+      }
+    ]
   },
   {
     "english": "do",
     "igbo": "mee",
-    "category": "Verb"
+    "category": "Verb",
+    "examples": [
+      {
+        "english": "I do the work.",
+        "igbo": "Anọ m mee ọhịa."
+      },
+      {
+        "english": "He does the job.",
+        "igbo": "Ọ bụ enyi ọhịa."
+      },
+      {
+        "english": "They do the project.",
+        "igbo": "Ha bụ enyi ọhịa."
+      }
+    ]
   }
 ]
