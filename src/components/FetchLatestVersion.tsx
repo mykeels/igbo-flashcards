@@ -29,6 +29,7 @@ export const FetchLatestVersion = ({
   const { data: isAvailable } = useQuery({
     queryKey: ["latest-version"],
     queryFn: isNewVersionAvailable,
+    refetchInterval: 1000 * 60 * 5,
   });
   const { isLoading, mutate } = useMutation({
     mutationFn: fetchLatestVersion,
