@@ -1,5 +1,5 @@
 // Import necessary libraries
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useMemo } from "react";
 import { clsx } from "clsx";
 import { useNavigate, useSearchParams } from "react-router";
 import { z } from "zod";
@@ -11,21 +11,7 @@ import { Examples } from "./Examples";
 const WordFlashCard: React.FC = () => {
   const [showIgbo, setShowIgbo] = useState(false);
   const [countdown, setCountdown] = useState(3);
-  const search = useSearch();
-
-  // Function to get a random word from the list
-  const getRandomWord = () => {
-    const wordSet =
-      search.category && search.category !== "all"
-        ? words.filter(
-            (word) =>
-              word.category.toLowerCase() === search.category?.toLowerCase()
-          )
-        : words;
-    return wordSet[Math.floor(Math.random() * wordSet.length)];
-  };
-  const [currentWord, setCurrentWord] = useState(() => getRandomWord());
-
+  const { currentWord, setNextWord } = useWord();
   const { ref, isHeld } = useMouseHold();
 
   // Effect to handle the countdown
@@ -47,17 +33,13 @@ const WordFlashCard: React.FC = () => {
   // Function to handle card click
   const handleCardClick = () => {
     if (showIgbo) {
-      setCurrentWord(getRandomWord());
+      setNextWord();
       setShowIgbo(false);
       setCountdown(3);
     } else {
       setShowIgbo(true);
     }
   };
-
-  useEffect(() => {
-    setCurrentWord(getRandomWord());
-  }, [search?.category]);
 
   const backgroundColor = {
     noun: "bg-blue-300",
@@ -84,7 +66,7 @@ const WordFlashCard: React.FC = () => {
               "w-full max-w-sm text-black border-2 border-gray-700 rounded-md p-2",
               backgroundColor
             )}
-            value={search.category ?? "all"}
+            value={currentWord.category.toLowerCase() ?? "all"}
             onChange={(e) => {
               const category = e.target.value;
               navigate(`/?category=${category}`);
@@ -149,7 +131,41 @@ function useSearch() {
           "verb",
         ])
         .optional(),
+      word: z.string().optional(),
     })
     .parse(Object.fromEntries(searchParams));
   return search;
+}
+
+function useWord() {
+  const search = useSearch();
+  const navigate = useNavigate();
+  // Function to get a random word from the list
+  const getRandomWord = () => {
+    const wordSet =
+      search.category && search.category !== "all"
+        ? words.filter(
+            (word) =>
+              word.category.toLowerCase() === search.category?.toLowerCase()
+          )
+        : words;
+    return wordSet[Math.floor(Math.random() * wordSet.length)];
+  };
+  const setNextWord = () => {
+    navigate(`/?category=${search.category ?? "all"}&word=${getRandomWord().english}`);
+  }
+  const currentWord = useMemo(() => {
+    return words.find((word) => word.english === search.word) || getRandomWord();
+  }, [search.word, search.category]);
+  useEffect(() => {
+    if (!search.word && !search.category) {
+      navigate(`/?category=all&word=${currentWord.english}`, { replace: true });
+    } else if (!search.word) {
+      navigate(`/?category=${search.category}&word=${currentWord.english}`, { replace: true });
+    }
+  }, [search?.category, currentWord.english, search.word]);
+  return {
+    currentWord,
+    setNextWord,
+  }
 }
