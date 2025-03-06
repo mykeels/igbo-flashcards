@@ -1,20 +1,21 @@
 // Import necessary libraries
-import React, { useState, useEffect, useMemo } from "react";
+import React, { useState, useEffect, useMemo, useCallback, useRef } from "react";
 import { clsx } from "clsx";
 import { useNavigate, useSearchParams } from "react-router";
 import { z } from "zod";
 import words from "../data/words.json";
 import { useMouseHold } from "@/hooks/useMouseHold.hook";
 import { Examples } from "./Examples";
-import { speak } from "@/utils/speak";
 import { motion } from "framer-motion";
 import { CurrentVersion, FetchLatestVersion } from "./FetchLatestVersion";
+import { sequence } from "@/utils/sound";
+import { cleanFileName } from "@/utils/files";
 // Define the WordCard component
 const WordFlashCard: React.FC = () => {
   const [showIgbo, setShowIgbo] = useState(false);
   const [countdown, setCountdown] = useState(3);
   const [shouldSpeak, setShouldSpeak] = useState(false);
-  const { currentWord, setNextWord } = useWord({ shouldSpeak });
+  const { currentWord, setNextWord } = useWord({ shouldSpeak, isShowingIgbo: showIgbo });
   const { ref, isHeld } = useMouseHold();
 
   // Effect to handle the countdown
@@ -86,14 +87,14 @@ const WordFlashCard: React.FC = () => {
             <option value="pronoun">Pronoun</option>
             <option value="verb">Verb</option>
           </motion.select>
-          <motion.button 
-            type="button" 
+          <motion.button
+            type="button"
             className={clsx(
               "text-black px-4 py-2 rounded-md border-2 border-gray-700",
               {
                 [backgroundColor || 'bg-transparent']: shouldSpeak,
                 "bg-gray-300": !shouldSpeak,
-              })} 
+              })}
             onClick={() => setShouldSpeak(!shouldSpeak)}
             initial={{ opacity: 0, x: 100 }}
             animate={{ opacity: 1, x: 0 }}
@@ -127,8 +128,9 @@ const WordFlashCard: React.FC = () => {
       </motion.div>
       {showIgbo && !!currentWord.examples && (
         <Examples
-          examples={currentWord.examples}
+          word={currentWord}
           backgroundColor={backgroundColor ?? "bg-gray-300"}
+          shouldSpeak={shouldSpeak}
         />
       )}
       <CurrentVersion />
@@ -163,8 +165,10 @@ function useSearch() {
 
 function useWord({
   shouldSpeak = true,
+  isShowingIgbo = true,
 }: {
   shouldSpeak?: boolean;
+  isShowingIgbo?: boolean;
 }) {
   const search = useSearch();
   const navigate = useNavigate();
@@ -180,7 +184,9 @@ function useWord({
     return wordSet[Math.floor(Math.random() * wordSet.length)];
   };
   const setNextWord = () => {
-    navigate(`/?category=${search.category ?? "all"}&word=${getRandomWord().english}`);
+    const nextWord = getRandomWord();
+    navigate(`/?category=${search.category ?? "all"}&word=${nextWord.english}`);
+    return nextWord;
   }
   const currentWord = useMemo(() => {
     return words.find((word) => word.english === search.word) || getRandomWord();
@@ -193,14 +199,46 @@ function useWord({
     }
   }, [search?.category, currentWord.english, search.word]);
 
+  const audio = useRef<Howl | null>(null);
+  const speakCurrentWord = useCallback(() => {
+    audio.current?.stop();
+    audio.current = sequence([
+      `/audio/${cleanFileName(currentWord.category)}/${cleanFileName(currentWord.english)}/${cleanFileName(currentWord.english)}.english.mp3`,
+    ]);
+    if (shouldSpeak) {
+      audio.current?.play();
+    }
+    return audio.current;
+  }, [currentWord, shouldSpeak]);
+
+  const speakTranslationAndExamples = useCallback(() => {
+    audio.current?.stop();
+    audio.current = sequence([
+      `/audio/${cleanFileName(currentWord.category)}/${cleanFileName(currentWord.english)}/${cleanFileName(currentWord.english)}.igbo.mp3`,
+    ]);
+    if (shouldSpeak) {
+      audio.current?.play();
+    }
+    return audio.current;
+  }, [currentWord, shouldSpeak]);
+
   useEffect(() => {
     if (shouldSpeak) {
-      speak(currentWord.english);
+      console.log("speaking audio");
+      audio.current = isShowingIgbo ? speakTranslationAndExamples() : speakCurrentWord();
+      const id = audio.current.play();
+      return () => audio.current?.stop(id);
+    } else {
+      console.log("stopping audio");
+      audio.current?.stop();
     }
-  }, [currentWord.english, shouldSpeak]);
+    return () => { };
+  }, [currentWord, shouldSpeak, isShowingIgbo]);
 
   return {
     currentWord,
     setNextWord,
+    speakCurrentWord,
+    speakTranslationAndExamples,
   }
 }

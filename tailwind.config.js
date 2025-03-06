@@ -18,6 +18,11 @@ export default {
       colors: {
         primary: "#BB017A",
       },
+      animation: {
+        breathe: "breathe 1s infinite",
+        vibrate: "vibrate 0.4s linear",
+        distort: "distort 0.3s infinite",
+      },
     },
   },
   plugins: [require("tailwindcss-animate")],
