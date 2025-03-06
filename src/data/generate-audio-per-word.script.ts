@@ -1,26 +1,100 @@
 import fs from "fs";
 import path from "path";
+import axios from "axios";
 import { $ } from "bun";
 import words from "./words.json";
+import dotenv from "dotenv";
+
+dotenv.config();
 
 const sayToMp3 = path.join(__dirname, "../../scripts/say-to-mp3.sh");
+const wavToMp3 = path.join(__dirname, "../../scripts/wav-to-mp3.sh");
 
 for (const word of words) {
-  const { filePath, fileName } = getFilePath(
+  const { filePath: englishFilePath, fileName: englishFileName } = getFilePath(
     word.english,
     word.category,
     "english"
   );
-  await $`${sayToMp3} -o ${filePath} ${word.english}`;
-  for (const example of word.examples) {
-    const { filePath } = getFilePath(
-      example.english,
-      word.category,
-      "english",
-      `${fileName}/examples`
-    );
-    await $`${sayToMp3} -o ${filePath} ${example.english}`;
+  const { filePath: igboFilePath } = getFilePath(
+    word.english,
+    word.category,
+    "igbo"
+  );
+  if (!fs.existsSync(englishFilePath)) {
+    await $`${sayToMp3} -o ${englishFilePath} ${word.english}`;
   }
+  if (!fs.existsSync(igboFilePath)) {
+    const res = await axios.post(
+      `https://api.spi-tch.com/v1/speech`,
+      {
+        text: word.igbo,
+        voice: "obinna",
+        language: "ig",
+      },
+      {
+        headers: {
+          Authorization: `Bearer ${process.env.SPI_TCH_API_KEY}`,
+        },
+        responseType: "stream",
+      }
+    );
+    const igboFilePathWav = igboFilePath.replace(".mp3", ".wav");
+    await new Promise((resolve, reject) => {
+      const writer = fs.createWriteStream(igboFilePathWav);
+      res.data.pipe(writer);
+      writer.on("finish", resolve);
+      writer.on("error", reject);
+    });
+    await $`bash ${wavToMp3} ${igboFilePathWav}`;
+  }
+  await Promise.all(
+    word.examples.map(async (example) => {
+      const { filePath: englishExampleFilePath } = getFilePath(
+        example.english,
+        word.category,
+        "english",
+        `${englishFileName}/examples`
+      );
+      if (!fs.existsSync(englishExampleFilePath)) {
+        await $`${sayToMp3} -o ${englishExampleFilePath} ${example.english}`;
+      }
+
+      const { filePath: igboExampleFilePath } = getFilePath(
+        example.english,
+        word.category,
+        "igbo",
+        `${englishFileName}/examples`
+      );
+      const igboExampleFilePathWav = igboExampleFilePath.replace(
+        ".mp3",
+        ".wav"
+      );
+      if (!fs.existsSync(igboExampleFilePath)) {
+        const res = await axios.post(
+          `https://api.spi-tch.com/v1/speech`,
+          {
+            text: example.igbo,
+            voice: "obinna",
+            language: "ig",
+          },
+          {
+            headers: {
+              Authorization: `Bearer ${process.env.SPI_TCH_API_KEY}`,
+            },
+            responseType: "stream",
+          }
+        );
+        await new Promise((resolve, reject) => {
+          const writer = fs.createWriteStream(igboExampleFilePathWav);
+          res.data.pipe(writer);
+          writer.on("finish", resolve);
+          writer.on("error", reject);
+        });
+        await $`bash ${wavToMp3} ${igboExampleFilePathWav}`;
+      }
+    })
+  );
 }
 
 function getFilePath(
@@ -37,7 +111,7 @@ function getFilePath(
   const fileName = getFileName(text);
   const filePath = path.join(
     __dirname,
-    "audio",
+    "../../public/audio",
     category.toLowerCase(),
     folder || fileName,
     `${fileName}.${language}.mp3`
