@@ -8,6 +8,7 @@ import { useMouseHold } from "@/hooks/useMouseHold.hook";
 import { Examples } from "./Examples";
 import { speak } from "@/utils/speak";
 import { motion } from "framer-motion";
+import { FetchLatestVersion } from "./FetchLatestVersion";
 // Define the WordCard component
 const WordFlashCard: React.FC = () => {
   const [showIgbo, setShowIgbo] = useState(false);
@@ -100,6 +101,7 @@ const WordFlashCard: React.FC = () => {
           >
             {shouldSpeak ? "🔈" : "🔇"}
           </motion.button>
+          <FetchLatestVersion backgroundColor={backgroundColor} />
         </form>
       </div>
       <motion.div
