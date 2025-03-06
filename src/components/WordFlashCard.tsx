@@ -8,7 +8,7 @@ import { useMouseHold } from "@/hooks/useMouseHold.hook";
 import { Examples } from "./Examples";
 import { speak } from "@/utils/speak";
 import { motion } from "framer-motion";
-import { FetchLatestVersion } from "./FetchLatestVersion";
+import { CurrentVersion, FetchLatestVersion } from "./FetchLatestVersion";
 // Define the WordCard component
 const WordFlashCard: React.FC = () => {
   const [showIgbo, setShowIgbo] = useState(false);
@@ -131,6 +131,7 @@ const WordFlashCard: React.FC = () => {
           backgroundColor={backgroundColor ?? "bg-gray-300"}
         />
       )}
+      <CurrentVersion />
     </div>
   );
 };

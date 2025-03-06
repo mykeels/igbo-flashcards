@@ -1,5 +1,6 @@
 import clsx from "clsx";
 import { useMutation, useQuery } from "react-query";
+import packageJson from "../../package.json";
 
 export const fetchLatestVersion = async () => {
   if ("serviceWorker" in navigator) {
@@ -52,4 +53,12 @@ export const FetchLatestVersion = ({
       />
     </button>
   ) : null;
+};
+
+export const CurrentVersion = () => {
+  return (
+    <div className="block w-full text-xs text-red-400 p-4 text-center opacity-75">
+      v{packageJson.version}
+    </div>
+  );
 };
