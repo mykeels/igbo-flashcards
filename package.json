@@ -25,6 +25,8 @@
     "@tanstack/virtual-file-routes": "^1.99.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
+    "csv-parser": "^3.2.0",
+    "export-to-csv": "^1.4.0",
     "framer-motion": "^11.9.0",
     "gh-pages": "^6.1.1",
     "howler": "^2.2.4",

@@ -1,209 +1,213 @@
-English,Igbo,Part of Speech
-all,niile,Adjective
-many,ọtụtụ,Adjective
-some,ụfọdụ,Adjective
-few,ole na ole,Adjective
-other,ọzọ,Adjective
-big,nnukwu,Adjective
-long,ogologo,Adjective
-wide,obosara,Adjective
-thick,oké,Adjective
-heavy,arọ,Adjective
-small,obere,Adjective
-short,nkenke,Adjective
-narrow,warara,Adjective
-thin,mkpa,Adjective
-warm,na-ekpo ọkụ,Adjective
-cold,oyi,Adjective
-full,juputara,Adjective
-new,ọhụrụ,Adjective
-old,ochie,Adjective
-good,nke ọma,Adjective
-bad,ọjọọ,Adjective
-rotten,rere ure,Adjective
-dirty,ruru unyi,Adjective
-straight,Kwụ ọtọ,Adjective
-round,gburugburu,Adjective
-sharp,nkọ,Adjective
-dull (as a knife),ogbu,Adjective
-smooth,ire ụtọ,Adjective
-wet,udu mmiri,Adjective
-dry,akọrọ,Adjective
-correct,ziri ezi,Adjective
-near,nso,Adjective
-far,anya,Adjective
-how,Kedu,Adverb
-not,ọ bụghị,Adverb
-and,na,Conjunction
-if,ọ bụrụ,Conjunction
-because,n'ihi na,Conjunction
-one,otu,Noun
-two,abuo,Noun
-three,atọ,Noun
-four,anọ,Noun
-five,ise,Noun
-woman,nwanyi,Noun
-man (adult male),nwoke (oke nwoke),Noun
-man (human being),mmadụ (mmadụ),Noun
-child,nwa,Noun
-wife,nwunye,Noun
-husband,di,Noun
-mother,nne,Noun
-father,nna,Noun
-animal,anụmanụ,Noun
-fish,azụ,Noun
-bird,nnụnụ,Noun
-dog,nkịta,Noun
-louse,owu,Noun
-snake,agwo,Noun
-worm,ikpuru,Noun
-tree,osisi,Noun
-forest,ọhịa,Noun
-stick,osisi,Noun
-fruit,mkpụrụ osisi,Noun
-seed,mkpụrụ,Noun
-leaf,akwukwo,Noun
-root,mgbọrọgwụ,Noun
-bark (of a tree),ogbugbo (nke osisi),Noun
-flower,ifuru,Noun
-grass,ahihia,Noun
-rope,eriri,Noun
-skin,akpụkpọ anụ,Noun
-meat,anụ,Noun
-blood,ọbara,Noun
-bone,ọkpụkpụ,Noun
-fat (noun),abụba (aha),Noun
-egg,akwa,Noun
-horn,mpi,Noun
-tail,ọdụ,Noun
-feather,nku,Noun
-hair,ntutu isi,Noun
-head,isi,Noun
-ear,nti,Noun
-eye,anya,Noun
-nose,imi,Noun
-mouth,ọnụ,Noun
-tooth,eze,Noun
-tongue (organ),ire (ngwa),Noun
-fingernail,mbọ aka,Noun
-foot,ukwu,Noun
-leg,ukwu,Noun
-knee,ikpere,Noun
-hand,aka,Noun
-wing,nku,Noun
-belly,afọ,Noun
-guts,eriri afọ,Noun
-neck,olu,Noun
-back,azụ,Noun
-breast,ara,Noun
-heart,obi,Noun
-liver,imeju,Noun
-sun,anyanwụ,Noun
-moon,ọnwa,Noun
-star,kpakpando,Noun
-water,mmiri,Noun
-rain,mmiri ozuzo,Noun
-river,osimiri,Noun
-lake,ọdọ mmiri,Noun
-sea,oké osimiri,Noun
-salt,nnu,Noun
-stone,nkume,Noun
-sand,ájá,Noun
-dust,uzuzu,Noun
-earth,ụwa,Noun
-cloud,igwe ojii,Noun
-fog,foogu,Noun
-sky,elu-igwe,Noun
-wind,ifufe,Noun
-snow,snow,Noun
-ice,ice,Noun
-smoke,anwụrụ,Noun
-fire,ọkụ,Noun
-ash,ntu,Noun
-road,okporo uzo,Noun
-mountain,ugwu,Noun
-red,uhie,Noun
-green,akwụkwọ ndụ akwụkwọ ndụ,Noun
-yellow,edo edo,Noun
-white,ọcha,Noun
-black,nwa,Noun
-night,abalị,Noun
-day,ụbọchị,Noun
-year,afọ,Noun
-right,nri,Noun
-left,aka ekpe,Noun
-name,aha,Noun
-this,nke a,Preposition
-that,na,Preposition
-here,Ebe a,Preposition
-there,Ebe ahụ,Preposition
-who,WHO,Preposition
-what,Kedu,Preposition
-where,ebee,Preposition
-when,mgbe ole,Preposition
-at,na,Preposition
-in,n'ime,Preposition
-with,ya na,Preposition
-me,m,Pronoun
-you (singular),ị (otu),Pronoun
-he,ọ,Pronoun
-we,anyi,Pronoun
-you (plural),ị (ọtụtụ),Pronoun
-they,ha,Pronoun
-drink,ṅụọ,Verb
-eat,rie,Verb
-bite,taa,Verb
-suck,nuo,Verb
-spit,gbaa ọnụ mmiri,Verb
-vomit,agbọ agbọ,Verb
-blow,ịfụ,Verb
-breathe,iku ume,Verb
-laugh,ochi,Verb
-see,hụ,Verb
-hear,nụ,Verb
-know,mara,Verb
-think,chee echiche,Verb
-smell,isi,Verb
-fear,egwu,Verb
-sleep,ura,Verb
-live,ibi ndụ,Verb
-die,anwụ,Verb
-kill,igbu,Verb
-fight,ọgụ,Verb
-hunt,ichu nta,Verb
-hit,see,Verb
-cut,bee,Verb
-split,Kewaa,Verb
-stab,ndumodu,Verb
-scratch,ọkọ,Verb
-dig,igwu,Verb
-swim,igwu mmiri,Verb
-fly,ofufe,Verb
-walk,ije,Verb
-come,bia,Verb
-lie down,dinara ala,Verb
-sit,nọdụ ala,Verb
-stand,guzoro,Verb
-turn,tụgharịa,Verb
-fall,daa,Verb
-give,nye,Verb
-hold,jide,Verb
-squeeze,afanyekwa,Verb
-rub,ite,Verb
-wash,saa,Verb
-wipe,hichapụ,Verb
-pull,Dọọ,Verb
-push,Kwaa,Verb
-throw,tufuo,Verb
-tie,tie,Verb
-sew,ịkwa akwa,Verb
-count,gụọ,Verb
-say,kwuo,Verb
-sing,gwuo egwu,Verb
-play,gwuo egwu,Verb
-float,sere n'elu,Verb
-flow,eruba,Verb
-freeze,ifriizi,Verb
-swell,zaa,Verb
-burn,ọkụ,Verb
-be,bụrụ,Verb
+English,Igbo,Category,English Example 1,Igbo Example 1,English Example 2,Igbo Example 2,English Example 3,Igbo Example 3
+all,niile,Adjective,All the students are here.,Ụmụ akwụkwọ niile nọ ebe a.,All the books are on the table.,Akwụkwọ niile dị na tebụl.,She ate all the food.,O riri nri niile.
+many,ọtụtụ,Adjective,Many people came to the party.,Ọtụtụ ndị mmadụ bịara oriri na ọṅụṅụ.,There are many stars in the sky.,Enwere ọtụtụ kpakpando na mbara igwe.,He has many friends.,O nwere ọtụtụ ndị enyi.
+some,ụfọdụ,Adjective,Some students are absent today.,Ụfọdụ ụmụ akwụkwọ anọghị taa.,I need some water.,Achọrọ m mmiri.,Some of the apples are ripe.,Ụfọdụ apụl chara acha.
+few,ọ̀lé nà ọ̀lé,Adjective,Few people attended the meeting.,Ọ bụ mmadụ ole na ole bịara nzukọ ahụ.,There are few apples left.,Apụl ole na ole fọdụrụ.,Few students passed the exam.,Ụmụ akwụkwọ ole na ole gafere ule ahụ.
+other,ọ̀zọ,Adjective,The other book is on the shelf.,Akwụkwọ nke ọzọ dị na shelf.,She has other plans for the weekend.,O nwere atụmatụ ndị ọzọ maka izu ụka.,Do you have any other questions?,Ị nwere ajụjụ ndị ọzọ?
+big,nnukwu,Adjective,The big dog barked loudly.,Nkịta ukwu na-eti mkpu.,He lives in a big house.,O bi na nnukwu ụlọ.,The big tree provides shade.,Osisi ukwu na-enye ndò.
+long,ogologo,Adjective,The road is long.,Ụzọ ahụ dị ogologo.,He wrote a long letter.,O dere ogologo akwụkwọ ozi.,The snake is long.,Agwo di ogologo.
+wide,obosara,Adjective,The river is wide.,Osimiri ahụ sara mbara.,He has a wide smile.,Ọ na-amụmụ ọnụ ọchị.,The street is wide.,Okporo ụzọ ahụ sara mbara.
+thick,oké,Adjective,The book is thick.,Akwụkwọ ahụ buru ibu.,The forest is thick.,Oke ohia di oke.,The soup is thick.,Ofe dị oke.
+heavy,arọ,Adjective,The box is heavy.,Igbe ahụ dị arọ.,He carried a heavy load.,O buru ibu dị arọ.,The rain is heavy.,Mmiri na-ezo.
+small,obere,Adjective,The small cat is cute.,Obere nwamba mara mma.,He lives in a small apartment.,O bi n’obere ụlọ.,The small gift was appreciated.,E nwere ekele maka obere onyinye ahụ.
+short,nkenke,Adjective,The meeting was short.,Nzukọ ahụ dị mkpụmkpụ.,He gave a short speech.,O kwuru okwu dị mkpirikpi.,The short story was interesting.,Akụkọ dị mkpirikpi dị ụtọ.
+narrow,warara,Adjective,The path is narrow.,Ụzọ ahụ dị warara.,He has a narrow view.,O nwere echiche dị warara.,The narrow bridge is dangerous.,Àkwà mmiri dị warara dị ize ndụ.
+thin,mkpa,Adjective,The paper is thin.,Akwụkwọ ahụ dị gịrịgịrị.,He is thin and tall.,Ọ dị gịrịgịrị ma ogologo.,The thin ice is fragile.,Akpụkpọ ahụ dị gịrịgịrị na-esighi ike.
+warm,na-ekpo ọkụ,Adjective,The soup is warm.,Ofe na-ekpo ọkụ.,He gave a warm welcome.,Ọ nabatara nke ọma.,The weather is warm today.,Ihu igwe na-ekpo ọkụ taa.
+cold,oyi,Adjective,The water is cold.,Mmiri dị oyi.,He caught a cold.,Oyi jidere ya.,The cold wind is blowing.,Ifufe oyi na-efe.
+full,juputara,Adjective,The glass is full.,Iko a juputara.,He is full of energy.,O juputara na ume.,The room is full of people.,Ndị mmadụ juputara n'ọnụ ụlọ ahụ.
+new,ọhụrụ,Adjective,The car is new.,Ụgbọ ala ahụ dị ọhụrụ.,He has a new job.,O nwere ọrụ ọhụrụ.,The new book is interesting.,Akwụkwọ ọhụrụ ahụ na-adọrọ mmasị.
+old,ochie,Adjective,The house is old.,Ụlọ ochie.,He is an old friend.,Ọ bụ enyi ochie.,The old tree is still standing.,Osisi ochie ka guzo.
+good,nke ọma,Adjective,The food is good.,Nri dị mma.,He is a good person.,Ọ bụ ezigbo mmadụ.,The movie was good.,Ihe nkiri ahụ dị mma.
+bad,ọjọọ,Adjective,The weather is bad.,Ihu igwe adịghị mma.,He made a bad decision.,O mere mkpebi ọjọọ.,The food tastes bad.,Ihe oriri na-atọ ụtọ.
+rotten,rere ure,Adjective,The fruit is rotten.,Mkpụrụ osisi rere ure.,He found a rotten egg.,Ọ hụrụ akwa rere ure.,The meat smells rotten.,Anụ na-esi ísì rere ure.
+dirty,ruru unyi,Adjective,The floor is dirty.,Ala ruru unyi.,He wore dirty clothes.,O yi uwe ruru unyi.,The water looks dirty.,Mmiri dị ka unyi.
+straight,Kwụ ọtọ,Adjective,The road is straight.,Ụzọ kwụ ọtọ.,He gave a straight answer.,Ọ zara azịza kwụ ọtọ.,The line is straight.,Ahịrị kwụ ọtọ.
+round,gburugburu,Adjective,The table is round.,Tebụl dị okirikiri.,He drew a round circle.,Ọ sere okirikiri okirikiri.,The ball is round.,Bọọlụ ahụ dị okirikiri.
+sharp,nkọ,Adjective,The knife is sharp.,Mma dị nkọ.,He has a sharp mind.,O nwere uche dị nkọ.,The sharp edge cut him.,Ọkpụkpụ dị nkọ wepụrụ ya.
+dull (as a knife),ogbu,Adjective,The knife is dull.,Mma ahụ ada ada.,He used a dull blade.,O ji agụba na-adịghị mma.,The dull tool is hard to use.,The dull ngwá ọrụ siri ike iji.
+smooth,ire ụtọ,Adjective,The surface is smooth.,Elu dị ire ụtọ.,He has smooth skin.,O nwere ezigbo akpụkpọ.,The transition was smooth.,Mgbanwe ahụ dị nro.
+wet,udu mmiri,Adjective,The ground is wet.,Ala mmiri.,He wore wet clothes.,O yi uwe mmiri.,The wet towel is on the floor.,Akwa nhicha mmiri dị n'ala.
+dry,akọrọ,Adjective,The clothes are dry.,Uwe ahụ akpọnwụwo.,He has dry skin.,O nwere akpụkpọ anụ.,The dry season is here.,Oge ọkọchị dị ebe a.
+correct,ziri ezi,Adjective,The answer is correct.,Azịza ya ziri ezi.,He made the correct choice.,O mere nhọrọ ziri ezi.,The correct spelling is important.,Nsụgharị ziri ezi dị mkpa.
+near,nso,Adjective,The school is near.,Ụlọ akwụkwọ dị nso.,He lives near the market.,O bi nso n'ahịa.,The park is near my house.,Ogige ntụrụndụ dị nso n'ụlọ m.
+far,anya,Adjective,The city is far.,Obodo dị anya.,He traveled far from home.,Ọ gara ebe dị anya site n’ụlọ ya.,The mountain is far away.,Ugwu ahụ dị anya.
+how,Kedu,Adverb,How are you?,Kedu ka ị mere?,How does it work?,Kedu ka ọ si arụ ọrụ?,How did you do it?,Kedu ka i siri mee ya?
+not,ọ bụghị,Adverb,I am not hungry.,Agụụ anaghị agụ m.,He is not coming.,Ọ naghị abịa.,It is not raining.,Mmiri anaghị ezo.
+and,na,Conjunction,He and I are friends.,Mụ na ya bụ enyi.,Bread and butter.,Achịcha na bọta.,Cats and dogs.,Nwamba na nkịta.
+if,ọ bụrụ,Conjunction,"If it rains, we will stay inside.","Ọ bụrụ na mmiri zoo, anyị ga-anọ n'ime.","If you come, I will be happy.","Ị bịa, obi ga-adị m ụtọ.","If he calls, let me know.","Ọ bụrụ na ọ kpọọ, mee ka m mara."
+because,n'ihi na,Conjunction,I am happy because you are here.,Obi dị m ụtọ n'ihi na ị nọ ebe a.,He left because it was late.,Ọ hapụrụ n'ihi na oge eruola.,She cried because she was sad.,O bere ákwá n’ihi na o wutere ya.
+one,otu,Noun,One apple is left.,Otu apụl fọdụrụ.,He is one of a kind.,Ọ bụ otu n'ime ụdị.,"One day, I will travel.","Otu ụbọchị, m ga-eme njem."
+two,abuo,Noun,I have two brothers.,Enwere m ụmụnne abụọ.,Two birds are flying.,Nnụnụ abụọ na-efe efe.,He bought two books.,Ọ zụtara akwụkwọ abụọ.
+three,atọ,Noun,Three cats are playing.,Nwamba atọ na-egwu egwu.,He has three cars.,O nwere ụgbọ ala atọ.,Three days have passed.,Ụbọchị atọ agafeela.
+four,anọ,Noun,Four students are absent.,Ụmụ akwụkwọ anọ anọghị ya.,He has four sisters.,O nwere ụmụnne nwanyị anọ.,Four chairs are in the room.,Oche anọ dị n'ime ụlọ ahụ.
+five,ise,Noun,Five apples are on the table.,Apụl ise dị na tebụl.,He has five friends.,O nwere ndị enyi ise.,Five days remain.,Ụbọchị ise fọdụrụ.
+woman,nwanyi,Noun,The woman is kind.,Nwanyị ahụ nwere obiọma.,She is a strong woman.,Ọ bụ nwanyị siri ike.,The woman is cooking.,Nwanyị ahụ na-esi nri.
+man (adult male),nwoke (oke nwoke),Noun,The man is tall.,Nwoke ahụ toro ogologo.,He is a brave man.,Ọ bụ nwoke nwere obi ike.,The man is working.,Nwoke ahụ na-arụ ọrụ.
+man (human being),mmadụ (mmadụ),Noun,Man is a social being.,Mmadụ bụ mmadụ.,He is a good man.,Ọ bụ ezigbo mmadụ.,Man has evolved over time.,Mmadụ etolitela ka oge na-aga.
+child,nwa,Noun,The child is playing.,Nwatakịrị na-egwu egwu.,She is a happy child.,Ọ bụ nwa obi ụtọ.,The child is sleeping.,Nwatakịrị na-ehi ụra.
+wife,nwunye,Noun,His wife is kind.,Nwunye ya nwere obiọma.,She is a supportive wife.,Ọ bụ nwunye na-akwado ya.,The wife is cooking dinner.,Nwunye na-esi nri abalị.
+husband,di,Noun,Her husband is caring.,Di ya na-eche banyere ya.,He is a loving husband.,Ọ bụ di na-ahụ n’anya.,The husband is fixing the car.,Di na-edozi ụgbọ ala.
+mother,nne,Noun,The mother is singing.,Nne na-abụ abụ.,She is a caring mother.,Ọ bụ nne na-ahụ n'anya.,The mother is teaching her child.,Nne na-akụziri nwa ya ihe.
+father,nna,Noun,The father is reading.,Nna na-agụ akwụkwọ.,He is a responsible father.,Ọ bụ nna nwere ikike.,The father is playing with his children.,Nna ya na ụmụ ya na-egwuri egwu.
+animal,anụmanụ,Noun,The animal is wild.,Anụ ọhịa bụ anụ ọhịa.,He loves animals.,Ọ hụrụ anụmanụ n'anya.,The animal is sleeping.,Anụ na-ehi ụra.
+fish,azụ,Noun,The fish is swimming.,Azụ na-egwu mmiri.,He caught a big fish.,Ọ nwụdere nnukwu azụ̀.,The fish is tasty.,Azụ na-atọ ụtọ.
+bird,nnụnụ,Noun,The bird is singing.,Nnụnụ na-abụ abụ.,He saw a colorful bird.,Ọ hụrụ nnụnụ mara mma.,The bird is flying.,Nnụnụ na-efe efe.
+dog,nkịta,Noun,The dog is barking.,Nkịta na-agbọ ụja.,He has a friendly dog.,O nwere nkịta enyi na enyi.,The dog is playing in the yard.,Nkịta na-egwu egwu n'ogige.
+louse,owu,Noun,The louse is small.,Uwe ahụ dị obere.,He found a louse in his hair.,Ọ chọtara úkwù n'isi ya.,The louse is hard to see.,Uwe siri ike ịhụ.
+snake,agwo,Noun,The snake is long.,Agwo di ogologo.,He saw a snake in the garden.,Ọ hụrụ agwọ n’ubi ahụ.,The snake is dangerous.,Agwọ dị ize ndụ.
+worm,ikpuru,Noun,The worm is crawling.,Ikpuru na-akpụ akpụ.,He found a worm in the soil.,Ọ hụrụ ikpuru n’ala.,The worm is small.,Ikpuru dị obere.
+tree,osisi,Noun,The tree is tall.,Osisi ahụ toro ogologo.,He climbed the tree.,Ọ rịgoro n'elu osisi.,The tree provides shade.,Osisi ahụ na-enye ndò.
+forest,ọhịa,Noun,The forest is dense.,Ohia juru oke.,He got lost in the forest.,Ọ furu efu n'ime ọhịa.,The forest is home to many animals.,Ohia bu otutu anumanu.
+stick,osisi,Noun,He picked up a stick.,O were osisi.,The stick is strong.,Osisi ahụ siri ike.,He used a stick to draw in the sand.,O ji osisi sere n’ájá.
+fruit,mkpụrụ osisi,Noun,The fruit is ripe.,Mkpụrụ ahụ chara acha.,He ate a fruit.,O riri mkpụrụ osisi.,The fruit is sweet.,Mkpụrụ osisi na-atọ ụtọ.
+seed,mkpụrụ,Noun,He planted a seed.,Ọ kụrụ mkpụrụ.,The seed is small.,Mkpụrụ ahụ dị obere.,The seed will grow into a tree.,Mkpụrụ ahụ ga-eto eto.
+leaf,akwukwo,Noun,The leaf is green.,Akwụkwọ ahụ bụ akwụkwọ ndụ akwụkwọ ndụ.,He picked a leaf.,O were akwukwo.,The leaf fell from the tree.,Akwụkwọ ahụ si n'osisi ahụ daa.
+root,mgbọrọgwụ,Noun,The root is deep.,Mgbọrọgwụ dị omimi.,He dug up the root.,Ọ gwuru mgbọrọgwụ.,The root supports the tree.,Mgbọrọgwụ na-akwado osisi ahụ.
+bark (of a tree),ogbugbo (nke osisi),Noun,The bark is rough.,ogbugbo ahụ siri ike.,He peeled the bark.,O hichaa ogbugbo.,The bark protects the tree.,ogbugbo na-echebe osisi.
+flower,ifuru,Noun,The flower is blooming.,Ifuru na-ama ifuru.,He picked a flower.,Ọ chiri ifuru.,The flower is beautiful.,Ifuru ahụ mara mma.
+grass,ahihia,Noun,The grass is green.,Ahịhịa bụ akwụkwọ ndụ akwụkwọ ndụ.,He cut the grass.,Ọ gbuturu ahịhịa.,The grass is wet with dew.,Igirigi na-agba ahịhịa.
+rope,eriri,Noun,The rope is strong.,Ụdọ siri ike.,He tied the rope.,O wee kee eriri ahụ.,The rope is long.,Ụdọ ahụ dị ogologo.
+skin,akpụkpọ anụ,Noun,Her skin is smooth.,Akpụkpọ ahụ ya dị ire ụtọ.,He has sensitive skin.,O nwere akpụkpọ anụ.,The skin protects the body.,Akpụkpọ ahụ na-echebe ahụ.
+meat,anụ,Noun,The meat is cooked.,A na-esi anụ.,He bought some meat.,Ọ zụtara anụ.,The meat is tender.,Anụ ahụ dị nro.
+blood,ọbara,Noun,Blood is red.,Ọbara na-acha uhie uhie.,He donated blood.,O nyere ọbara.,The blood flows through the veins.,Ọbara na-esi na veins na-asọpụta.
+bone,ọkpụkpụ,Noun,The bone is strong.,Ọkpụkpụ ahụ siri ike.,He broke a bone.,Ọ gbajiri ọkpụkpụ.,The bone supports the body.,Ọkpụkpụ na-akwado ahụ.
+fat (noun),abụba (aha),Noun,The fat is used in cooking.,A na-eji abụba na-esi nri.,He trimmed the fat.,Ọ kpachapụrụ abụba ahụ.,The fat is stored in the body.,A na-echekwa abụba n'ime ahụ.
+egg,akwa,Noun,The egg is boiled.,A na-esi akwa ahụ sie.,He cracked an egg.,Ọ gbawara akwa.,The egg is fresh.,Akwa dị ọhụrụ.
+horn,mpi,Noun,The horn is sharp.,Mpi dị nkọ.,He blew the horn.,Ọ fụrụ opi.,The horn is used for decoration.,A na-eji mpi ahụ chọọ mma.
+tail,ọdụ,Noun,The tail is long.,Ọdụ ahụ dị ogologo.,He grabbed the tail.,O jidere ọdụ ahụ.,The tail wags when the dog is happy.,Ọdụ ahụ na-ama jijiji mgbe nkịta nwere obi ụtọ.
+feather,nku,Noun,The feather is soft.,Nku ahụ dị nro.,He found a feather.,Ọ chọtara nku.,The feather helps the bird fly.,Nku na-enyere nnụnụ aka ife efe.
+hair,ntutu isi,Noun,Her hair is long.,Ntutu isi ya di ogologo.,He combed his hair.,Ọ kpụrụ isi ya.,The hair is soft.,Ntutu isi dị nro.
+head,isi,Noun,The head is round.,Isi dị okirikiri.,He nodded his head.,O hulatara isi.,The head contains the brain.,Isi nwere ụbụrụ.
+ear,nti,Noun,The ear is sensitive.,Ntị nwere mmetụta.,He cleaned his ear.,Ọ sachara ntị ya.,The ear helps in hearing.,Ntị na-enyere aka n'ịnụ ihe.
+eye,anya,Noun,The eye is blue.,Anya na-acha anụnụ anụnụ.,He closed his eyes.,O mechiri anya ya.,The eye sees everything.,Anya na-ahụ ihe niile.
+nose,imi,Noun,The nose is small.,Imi dị obere.,He blew his nose.,Ọ fụrụ imi ya.,The nose helps in smelling.,Imi na-enyere aka n'isi.
+mouth,ọnụ,Noun,The mouth is open.,Ọnụ ghere oghe.,He closed his mouth.,O mechiri ọnụ ya.,The mouth is used for eating.,A na-eji ọnụ rie nri.
+tooth,eze,Noun,The tooth is white.,Eze na-acha ọcha.,He brushed his teeth.,Ọ hịara ezé.,The tooth is used for chewing.,A na-eji eze ata ata.
+tongue (organ),ire (ngwa),Noun,The tongue is pink.,Ire bụ pink.,He stuck out his tongue.,Ọ gbapụrụ ire ya.,The tongue helps in tasting.,Ire na-enyere aka n'ịtọ ụtọ.
+fingernail,mbọ aka,Noun,The fingernail is long.,Ntu mkpịsị aka dị ogologo.,He trimmed his fingernails.,Ọ kpụziri mbọ aka ya.,The fingernail protects the finger.,Ntu aka na-echebe mkpịsị aka.
+foot,ukwu,Noun,The foot is large.,Ụkwụ buru ibu.,He washed his feet.,Ọ sara ụkwụ ya.,The foot helps in walking.,Ụkwụ na-enyere aka na-eje ije.
+leg,ukwu,Noun,The leg is strong.,Ụkwụ siri ike.,He injured his leg.,O merụrụ ya ụkwụ.,The leg helps in running.,Ụkwụ na-enyere aka n'ịgba ọsọ.
+knee,ikpere,Noun,The knee is bent.,Egburu ikpere.,He injured his knee.,O merụrụ ikpere ya.,The knee supports the leg.,Ikpere na-akwado ụkwụ.
+hand,aka,Noun,The hand is strong.,Aka siri ike.,He raised his hand.,O weliri aka ya.,The hand helps in holding.,Aka na-enyere aka ijide.
+wing,nku,Noun,The wing is large.,Nku ahụ buru ibu.,He clipped the wing.,Ọ kụpụrụ nku ahụ.,The wing helps the bird fly.,Nku na-enyere nnụnụ aka ife efe.
+belly,afọ,Noun,The belly is full.,Afọ juru.,He rubbed his belly.,Ọ na-ete ya afọ.,The belly is round.,Afọ dị okirikiri.
+guts,eriri afọ,Noun,The guts are strong.,Ọkpụkpụ dị ike.,He felt it in his guts.,O nwere mmetụta n'afọ ya.,The guts are essential for digestion.,Ọkpụkpụ dị mkpa maka mgbaze.
+neck,olu,Noun,The neck is long.,Olu dị ogologo.,He turned his neck.,Ọ tụgharịrị olu ya.,The neck supports the head.,Olu na-akwado isi.
+back,azụ,Noun,The back is strong.,Azu siri ike.,He leaned on his back.,Ọ dabere n'azụ ya.,The back supports the body.,Azụ na-akwado ahụ.
+breast,ara,Noun,The breast is full.,Ara ejuola.,She fed the baby with her breast.,O ji ara ya nye nwa ahụ nri.,The breast is sensitive.,Ara nwere mmetụta.
+heart,obi,Noun,The heart is beating.,Obi na-akụ.,He has a kind heart.,O nwere obi oma.,The heart pumps blood.,Obi na-agbapụta ọbara.
+liver,imeju,Noun,The liver is healthy.,Imeju ahụ dị mma.,He damaged his liver.,O mebiri imeju ya.,The liver detoxifies the body.,Imeju na-emebi ahụ.
+sun,anyanwụ,Noun,The sun is bright.,Anyanwụ na-enwu.,He watched the sunrise.,Ọ na-ele anya ọwụwa anyanwụ.,The sun provides warmth.,Anyanwụ na-enye okpomọkụ.
+moon,ọnwa,Noun,The moon is full.,Ọnwa ezuola.,He gazed at the moon.,O lere ọnwa anya.,The moonlight is soothing.,Ìhè ọnwa na-atọ ụtọ.
+star,kpakpando,Noun,The star is shining.,Kpakpando na-enwu.,He wished upon a star.,Ọ chọrọ n'elu kpakpando.,The star is far away.,Kpakpando ahụ dị anya.
+water,mmiri,Noun,The water is clear.,Mmiri doro anya.,He drank the water.,Ọ ṅụrụ mmiri ahụ.,The water flows gently.,Mmiri na-agba nwayọọ nwayọọ.
+rain,mmiri ozuzo,Noun,The rain is heavy.,Mmiri na-ezo.,He danced in the rain.,Ọ na-agba egwu na mmiri ozuzo.,The rain nourishes the earth.,Mmiri na-azụ ụwa.
+river,osimiri,Noun,The river is wide.,Osimiri ahụ sara mbara.,He swam in the river.,Ọ gwuru n'osimiri.,The river flows to the sea.,Osimiri na-asọba n'oké osimiri.
+lake,ọdọ mmiri,Noun,The lake is calm.,Ọdọ mmiri ahụ dị jụụ.,He fished in the lake.,Ọ na-akụ azụ n’ọdọ mmiri.,The lake reflects the sky.,Ọdọ mmiri na-egosipụta eluigwe.
+sea,oké osimiri,Noun,The sea is vast.,Oké osimiri buru ibu.,He sailed on the sea.,Ọ gara n'oké osimiri.,The sea is full of life.,Oké osimiri juputara na ndu.
+salt,nnu,Noun,The salt is white.,Nnu na-acha ọcha.,He added salt to the soup.,O tinye nnu na ofe.,The salt enhances the flavor.,Nnu na-eme ka ụtọ ahụ dịkwuo mma.
+stone,nkume,Noun,The stone is hard.,Nkume siri ike.,He threw a stone.,Ọ tụpụrụ nkume.,The stone is smooth.,Nkume ahụ dị nro.
+sand,ájá,Noun,The sand is hot.,Aja dị ọkụ.,He built a sandcastle.,O wuru nnukwu ụlọ ájá.,The sand is soft.,Aja dị nro.
+dust,uzuzu,Noun,The dust is thick.,Uzuzu buru ibu.,He wiped away the dust.,O kpochapuru uzuzu.,The dust settled on the furniture.,Uzuzu juru na arịa ụlọ.
+earth,ụwa,Noun,The earth is round.,Ụwa gbara gburugburu.,He loves the earth.,Ọ hụrụ ụwa n'anya.,The earth supports life.,Ụwa na-akwado ndụ.
+cloud,igwe ojii,Noun,The cloud is dark.,Igwe ojii gbara ọchịchịrị.,He watched the clouds.,O lere igwe ojii anya.,The cloud brings rain.,Igwe ojii na-eweta mmiri ozuzo.
+sky,elu-igwe,Noun,The sky is blue.,Igwe na-acha anụnụ anụnụ.,He looked at the sky.,O lere anya na mbara igwe.,The sky is clear.,Eluigwe doro anya.
+wind,ifufe,Noun,The wind is strong.,Ifufe siri ike.,He felt the wind on his face.,O chere ifufe ihu ya.,The wind blows gently.,Ifufe na-efe nwayọọ nwayọọ.
+fog,anwụrụ mmiri,Noun,The fog is thick.,Ufuo buru ibu.,He walked through the fog.,O jere ije n’ime igwe ojii.,The fog obscures the view.,Igwefoji na-ekpuchi anya.
+snow,snow,Noun,The snow is falling.,Snow na-ada.,He built a snowman.,O wuru onye snow.,The snow is cold.,Snow dị oyi.
+ice,udu oyi,Noun,The ice is slippery.,Akpụrụ akpụ na-amị amị.,He skated on the ice.,Ọ nọ na ice.,The ice is melting.,Akpụrụ mmiri na-agbaze.
+smoke,anwụrụ,Noun,The smoke is thick.,Anwụrụ ọkụ dị oke.,He inhaled the smoke.,O kuru anwụrụ ọkụ.,The smoke rises into the air.,Anwụrụ ọkụ na-ebili n'ikuku.
+fire,ọkụ,Noun,The fire is hot.,Ọkụ na-ekpo ọkụ.,He started a fire.,Ọ mụnyere ọkụ.,The fire burns brightly.,Ọkụ na-ere ọkụ.
+ash,ntu,Noun,The ash is gray.,ntụ na-acha ntụ ntụ.,He cleaned the ash.,Ọ kpochara ntụ.,The ash settled on the ground.,Ntụ ahụ wee biri n'ala.
+road,okporo uzo,Noun,The road is long.,Ụzọ ahụ dị ogologo.,He walked down the road.,Ọ gara n'ụzọ.,The road leads to the village.,Ụzọ ahụ na-eduga n'ime obodo.
+mountain,ugwu,Noun,The mountain is high.,Ugwu ahụ dị elu.,He climbed the mountain.,Ọ rịgoro n'ugwu ahụ.,The mountain is covered in snow.,snow kpuchiri ugwu ahụ.
+red,uhie,Noun,The apple is red.,Apụl na-acha uhie uhie.,He wore a red shirt.,O yi uwe na-acha uhie uhie.,The red rose is beautiful.,Rose rose mara mma.
+green,akwụkwọ ndụ akwụkwọ ndụ,Noun,The grass is green.,Ahịhịa bụ akwụkwọ ndụ akwụkwọ ndụ.,He painted the wall green.,O tere mgbidi ahụ akwụkwọ ndụ akwụkwọ ndụ.,The green leaves are fresh.,Akwụkwọ ndụ akwụkwọ ndụ dị ọhụrụ.
+yellow,edo edo,Noun,The sun is yellow.,Anyanwụ na-acha odo odo.,He wore a yellow hat.,O yiri okpu edo edo.,The yellow flower is bright.,Ifuru odo na-egbuke egbuke.
+white,ọcha,Noun,The snow is white.,Snow na-acha ọcha.,He wore a white shirt.,O yi uwe ọcha.,The white dove is peaceful.,Nduru ọcha dị udo.
+black,nwa,Noun,The cat is black.,Nwamba ahụ dị oji.,He wore a black suit.,O yi uwe ojii.,The black night is quiet.,Abalị ojii dị jụụ.
+night,abalị,Noun,The night is dark.,Abalị gbara ọchịchịrị.,He slept through the night.,Ọ rahụrụ n'abalị.,The night sky is full of stars.,Igwe abalị jupụtara na kpakpando.
+day,ụbọchị,Noun,The day is bright.,Ụbọchị na-egbuke egbuke.,He worked all day.,Ọ rụrụ ọrụ ụbọchị niile.,The day is long.,Ụbọchị dị ogologo.
+year,afọ,Noun,The year is new.,Afọ ọhụrụ.,He celebrated the new year.,O mere ememe afọ ọhụrụ.,The year is long.,Afọ dị ogologo.
+right,nri,Noun,The right hand is strong.,Aka nri siri ike.,He turned right.,Ọ tụgharịrị aka nri.,The right path is clear.,Ụzọ ziri ezi doro anya.
+left,aka ekpe,Noun,The left hand is strong.,Aka ekpe siri ike.,He turned left.,Ọ tụgharịrị aka ekpe.,The left path is narrow.,Ụzọ aka ekpe dị warara.
+name,aha,Noun,The name is unique.,Aha ahụ pụrụ iche.,He wrote his name.,O dere aha ya.,The name is important.,Aha ahụ dị mkpa.
+for,maka,Preposition,This gift is for you.,Onyinye a bụ maka gị.,He works for a company.,Ọ na-arụ ọrụ maka otu ụlọ ọrụ.,The book is for children.,Akwụkwọ a bụ maka ụmụaka.
+this,nke a,Preposition,This is my house.,Nke a bụ ụlọ m.,He likes this song.,Abụ a masịrị ya.,This is important.,Nke a dị mkpa.
+that,na,Preposition,That is his car.,Nke ahụ bụ ụgbọ ala ya.,He wants that book.,Ọ chọrọ akwụkwọ ahụ.,That is amazing.,Nke ahụ dị ịtụnanya.
+here,Ebe a,Preposition,I am here.,Anọ m ebe a.,He lives here.,O bi ebe a.,Here is the key.,Nke a bụ igodo.
+there,Ebe ahụ,Preposition,The book is there.,Akwụkwọ ahụ dị ebe ahụ.,He went there.,Ọ gara ebe ahụ.,There is a problem.,Enwere nsogbu.
+who,WHO,Preposition,Who is that?,Kedu onye bụ ihe ahụ?,Who is the man?,Ònye bụ nwoke ahụ?,Who is the woman?,Ònye bụ nwanyị ahụ?
+what,Kedu,Preposition,What is your name?,Kedu aha gị?,What is the weather?,Gịnị bụ ihu igwe?,What is the time?,Gịnị bụ oge?
+where,ebee,Preposition,Where is the school?,Ebee ka ụlọ akwụkwọ dị?,Where is the market?,Ebee ka ahịa dị?,Where is the park?,Ebee ka ogige ahụ dị?
+when,mgbe ole,Preposition,When is the meeting?,Kedu mgbe bụ nzukọ?,When is the party?,Kedu mgbe bụ oriri na ọṅụṅụ?,When is the sunrise?,Kedu mgbe ọwụwa anyanwụ?
+at,na,Preposition,I am at home.,A nọ m n'ụlọ.,He is at school.,Ọ nọ n'ụlọ akwụkwọ.,The party is at the park.,Ememe ahụ dị na ogige ntụrụndụ.
+in,n'ime,Preposition,I am in the room.,Anọ m n'ime ụlọ.,He is in the forest.,Ọ nọ n'ime ọhịa.,The book is in the bag.,Akwụkwọ ahụ dị na akpa ahụ.
+with,ya na,Preposition,I am with you.,Anọnyere m gị.,He is with his friends.,Ya na ndị enyi ya nọ.,We are with them.,Anyị na ha nọ.
+me,m,Pronoun,I am here.,Anọ m ebe a.,I need your help.,Achọrọ m enyemaka gị.,I will go with you.,M ga-eso gị gaa.
+you (singular),ị (otu),Pronoun,I am here.,Anọ m ebe a.,I need your help.,Achọrọ m enyemaka gị.,I will go with you.,M ga-eso gị gaa.
+he,ọ,Pronoun,He is tall.,O toro ogologo.,He is here.,Ọ nọ ebe a.,He is with us.,Ọ nọnyeere anyị.
+we,anyi,Pronoun,We are here.,Anyị nọ ebe a.,We are going to the party.,Anyị na-aga oriri na ọṅụṅụ.,We are happy.,Anyị nwere obi ụtọ.
+you (plural),ị (ọtụtụ),Pronoun,We are here.,Anyị nọ ebe a.,We are going to the party.,Anyị na-aga oriri na ọṅụṅụ.,We are happy.,Anyị nwere obi ụtọ.
+they,ha,Pronoun,They are here.,Ha nọ ebe a.,They are happy.,Obi dị ha ụtọ.,They are at the party.,Ha nọ na oriri ahụ.
+it,ya,Pronoun,It is here.,Ọ bụ ebe a.,It is raining.,Mmiri na-ezo.,It is the book.,Ọ bụ akwụkwọ ahụ.
+drink,ṅụọ,Verb,I drank the water.,M ṅụrụ mmiri ahụ.,He drank the beer.,Ọ ṅụrụ mmanya ahụ.,We drank the wine.,Anyị ṅụrụ mmanya ahụ.
+eat,rie,Verb,He ate the food.,O riri nri.,We ate the pizza.,Anyị riri pizza.,She ate the apple.,O riri apụl.
+bite,taa,Verb,He bit the apple.,Ọ tara apụl.,She bit the bread.,Ọ tara achịcha ahụ.,They bit the pizza.,Ha tara pizza.
+suck,nuo,Verb,He sucked the straw.,Ọ ṅụrụ ahịhịa.,She sucked the juice.,Ọ ṅụrụ ihe ọṅụṅụ ahụ.,They sucked the straw.,Ha gbara ahịhịa.
+spit,gbaa ọnụ mmiri,Verb,He spat on the ground.,Ọ gbụsara ọnụ mmiri n’ala.,She spat on the table.,Ọ gbụrụ ọnụ mmiri na tebụl.,They spat on the floor.,Ha gbụọ ọnụ mmiri n'ala.
+vomit,agbọ agbọ,Verb,He vomited on the floor.,Ọ gbara ọgbọ n'ala.,She vomited on the table.,Ọ gbara na tebụl.,They vomited on the carpet.,Ha gbara na kapeeti.
+blow,ịfụ,Verb,He blew the horn.,Ọ fụrụ opi.,She blew the whistle.,Ọ fụkwara fhịhị.,They blew the whistle.,Ha fụrụ afụ.
+breathe,iku ume,Verb,He breathed deeply.,O kupuru ume.,She breathed in the fresh air.,O kupuru iku ume.,They breathed out the smoke.,Ha kupụrụ anwụrụ ọkụ ahụ.
+laugh,ochi,Verb,He laughed loudly.,Ọ chịrị oke ọchị.,She laughed at the joke.,Njakịrị ahụ ọ chịrị ọchị.,They laughed together.,Ha chịrị ọnụ.
+see,hụ,Verb,I saw the movie.,Ahụrụ m ihe nkiri ahụ.,He saw the bird.,Ọ hụrụ nnụnụ ahụ.,They saw the sunset.,Ha hụrụ ọdịda anyanwụ.
+hear,nụ,Verb,I heard the music.,Anụrụ m egwu.,He heard the laughter.,Ọ nụrụ ọchị.,They heard the birds singing.,Ha nụrụ ka nnụnụ na-abụ abụ.
+know,mara,Verb,I know the answer.,Amaara m azịza ya.,He knows the language.,Ọ ma asụsụ ahụ.,They know the song.,Ha maara abụ ahụ.
+think,chee echiche,Verb,I think it is a good idea.,Echere m na ọ bụ ezi echiche.,He thinks he is right.,O chere na o ziri ezi.,They think it is important.,Ha chere na ọ dị mkpa.
+smell,isi,Verb,I smelled the flowers.,M na-esi ísì okooko osisi.,He smelled the food.,Ọ na-esi isi nri.,They smelled the smoke.,Ha na-esi ísì.
+fear,egwu,Verb,I am afraid of the dark.,Ana m atụ egwu ọchịchịrị.,He is afraid of the snake.,Ọ na-atụ agwọ egwu.,They are afraid of the storm.,Ha na-atụ egwu oké ifufe ahụ.
+sleep,ura,Verb,He slept through the night.,Ọ rahụrụ n'abalị.,She slept soundly.,Ọ na-ehi ụra nke ọma.,They slept in the tent.,Ha dina n'ulo-ikwū.
+live,ibi ndụ,Verb,He lives in the city.,O bi n'obodo.,She lives in the countryside.,O bi n'ime ime obodo.,They live in the house.,Ha na-ebi n'ụlọ.
+die,anwụ,Verb,He died yesterday.,Ọ nwụrụ ụnyaahụ.,She died peacefully.,Ọ nwụrụ n'udo.,They died in the accident.,Ha nwụrụ n'ihe mberede a.
+kill,igbu,Verb,He killed the bird.,O gburu nnụnụ ahụ.,She killed the plant.,O gburu osisi.,They killed the fish.,Ha gburu azụ̀ ndị ahụ.
+fight,ọgụ,Verb,He fought in the battle.,Ọ lụrụ ọgụ.,She fought with the opponent.,Oso onye iro ya agha.,They fought in the war.,Ha lụrụ agha ahụ.
+hunt,ichu nta,Verb,He hunted the deer.,Ọ chụpụrụ mgbada.,She hunted the rabbit.,Ọ chụpụrụ oke bekee.,They hunted the boar.,Ha chụpụrụ anụ ọhịa ahụ.
+hit,see,Verb,He hit the ball.,Ọ kụrụ bọọlụ ahụ.,She hit the target.,Ọ kụrụ ihe mgbaru ọsọ.,They hit the mark.,Ha kụrụ akara ahụ.
+cut,bee,Verb,He cut the wood.,Ọ kpụrụ osisi.,She cut the cake.,O bee achicha ahu.,They cut the vegetables.,Ha na-egbutu akwụkwọ nri.
+split,Kewaa,Verb,He split the wood.,Ọ gbawara osisi ahụ.,She split the cake.,Ọ kewara achicha ahụ.,They split the vegetables.,Ha kewara akwụkwọ nri.
+stab,ndumodu,Verb,He stabbed the man.,Ọ mara nwoke ahụ mma.,She stabbed the knife.,Ọ tụrụ mma ahụ.,They stabbed the target.,Ha mara onye e lekwasịrị anya n'ọkpụkpụ.
+scratch,ọkọ,Verb,He scratched his arm.,Ọ kpụrụ aka ya.,She scratched the wall.,Ọ kpụchara mgbidi ahụ.,They scratched the book.,Ha kpụrụ akwụkwọ ahụ.
+dig,igwu,Verb,He dug the hole.,Ọ gwuru oghere.,She dug the garden.,Ọ gwuru ogige ahụ.,They dug the garden.,Ha gwuru ogige ahụ.
+swim,igwu mmiri,Verb,He swam in the pool.,Ọ na-egwu mmiri n'ọdọ mmiri ahụ.,She swam in the lake.,Ọ gwuru n'ọdọ mmiri ahụ.,They swam in the sea.,Ha gwuru n'oké osimiri.
+fly,ofufe,Verb,He flew to the airport.,Ọ gbagoro n'ọdụ ụgbọ elu.,She flew to the city.,O fega n'obodo.,They flew to the destination.,Ha fegara ebe ha na-aga.
+walk,ije,Verb,He walked to the park.,Ọ gara n'ogige ntụrụndụ.,She walked to the store.,Ọ gara n'ụlọ ahịa ahụ.,They walked to the beach.,Ha gara n’akụkụ osimiri.
+come,bia,Verb,He came to the party.,Ọ bịara oriri na ọṅụṅụ.,She came to the meeting.,Ọ bịara nzukọ ahụ.,They came to the house.,Ha bịara n’ụlọ.
+lie down,dinara ala,Verb,He lay down on the grass.,O dinara n'elu ahihia.,She lay down on the bed.,O dinara n'elu akwa.,They lay down on the floor.,Ha dinara ala.
+sit,nọdụ ala,Verb,He sat on the chair.,Ọ nọdụrụ n'oche.,She sat on the bench.,Ọ nọdụrụ na bench.,They sat on the floor.,Ha nọdụ ala n'ala.
+stand,guzoro,Verb,He stood up.,O biliri.,She stood on the stage.,O guzoro na ogbo.,They stood in line.,Ha guzoro n'ahịrị.
+turn,tụgharịa,Verb,He turned the page.,Ọ tụgharịrị ibe ya.,She turned the corner.,Ọ tụgharịrị nkuku.,They turned the corner.,Ha tụgharịrị nkuku.
+fall,daa,Verb,He fell off the bike.,Ọ si n'ụgbọala ahụ daa.,She fell down the stairs.,Ọ dara n'elu steepụ.,They fell in the hole.,Ha dara n'olulu ahụ.
+give,nye,Verb,He gave the book to her.,O nyere ya akwụkwọ ahụ.,She gave the gift to him.,O nyere ya onyinye ahụ.,They gave the money to the charity.,Ha nyere ndị ọrụ ebere ego ahụ.
+hold,jide,Verb,He held the baby.,O jidere nwa.,She held the glass.,O jidere iko.,They held the meeting.,Ha mere nzukọ ahụ.
+squeeze,afanyekwa,Verb,He squeezed the lemon.,O wutere lemon.,She squeezed the juice.,O wutere ihe ọṅụṅụ ahụ.,They squeezed the grapes.,Ha kpakọrọ mkpụrụ vaịn.
+rub,ite,Verb,He rubbed the lotion on his skin.,Ọ kụra ude ahụ n’akpụkpọ ahụ́ ya.,She rubbed the oil on her hair.,O were mmanụ na ntutu isi ya.,They rubbed the dirt off the car.,Ha kpochapuru unyi n'ime ụgbọ ala ahụ.
+wash,saa,Verb,He washed his clothes.,Ọ sara uwe ya.,She washed the dishes.,Ọ na-asa efere.,They washed the car.,Ha sara ụgbọ ala ahụ.
+wipe,hichapụ,Verb,He wiped the table.,O hichara tebụl ahụ.,She wiped the window.,O hichara windo.,They wiped the car.,Ha kpochapụrụ ụgbọ ala ahụ.
+pull,Dọọ,Verb,He pulled the door.,Ọ dọtara ụzọ.,She pulled the string.,Ọ dọtara eriri ahụ.,They pulled the cart.,Ha dọkpụrụ ụgbọ ala ahụ.
+push,Kwaa,Verb,He pushed the cart.,Ọ kwagidere ụgbọ ahụ.,She pushed the door.,Ọ kwapụrụ ụzọ.,They pushed the car.,Ha kwabatara ụgbọ ala ahụ.
+throw,tufuo,Verb,He threw the ball.,Ọ tụpụrụ bọọlụ ahụ.,She threw the paper.,Ọ tụpụrụ akwụkwọ ahụ.,They threw the stone.,Ha tụbara nkume ahụ.
+tie,tie,Verb,He tied the knot.,O wee kee eriri ahụ.,She tied the ribbon.,O wee kee rịbọn ahụ.,They tied the shoes.,Ha kekọtara akpụkpọ ụkwụ.
+sew,ịkwa akwa,Verb,He sewed the button.,Ọ dụchara bọtịnụ ahụ.,She sewed the dress.,Ọ dụkwara uwe ahụ.,They sewed the clothes.,Ha dụkwara uwe ahụ.
+count,gụọ,Verb,He counted the money.,Ọ gụrụ ego ahụ.,She counted the guests.,Ọ gụrụ ndị ọbịa ahụ.,They counted the votes.,Ha gụpụtara votu.
+say,kwuo,Verb,He said hello.,Ọ sịrị ndewo.,She said thank you.,Ọ sịrị daalụ.,They said goodbye.,Ha kwuru nke ọma.
+sing,gwuo egwu,Verb,He sang the song.,Ọ bụrụ abụ ahụ.,She sang the national anthem.,Ọ bụrụ abụ mba.,They sang the song together.,Ha na-abụkọ abụ ahụ ọnụ.
+play,gwuo egwu,Verb,He played the guitar.,Ọ kpọrọ ụbọ.,She played the piano.,Ọ kpọrọ piano.,They played the game.,Ha gbara egwuregwu ahụ.
+float,sere n'elu,Verb,The boat floated on the water.,Ụgbọ mmiri ahụ na-ese n'elu mmiri.,The leaf floated on the river.,Akwụkwọ ahụ sere n'elu osimiri ahụ.,The balloon floated in the sky.,Balloon ahụ sere n'elu n'elu igwe.
+flow,eruba,Verb,The river flowed through the valley.,Osimiri ahụ si na ndagwurugwu ahụ gafee.,The water flowed into the lake.,Mmiri ahụ na-asọba n'ime ọdọ mmiri ahụ.,The oil flowed into the bottle.,Mmanụ na-asọba na karama ahụ.
+freeze,udu oyi,Verb,The water froze in the winter.,Mmiri jụrụ oyi n'oge oyi.,He froze the ice cream.,Ọ jụrụ ice cream.,The ice froze in the freezer.,Akpụrụ akpụrụ akpụ n'ime friza.
+swell,zaa,Verb,The water swelled in the river.,Mmiri ahụ zara n’osimiri ahụ.,The flower swelled in the sun.,Ifuru ahụ zara na anyanwụ.,The dough swelled in the oven.,Ntụ ọka ahụ zara na oven.
+burn,ọkụ,Verb,He burned the toast.,Ọ gbara toast ahụ ọkụ.,She burned the candle.,Ọ gbara kandụl ahụ ọkụ.,They burned the house.,Ha gbara ụlọ ahụ ọkụ.
+be,bụrụ,Verb,I am here.,Anọ m ebe a.,He is here.,Ọ nọ ebe a.,She is here.,Ọ nọ ebe a.
+have,nwere,Verb,He has a car.,O nwere ụgbọ ala.,She has a cat.,O nwere pusi.,They have a house.,Ha nwere ụlọ.
+do,mee,Verb,I do the work.,Ana m arụ ọrụ ahụ.,He does the job.,Ọ na-arụ ọrụ ahụ.,They do the project.,Ha na-arụ ọrụ ahụ.

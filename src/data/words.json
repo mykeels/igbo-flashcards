@@ -6,15 +6,15 @@
     "examples": [
       {
         "english": "All the students are here.",
-        "igbo": "ụmụ akwụkwọ niile nọ ebe a"
+        "igbo": "Ụmụ akwụkwọ niile nọ ebe a."
       },
       {
         "english": "All the books are on the table.",
-        "igbo": "akwụkwọ niile dị na tebụl"
+        "igbo": "Akwụkwọ niile dị na tebụl."
       },
       {
         "english": "She ate all the food.",
-        "igbo": "ọ riri nri niile"
+        "igbo": "O riri nri niile."
       }
     ]
   },
@@ -25,15 +25,15 @@
     "examples": [
       {
         "english": "Many people came to the party.",
-        "igbo": "ọtụtụ mmadụ bịara na emume"
+        "igbo": "Ọtụtụ ndị mmadụ bịara oriri na ọṅụṅụ."
       },
       {
         "english": "There are many stars in the sky.",
-        "igbo": "e nwere ọtụtụ kpakpando n'elu igwe"
+        "igbo": "Enwere ọtụtụ kpakpando na mbara igwe."
       },
       {
         "english": "He has many friends.",
-        "igbo": "ọ nwere ọtụtụ enyi"
+        "igbo": "O nwere ọtụtụ ndị enyi."
       }
     ]
   },
@@ -44,15 +44,15 @@
     "examples": [
       {
         "english": "Some students are absent today.",
-        "igbo": "ụfọdụ ụmụ akwụkwọ adịghị taa"
+        "igbo": "Ụfọdụ ụmụ akwụkwọ anọghị taa."
       },
       {
         "english": "I need some water.",
-        "igbo": "achọrọ m ụfọdụ mmiri"
+        "igbo": "Achọrọ m mmiri."
       },
       {
         "english": "Some of the apples are ripe.",
-        "igbo": "ụfọdụ n'ime apụl dị ọka"
+        "igbo": "Ụfọdụ apụl chara acha."
       }
     ]
   },
@@ -63,15 +63,15 @@
     "examples": [
       {
         "english": "Few people attended the meeting.",
-        "igbo": "Ọ̀lé nà ọ̀lé mmadụ bịara nzukọ ahụ."
+        "igbo": "Ọ bụ mmadụ ole na ole bịara nzukọ ahụ."
       },
       {
         "english": "There are few apples left.",
-        "igbo": "Ọ̀lé nà ọ̀lé apụl fọdụrụ."
+        "igbo": "Apụl ole na ole fọdụrụ."
       },
       {
         "english": "Few students passed the exam.",
-        "igbo": "Ọ̀lé nà ọ̀lé ụmụ akwụkwọ gafere ule ahụ."
+        "igbo": "Ụmụ akwụkwọ ole na ole gafere ule ahụ."
       }
     ]
   },
@@ -82,15 +82,15 @@
     "examples": [
       {
         "english": "The other book is on the shelf.",
-        "igbo": "Akwụkwọ ọzọ dị na shelf."
+        "igbo": "Akwụkwọ nke ọzọ dị na shelf."
       },
       {
         "english": "She has other plans for the weekend.",
-        "igbo": "Ọ nwere atụmatụ ọzọ maka ngwụsị izu."
+        "igbo": "O nwere atụmatụ ndị ọzọ maka izu ụka."
       },
       {
         "english": "Do you have any other questions?",
-        "igbo": "Ị nwere ajụjụ ọzọ ọ bụla?"
+        "igbo": "Ị nwere ajụjụ ndị ọzọ?"
       }
     ]
   },
@@ -101,15 +101,15 @@
     "examples": [
       {
         "english": "The big dog barked loudly.",
-        "igbo": "Nkịta nnukwu kwara mkpu."
+        "igbo": "Nkịta ukwu na-eti mkpu."
       },
       {
         "english": "He lives in a big house.",
-        "igbo": "Ọ bi n'ụlọ nnukwu."
+        "igbo": "O bi na nnukwu ụlọ."
       },
       {
         "english": "The big tree provides shade.",
-        "igbo": "Osisi nnukwu na-enye ndò."
+        "igbo": "Osisi ukwu na-enye ndò."
       }
     ]
   },
@@ -124,11 +124,11 @@
       },
       {
         "english": "He wrote a long letter.",
-        "igbo": "Ọ dere akwụkwọ ozi ogologo."
+        "igbo": "O dere ogologo akwụkwọ ozi."
       },
       {
         "english": "The snake is long.",
-        "igbo": "Agwọ ahụ dị ogologo."
+        "igbo": "Agwo di ogologo."
       }
     ]
   },
@@ -139,15 +139,15 @@
     "examples": [
       {
         "english": "The river is wide.",
-        "igbo": "Osimiri ahụ dị obosara."
+        "igbo": "Osimiri ahụ sara mbara."
       },
       {
         "english": "He has a wide smile.",
-        "igbo": "Ọ nwere ọchị obosara."
+        "igbo": "Ọ na-amụmụ ọnụ ọchị."
       },
       {
         "english": "The street is wide.",
-        "igbo": "Okporo ụzọ ahụ dị obosara."
+        "igbo": "Okporo ụzọ ahụ sara mbara."
       }
     ]
   },
@@ -158,15 +158,15 @@
     "examples": [
       {
         "english": "The book is thick.",
-        "igbo": "Akwụkwọ ahụ dị oké."
+        "igbo": "Akwụkwọ ahụ buru ibu."
       },
       {
         "english": "The forest is thick.",
-        "igbo": "Ọhịa ahụ dị oké."
+        "igbo": "Oke ohia di oke."
       },
       {
         "english": "The soup is thick.",
-        "igbo": "Nri ahụ dị oké."
+        "igbo": "Ofe dị oke."
       }
     ]
   },
@@ -181,11 +181,11 @@
       },
       {
         "english": "He carried a heavy load.",
-        "igbo": "Ọ bu ibu arọ."
+        "igbo": "O buru ibu dị arọ."
       },
       {
         "english": "The rain is heavy.",
-        "igbo": "Mmiri ozuzo ahụ dị arọ."
+        "igbo": "Mmiri na-ezo."
       }
     ]
   },
@@ -196,15 +196,15 @@
     "examples": [
       {
         "english": "The small cat is cute.",
-        "igbo": "Nwa nkịta obere mara mma."
+        "igbo": "Obere nwamba mara mma."
       },
       {
         "english": "He lives in a small apartment.",
-        "igbo": "Ọ bi n'ụlọ obere."
+        "igbo": "O bi n’obere ụlọ."
       },
       {
         "english": "The small gift was appreciated.",
-        "igbo": "Ekele ekele maka onyinye obere."
+        "igbo": "E nwere ekele maka obere onyinye ahụ."
       }
     ]
   },
@@ -215,15 +215,15 @@
     "examples": [
       {
         "english": "The meeting was short.",
-        "igbo": "Nzukọ ahụ dị nkenke."
+        "igbo": "Nzukọ ahụ dị mkpụmkpụ."
       },
       {
         "english": "He gave a short speech.",
-        "igbo": "Ọ kwuputara okwu nkenke."
+        "igbo": "O kwuru okwu dị mkpirikpi."
       },
       {
         "english": "The short story was interesting.",
-        "igbo": "Akụkọ nkenke ahụ na-atọ ụtọ."
+        "igbo": "Akụkọ dị mkpirikpi dị ụtọ."
       }
     ]
   },
@@ -238,11 +238,11 @@
       },
       {
         "english": "He has a narrow view.",
-        "igbo": "Ọ nwere echiche warara."
+        "igbo": "O nwere echiche dị warara."
       },
       {
         "english": "The narrow bridge is dangerous.",
-        "igbo": "Afọ warara ahụ dị ize ndụ."
+        "igbo": "Àkwà mmiri dị warara dị ize ndụ."
       }
     ]
   },
@@ -253,15 +253,15 @@
     "examples": [
       {
         "english": "The paper is thin.",
-        "igbo": "Akwụkwọ ahụ dị mkpa."
+        "igbo": "Akwụkwọ ahụ dị gịrịgịrị."
       },
       {
         "english": "He is thin and tall.",
-        "igbo": "Ọ dị mkpa na ogologo."
+        "igbo": "Ọ dị gịrịgịrị ma ogologo."
       },
       {
         "english": "The thin ice is fragile.",
-        "igbo": "Ice mkpa ahụ dị mfe ịgbaji."
+        "igbo": "Akpụkpọ ahụ dị gịrịgịrị na-esighi ike."
       }
     ]
   },
@@ -272,15 +272,15 @@
     "examples": [
       {
         "english": "The soup is warm.",
-        "igbo": "Nri ahụ na-ekpo ọkụ."
+        "igbo": "Ofe na-ekpo ọkụ."
       },
       {
         "english": "He gave a warm welcome.",
-        "igbo": "Ọ nyere nnabata na-ekpo ọkụ."
+        "igbo": "Ọ nabatara nke ọma."
       },
       {
         "english": "The weather is warm today.",
-        "igbo": "Ọdịdị ihu igwe na-ekpo ọkụ taa."
+        "igbo": "Ihu igwe na-ekpo ọkụ taa."
       }
     ]
   },
@@ -291,15 +291,15 @@
     "examples": [
       {
         "english": "The water is cold.",
-        "igbo": "Mmiri ahụ dị oyi."
+        "igbo": "Mmiri dị oyi."
       },
       {
         "english": "He caught a cold.",
-        "igbo": "Ọ jidere oyi."
+        "igbo": "Oyi jidere ya."
       },
       {
         "english": "The cold wind is blowing.",
-        "igbo": "Ifufe oyi na-efụ."
+        "igbo": "Ifufe oyi na-efe."
       }
     ]
   },
@@ -310,15 +310,15 @@
     "examples": [
       {
         "english": "The glass is full.",
-        "igbo": "Iko ahụ juputara."
+        "igbo": "Iko a juputara."
       },
       {
         "english": "He is full of energy.",
-        "igbo": "Ọ juputara na ume."
+        "igbo": "O juputara na ume."
       },
       {
         "english": "The room is full of people.",
-        "igbo": "Ụlọ ahụ juputara na mmadụ."
+        "igbo": "Ndị mmadụ juputara n'ọnụ ụlọ ahụ."
       }
     ]
   },
@@ -329,15 +329,15 @@
     "examples": [
       {
         "english": "The car is new.",
-        "igbo": "Ụgbọ ala ahụ bụ ọhụrụ."
+        "igbo": "Ụgbọ ala ahụ dị ọhụrụ."
       },
       {
         "english": "He has a new job.",
-        "igbo": "Ọ nwere ọrụ ọhụrụ."
+        "igbo": "O nwere ọrụ ọhụrụ."
       },
       {
         "english": "The new book is interesting.",
-        "igbo": "Akwụkwọ ọhụrụ ahụ na-atọ ụtọ."
+        "igbo": "Akwụkwọ ọhụrụ ahụ na-adọrọ mmasị."
       }
     ]
   },
@@ -348,7 +348,7 @@
     "examples": [
       {
         "english": "The house is old.",
-        "igbo": "Ụlọ ahụ bụ ochie."
+        "igbo": "Ụlọ ochie."
       },
       {
         "english": "He is an old friend.",
@@ -356,7 +356,7 @@
       },
       {
         "english": "The old tree is still standing.",
-        "igbo": "Osisi ochie ahụ ka na-eguzo."
+        "igbo": "Osisi ochie ka guzo."
       }
     ]
   },
@@ -367,11 +367,11 @@
     "examples": [
       {
         "english": "The food is good.",
-        "igbo": "Nri ahụ dị mma."
+        "igbo": "Nri dị mma."
       },
       {
         "english": "He is a good person.",
-        "igbo": "Ọ bụ mmadụ ọma."
+        "igbo": "Ọ bụ ezigbo mmadụ."
       },
       {
         "english": "The movie was good.",
@@ -386,15 +386,15 @@
     "examples": [
       {
         "english": "The weather is bad.",
-        "igbo": "Ọdịdị ihu igwe dị ọjọọ."
+        "igbo": "Ihu igwe adịghị mma."
       },
       {
         "english": "He made a bad decision.",
-        "igbo": "Ọ mere mkpebi ọjọọ."
+        "igbo": "O mere mkpebi ọjọọ."
       },
       {
         "english": "The food tastes bad.",
-        "igbo": "Nri ahụ na-atọ ọjọọ."
+        "igbo": "Ihe oriri na-atọ ụtọ."
       }
     ]
   },
@@ -405,15 +405,15 @@
     "examples": [
       {
         "english": "The fruit is rotten.",
-        "igbo": "Mkpụrụ osisi ahụ rere ure."
+        "igbo": "Mkpụrụ osisi rere ure."
       },
       {
         "english": "He found a rotten egg.",
-        "igbo": "Ọ chọtara akwa rere ure."
+        "igbo": "Ọ hụrụ akwa rere ure."
       },
       {
         "english": "The meat smells rotten.",
-        "igbo": "Anụ ahụ na-esi rere ure."
+        "igbo": "Anụ na-esi ísì rere ure."
       }
     ]
   },
@@ -424,15 +424,15 @@
     "examples": [
       {
         "english": "The floor is dirty.",
-        "igbo": "Ala ahụ ruru unyi."
+        "igbo": "Ala ruru unyi."
       },
       {
         "english": "He wore dirty clothes.",
-        "igbo": "Ọ yi uwe ruru unyi."
+        "igbo": "O yi uwe ruru unyi."
       },
       {
         "english": "The water looks dirty.",
-        "igbo": "Mmiri ahụ na-ele anya ruru unyi."
+        "igbo": "Mmiri dị ka unyi."
       }
     ]
   },
@@ -443,15 +443,15 @@
     "examples": [
       {
         "english": "The road is straight.",
-        "igbo": "Ụzọ ahụ kwụ ọtọ."
+        "igbo": "Ụzọ kwụ ọtọ."
       },
       {
         "english": "He gave a straight answer.",
-        "igbo": "Ọ nyere azịza kwụ ọtọ."
+        "igbo": "Ọ zara azịza kwụ ọtọ."
       },
       {
         "english": "The line is straight.",
-        "igbo": "Ahịrị ahụ kwụ ọtọ."
+        "igbo": "Ahịrị kwụ ọtọ."
       }
     ]
   },
@@ -462,15 +462,15 @@
     "examples": [
       {
         "english": "The table is round.",
-        "igbo": "Tebụl ahụ bụ gburugburu."
+        "igbo": "Tebụl dị okirikiri."
       },
       {
         "english": "He drew a round circle.",
-        "igbo": "Ọ dọrọ gburugburu."
+        "igbo": "Ọ sere okirikiri okirikiri."
       },
       {
         "english": "The ball is round.",
-        "igbo": "Bọọlụ ahụ bụ gburugburu."
+        "igbo": "Bọọlụ ahụ dị okirikiri."
       }
     ]
   },
@@ -481,15 +481,15 @@
     "examples": [
       {
         "english": "The knife is sharp.",
-        "igbo": "Mma ahụ dị nkọ."
+        "igbo": "Mma dị nkọ."
       },
       {
         "english": "He has a sharp mind.",
-        "igbo": "Ọ nwere uche nkọ."
+        "igbo": "O nwere uche dị nkọ."
       },
       {
         "english": "The sharp edge cut him.",
-        "igbo": "Nkọ nkịtị ahụ kpara ya."
+        "igbo": "Ọkpụkpụ dị nkọ wepụrụ ya."
       }
     ]
   },
@@ -500,15 +500,15 @@
     "examples": [
       {
         "english": "The knife is dull.",
-        "igbo": "Mma ahụ bụ ogbu."
+        "igbo": "Mma ahụ ada ada."
       },
       {
         "english": "He used a dull blade.",
-        "igbo": "Ọ jiri mma ogbu."
+        "igbo": "O ji agụba na-adịghị mma."
       },
       {
         "english": "The dull tool is hard to use.",
-        "igbo": "Ngwaọrụ ogbu ahụ siri ike iji."
+        "igbo": "The dull ngwá ọrụ siri ike iji."
       }
     ]
   },
@@ -519,15 +519,15 @@
     "examples": [
       {
         "english": "The surface is smooth.",
-        "igbo": "Elu ahụ dị ire ụtọ."
+        "igbo": "Elu dị ire ụtọ."
       },
       {
         "english": "He has smooth skin.",
-        "igbo": "Ọ nwere akpụkpọ anụ ire ụtọ."
+        "igbo": "O nwere ezigbo akpụkpọ."
       },
       {
         "english": "The transition was smooth.",
-        "igbo": "Mgbanwe ahụ dị ire ụtọ."
+        "igbo": "Mgbanwe ahụ dị nro."
       }
     ]
   },
@@ -538,15 +538,15 @@
     "examples": [
       {
         "english": "The ground is wet.",
-        "igbo": "Ala ahụ dị udu mmiri."
+        "igbo": "Ala mmiri."
       },
       {
         "english": "He wore wet clothes.",
-        "igbo": "Ọ yi uwe udu mmiri."
+        "igbo": "O yi uwe mmiri."
       },
       {
         "english": "The wet towel is on the floor.",
-        "igbo": "Tọwala udu mmiri dị na ala."
+        "igbo": "Akwa nhicha mmiri dị n'ala."
       }
     ]
   },
@@ -557,15 +557,15 @@
     "examples": [
       {
         "english": "The clothes are dry.",
-        "igbo": "Uwe ahụ akọrọ."
+        "igbo": "Uwe ahụ akpọnwụwo."
       },
       {
         "english": "He has dry skin.",
-        "igbo": "Ọ nwere akpụkpọ anụ akọrọ."
+        "igbo": "O nwere akpụkpọ anụ."
       },
       {
         "english": "The dry season is here.",
-        "igbo": "Oge akọrọ abịarutela."
+        "igbo": "Oge ọkọchị dị ebe a."
       }
     ]
   },
@@ -576,15 +576,15 @@
     "examples": [
       {
         "english": "The answer is correct.",
-        "igbo": "Azịza ahụ ziri ezi."
+        "igbo": "Azịza ya ziri ezi."
       },
       {
         "english": "He made the correct choice.",
-        "igbo": "Ọ họpụtara nke ziri ezi."
+        "igbo": "O mere nhọrọ ziri ezi."
       },
       {
         "english": "The correct spelling is important.",
-        "igbo": "Ịkpọpụta okwu ziri ezi dị mkpa."
+        "igbo": "Nsụgharị ziri ezi dị mkpa."
       }
     ]
   },
@@ -595,15 +595,15 @@
     "examples": [
       {
         "english": "The school is near.",
-        "igbo": "Ụlọ akwụkwọ ahụ dị nso."
+        "igbo": "Ụlọ akwụkwọ dị nso."
       },
       {
         "english": "He lives near the market.",
-        "igbo": "Ọ bi nso ahịa."
+        "igbo": "O bi nso n'ahịa."
       },
       {
         "english": "The park is near my house.",
-        "igbo": "Ogige ahụ dị nso n'ụlọ m."
+        "igbo": "Ogige ntụrụndụ dị nso n'ụlọ m."
       }
     ]
   },
@@ -614,11 +614,11 @@
     "examples": [
       {
         "english": "The city is far.",
-        "igbo": "Obodo ahụ dị anya."
+        "igbo": "Obodo dị anya."
       },
       {
         "english": "He traveled far from home.",
-        "igbo": "Ọ gara njem anya site n'ụlọ."
+        "igbo": "Ọ gara ebe dị anya site n’ụlọ ya."
       },
       {
         "english": "The mountain is far away.",
@@ -641,7 +641,7 @@
       },
       {
         "english": "How did you do it?",
-        "igbo": "Kedu ka ị si mee ya?"
+        "igbo": "Kedu ka i siri mee ya?"
       }
     ]
   },
@@ -652,15 +652,15 @@
     "examples": [
       {
         "english": "I am not hungry.",
-        "igbo": "A naghị m agụụ."
+        "igbo": "Agụụ anaghị agụ m."
       },
       {
         "english": "He is not coming.",
-        "igbo": "Ọ bụghị na-abịa."
+        "igbo": "Ọ naghị abịa."
       },
       {
         "english": "It is not raining.",
-        "igbo": "Ọ bụghị na-ezo mmiri."
+        "igbo": "Mmiri anaghị ezo."
       }
     ]
   },
@@ -671,7 +671,7 @@
     "examples": [
       {
         "english": "He and I are friends.",
-        "igbo": "Ọ na m bụ enyi."
+        "igbo": "Mụ na ya bụ enyi."
       },
       {
         "english": "Bread and butter.",
@@ -679,7 +679,7 @@
       },
       {
         "english": "Cats and dogs.",
-        "igbo": "Nwa nkịta na nkịta."
+        "igbo": "Nwamba na nkịta."
       }
     ]
   },
@@ -690,15 +690,15 @@
     "examples": [
       {
         "english": "If it rains, we will stay inside.",
-        "igbo": "Ọ bụrụ na ọ na-ezo mmiri, anyị ga-anọ n'ime."
+        "igbo": "Ọ bụrụ na mmiri zoo, anyị ga-anọ n'ime."
       },
       {
         "english": "If you come, I will be happy.",
-        "igbo": "Ọ bụrụ na ị bịa, obi ga-atọ m ụtọ."
+        "igbo": "Ị bịa, obi ga-adị m ụtọ."
       },
       {
         "english": "If he calls, let me know.",
-        "igbo": "Ọ bụrụ na ọ kpọọ, gwa m."
+        "igbo": "Ọ bụrụ na ọ kpọọ, mee ka m mara."
       }
     ]
   },
@@ -709,15 +709,15 @@
     "examples": [
       {
         "english": "I am happy because you are here.",
-        "igbo": "Ọ bụ n'ihi na ị nọ ebe a ka m ji nwee obi ụtọ."
+        "igbo": "Obi dị m ụtọ n'ihi na ị nọ ebe a."
       },
       {
         "english": "He left because it was late.",
-        "igbo": "Ọ hapụrụ n'ihi na ọ dị n'abalị."
+        "igbo": "Ọ hapụrụ n'ihi na oge eruola."
       },
       {
         "english": "She cried because she was sad.",
-        "igbo": "Ọ kwara akwa n'ihi na obi dị ya ụtọ."
+        "igbo": "O bere ákwá n’ihi na o wutere ya."
       }
     ]
   },
@@ -736,7 +736,7 @@
       },
       {
         "english": "One day, I will travel.",
-        "igbo": "Otu ụbọchị, aga m aga njem."
+        "igbo": "Otu ụbọchị, m ga-eme njem."
       }
     ]
   },
@@ -747,11 +747,11 @@
     "examples": [
       {
         "english": "I have two brothers.",
-        "igbo": "Enwere m ụmụnna abụọ."
+        "igbo": "Enwere m ụmụnne abụọ."
       },
       {
         "english": "Two birds are flying.",
-        "igbo": "Nnụnụ abụọ na-efe."
+        "igbo": "Nnụnụ abụọ na-efe efe."
       },
       {
         "english": "He bought two books.",
@@ -766,11 +766,11 @@
     "examples": [
       {
         "english": "Three cats are playing.",
-        "igbo": "Nwa nkịta atọ na-egwu egwu."
+        "igbo": "Nwamba atọ na-egwu egwu."
       },
       {
         "english": "He has three cars.",
-        "igbo": "Ọ nwere ụgbọ ala atọ."
+        "igbo": "O nwere ụgbọ ala atọ."
       },
       {
         "english": "Three days have passed.",
@@ -785,15 +785,15 @@
     "examples": [
       {
         "english": "Four students are absent.",
-        "igbo": "Ụmụ akwụkwọ anọ adịghị."
+        "igbo": "Ụmụ akwụkwọ anọ anọghị ya."
       },
       {
         "english": "He has four sisters.",
-        "igbo": "Ọ nwere ụmụnne nwanyị anọ."
+        "igbo": "O nwere ụmụnne nwanyị anọ."
       },
       {
         "english": "Four chairs are in the room.",
-        "igbo": "Oche anọ dị n'ụlọ ahụ."
+        "igbo": "Oche anọ dị n'ime ụlọ ahụ."
       }
     ]
   },
@@ -808,7 +808,7 @@
       },
       {
         "english": "He has five friends.",
-        "igbo": "Ọ nwere enyi ise."
+        "igbo": "O nwere ndị enyi ise."
       },
       {
         "english": "Five days remain.",
@@ -823,15 +823,15 @@
     "examples": [
       {
         "english": "The woman is kind.",
-        "igbo": "Nwanyi ahụ dị obiọma."
+        "igbo": "Nwanyị ahụ nwere obiọma."
       },
       {
         "english": "She is a strong woman.",
-        "igbo": "Ọ bụ nwanyi ike."
+        "igbo": "Ọ bụ nwanyị siri ike."
       },
       {
         "english": "The woman is cooking.",
-        "igbo": "Nwanyi ahụ na-esi nri."
+        "igbo": "Nwanyị ahụ na-esi nri."
       }
     ]
   },
@@ -842,11 +842,11 @@
     "examples": [
       {
         "english": "The man is tall.",
-        "igbo": "Nwoke ahụ dị ogologo."
+        "igbo": "Nwoke ahụ toro ogologo."
       },
       {
         "english": "He is a brave man.",
-        "igbo": "Ọ bụ nwoke obi ike."
+        "igbo": "Ọ bụ nwoke nwere obi ike."
       },
       {
         "english": "The man is working.",
@@ -861,15 +861,15 @@
     "examples": [
       {
         "english": "Man is a social being.",
-        "igbo": "Mmadụ bụ anụ ọhịa mmekọrịta."
+        "igbo": "Mmadụ bụ mmadụ."
       },
       {
         "english": "He is a good man.",
-        "igbo": "Ọ bụ mmadụ ọma."
+        "igbo": "Ọ bụ ezigbo mmadụ."
       },
       {
         "english": "Man has evolved over time.",
-        "igbo": "Mmadụ agbanweela n'oge."
+        "igbo": "Mmadụ etolitela ka oge na-aga."
       }
     ]
   },
@@ -880,7 +880,7 @@
     "examples": [
       {
         "english": "The child is playing.",
-        "igbo": "Nwa ahụ na-egwu egwu."
+        "igbo": "Nwatakịrị na-egwu egwu."
       },
       {
         "english": "She is a happy child.",
@@ -888,7 +888,7 @@
       },
       {
         "english": "The child is sleeping.",
-        "igbo": "Nwa ahụ na-ehi ụra."
+        "igbo": "Nwatakịrị na-ehi ụra."
       }
     ]
   },
@@ -899,15 +899,15 @@
     "examples": [
       {
         "english": "His wife is kind.",
-        "igbo": "Nwunye ya dị obiọma."
+        "igbo": "Nwunye ya nwere obiọma."
       },
       {
         "english": "She is a supportive wife.",
-        "igbo": "Ọ bụ nwunye nkwado."
+        "igbo": "Ọ bụ nwunye na-akwado ya."
       },
       {
         "english": "The wife is cooking dinner.",
-        "igbo": "Nwunye ahụ na-esi nri abalị."
+        "igbo": "Nwunye na-esi nri abalị."
       }
     ]
   },
@@ -918,15 +918,15 @@
     "examples": [
       {
         "english": "Her husband is caring.",
-        "igbo": "Di ya na-elekọta."
+        "igbo": "Di ya na-eche banyere ya."
       },
       {
         "english": "He is a loving husband.",
-        "igbo": "Ọ bụ di hụrụ n'anya."
+        "igbo": "Ọ bụ di na-ahụ n’anya."
       },
       {
         "english": "The husband is fixing the car.",
-        "igbo": "Di ahụ na-emezi ụgbọ ala."
+        "igbo": "Di na-edozi ụgbọ ala."
       }
     ]
   },
@@ -937,15 +937,15 @@
     "examples": [
       {
         "english": "The mother is singing.",
-        "igbo": "Nne ahụ na-agụ egwu."
+        "igbo": "Nne na-abụ abụ."
       },
       {
         "english": "She is a caring mother.",
-        "igbo": "Ọ bụ nne na-elekọta."
+        "igbo": "Ọ bụ nne na-ahụ n'anya."
       },
       {
         "english": "The mother is teaching her child.",
-        "igbo": "Nne ahụ na-akụziri nwa ya."
+        "igbo": "Nne na-akụziri nwa ya ihe."
       }
     ]
   },
@@ -956,15 +956,15 @@
     "examples": [
       {
         "english": "The father is reading.",
-        "igbo": "Nna ahụ na-agụ akwụkwọ."
+        "igbo": "Nna na-agụ akwụkwọ."
       },
       {
         "english": "He is a responsible father.",
-        "igbo": "Ọ bụ nna na-ahụ maka ọrụ."
+        "igbo": "Ọ bụ nna nwere ikike."
       },
       {
         "english": "The father is playing with his children.",
-        "igbo": "Nna ahụ na-egwu egwu na ụmụ ya."
+        "igbo": "Nna ya na ụmụ ya na-egwuri egwu."
       }
     ]
   },
@@ -975,7 +975,7 @@
     "examples": [
       {
         "english": "The animal is wild.",
-        "igbo": "Anụmanụ ahụ bụ anụ ọhịa."
+        "igbo": "Anụ ọhịa bụ anụ ọhịa."
       },
       {
         "english": "He loves animals.",
@@ -983,7 +983,7 @@
       },
       {
         "english": "The animal is sleeping.",
-        "igbo": "Anụmanụ ahụ na-ehi ụra."
+        "igbo": "Anụ na-ehi ụra."
       }
     ]
   },
@@ -994,15 +994,15 @@
     "examples": [
       {
         "english": "The fish is swimming.",
-        "igbo": "Azụ ahụ na-egwu mmiri."
+        "igbo": "Azụ na-egwu mmiri."
       },
       {
         "english": "He caught a big fish.",
-        "igbo": "Ọ jidere azụ nnukwu."
+        "igbo": "Ọ nwụdere nnukwu azụ̀."
       },
       {
         "english": "The fish is tasty.",
-        "igbo": "Azụ ahụ na-atọ ụtọ."
+        "igbo": "Azụ na-atọ ụtọ."
       }
     ]
   },
@@ -1013,15 +1013,15 @@
     "examples": [
       {
         "english": "The bird is singing.",
-        "igbo": "Nnụnụ ahụ na-agụ egwu."
+        "igbo": "Nnụnụ na-abụ abụ."
       },
       {
         "english": "He saw a colorful bird.",
-        "igbo": "Ọ hụrụ nnụnụ nwere agba."
+        "igbo": "Ọ hụrụ nnụnụ mara mma."
       },
       {
         "english": "The bird is flying.",
-        "igbo": "Nnụnụ ahụ na-efe."
+        "igbo": "Nnụnụ na-efe efe."
       }
     ]
   },
@@ -1032,15 +1032,15 @@
     "examples": [
       {
         "english": "The dog is barking.",
-        "igbo": "Nkịta ahụ na-akpọ."
+        "igbo": "Nkịta na-agbọ ụja."
       },
       {
         "english": "He has a friendly dog.",
-        "igbo": "Ọ nwere nkịta enyi."
+        "igbo": "O nwere nkịta enyi na enyi."
       },
       {
         "english": "The dog is playing in the yard.",
-        "igbo": "Nkịta ahụ na-egwu egwu n'ubi."
+        "igbo": "Nkịta na-egwu egwu n'ogige."
       }
     ]
   },
@@ -1051,15 +1051,15 @@
     "examples": [
       {
         "english": "The louse is small.",
-        "igbo": "Owu ahụ dị obere."
+        "igbo": "Uwe ahụ dị obere."
       },
       {
         "english": "He found a louse in his hair.",
-        "igbo": "Ọ chọtara owu n'isi ya."
+        "igbo": "Ọ chọtara úkwù n'isi ya."
       },
       {
         "english": "The louse is hard to see.",
-        "igbo": "Owu ahụ siri ike ịhụ."
+        "igbo": "Uwe siri ike ịhụ."
       }
     ]
   },
@@ -1070,15 +1070,15 @@
     "examples": [
       {
         "english": "The snake is long.",
-        "igbo": "Agwọ ahụ dị ogologo."
+        "igbo": "Agwo di ogologo."
       },
       {
         "english": "He saw a snake in the garden.",
-        "igbo": "Ọ hụrụ agwọ n'ubi."
+        "igbo": "Ọ hụrụ agwọ n’ubi ahụ."
       },
       {
         "english": "The snake is dangerous.",
-        "igbo": "Agwọ ahụ dị ize ndụ."
+        "igbo": "Agwọ dị ize ndụ."
       }
     ]
   },
@@ -1089,15 +1089,15 @@
     "examples": [
       {
         "english": "The worm is crawling.",
-        "igbo": "Ikpuru ahụ na-arị."
+        "igbo": "Ikpuru na-akpụ akpụ."
       },
       {
         "english": "He found a worm in the soil.",
-        "igbo": "Ọ chọtara ikpuru n'ala."
+        "igbo": "Ọ hụrụ ikpuru n’ala."
       },
       {
         "english": "The worm is small.",
-        "igbo": "Ikpuru ahụ dị obere."
+        "igbo": "Ikpuru dị obere."
       }
     ]
   },
@@ -1108,11 +1108,11 @@
     "examples": [
       {
         "english": "The tree is tall.",
-        "igbo": "Osisi ahụ dị ogologo."
+        "igbo": "Osisi ahụ toro ogologo."
       },
       {
         "english": "He climbed the tree.",
-        "igbo": "Ọ rịgoro n'osisi ahụ."
+        "igbo": "Ọ rịgoro n'elu osisi."
       },
       {
         "english": "The tree provides shade.",
@@ -1127,15 +1127,15 @@
     "examples": [
       {
         "english": "The forest is dense.",
-        "igbo": "Ọhịa ahụ dị oké."
+        "igbo": "Ohia juru oke."
       },
       {
         "english": "He got lost in the forest.",
-        "igbo": "Ọ tụfuru ụzọ n'ọhịa ahụ."
+        "igbo": "Ọ furu efu n'ime ọhịa."
       },
       {
         "english": "The forest is home to many animals.",
-        "igbo": "Ọhịa ahụ bụ ebe obibi maka ọtụtụ anụmanụ."
+        "igbo": "Ohia bu otutu anumanu."
       }
     ]
   },
@@ -1146,15 +1146,15 @@
     "examples": [
       {
         "english": "He picked up a stick.",
-        "igbo": "Ọ kpọrọ osisi."
+        "igbo": "O were osisi."
       },
       {
         "english": "The stick is strong.",
-        "igbo": "Osisi ahụ dị ike."
+        "igbo": "Osisi ahụ siri ike."
       },
       {
         "english": "He used a stick to draw in the sand.",
-        "igbo": "Ọ jiri osisi dọta n'ájá."
+        "igbo": "O ji osisi sere n’ájá."
       }
     ]
   },
@@ -1165,15 +1165,15 @@
     "examples": [
       {
         "english": "The fruit is ripe.",
-        "igbo": "Mkpụrụ osisi ahụ dị ọka."
+        "igbo": "Mkpụrụ ahụ chara acha."
       },
       {
         "english": "He ate a fruit.",
-        "igbo": "Ọ riri mkpụrụ osisi."
+        "igbo": "O riri mkpụrụ osisi."
       },
       {
         "english": "The fruit is sweet.",
-        "igbo": "Mkpụrụ osisi ahụ na-atọ ụtọ."
+        "igbo": "Mkpụrụ osisi na-atọ ụtọ."
       }
     ]
   },
@@ -1192,7 +1192,7 @@
       },
       {
         "english": "The seed will grow into a tree.",
-        "igbo": "Mkpụrụ ahụ ga-eto n'osisi."
+        "igbo": "Mkpụrụ ahụ ga-eto eto."
       }
     ]
   },
@@ -1203,15 +1203,15 @@
     "examples": [
       {
         "english": "The leaf is green.",
-        "igbo": "Akwukwo ahụ dị akwụkwọ ndụ."
+        "igbo": "Akwụkwọ ahụ bụ akwụkwọ ndụ akwụkwọ ndụ."
       },
       {
         "english": "He picked a leaf.",
-        "igbo": "Ọ kpọrọ akwukwo."
+        "igbo": "O were akwukwo."
       },
       {
         "english": "The leaf fell from the tree.",
-        "igbo": "Akwukwo ahụ dara n'osisi."
+        "igbo": "Akwụkwọ ahụ si n'osisi ahụ daa."
       }
     ]
   },
@@ -1222,15 +1222,15 @@
     "examples": [
       {
         "english": "The root is deep.",
-        "igbo": "Mgbọrọgwụ ahụ dị omimi."
+        "igbo": "Mgbọrọgwụ dị omimi."
       },
       {
         "english": "He dug up the root.",
-        "igbo": "Ọ gwuru mgbọrọgwụ ahụ."
+        "igbo": "Ọ gwuru mgbọrọgwụ."
       },
       {
         "english": "The root supports the tree.",
-        "igbo": "Mgbọrọgwụ ahụ na-akwado osisi ahụ."
+        "igbo": "Mgbọrọgwụ na-akwado osisi ahụ."
       }
     ]
   },
@@ -1241,15 +1241,15 @@
     "examples": [
       {
         "english": "The bark is rough.",
-        "igbo": "Ogbugbo ahụ dị nkọ."
+        "igbo": "ogbugbo ahụ siri ike."
       },
       {
         "english": "He peeled the bark.",
-        "igbo": "Ọ kpụrụ ogbugbo ahụ."
+        "igbo": "O hichaa ogbugbo."
       },
       {
         "english": "The bark protects the tree.",
-        "igbo": "Ogbugbo ahụ na-echebe osisi ahụ."
+        "igbo": "ogbugbo na-echebe osisi."
       }
     ]
   },
@@ -1260,11 +1260,11 @@
     "examples": [
       {
         "english": "The flower is blooming.",
-        "igbo": "Ifuru ahụ na-eto eto."
+        "igbo": "Ifuru na-ama ifuru."
       },
       {
         "english": "He picked a flower.",
-        "igbo": "Ọ kpọrọ ifuru."
+        "igbo": "Ọ chiri ifuru."
       },
       {
         "english": "The flower is beautiful.",
@@ -1279,15 +1279,15 @@
     "examples": [
       {
         "english": "The grass is green.",
-        "igbo": "Ahihia ahụ dị akwụkwọ ndụ."
+        "igbo": "Ahịhịa bụ akwụkwọ ndụ akwụkwọ ndụ."
       },
       {
         "english": "He cut the grass.",
-        "igbo": "Ọ kpụchara ahihia ahụ."
+        "igbo": "Ọ gbuturu ahịhịa."
       },
       {
         "english": "The grass is wet with dew.",
-        "igbo": "Ahihia ahụ dị udu mmiri na mmiri ozuzo."
+        "igbo": "Igirigi na-agba ahịhịa."
       }
     ]
   },
@@ -1298,15 +1298,15 @@
     "examples": [
       {
         "english": "The rope is strong.",
-        "igbo": "Eriri ahụ dị ike."
+        "igbo": "Ụdọ siri ike."
       },
       {
         "english": "He tied the rope.",
-        "igbo": "Ọ tiri eriri ahụ."
+        "igbo": "O wee kee eriri ahụ."
       },
       {
         "english": "The rope is long.",
-        "igbo": "Eriri ahụ dị ogologo."
+        "igbo": "Ụdọ ahụ dị ogologo."
       }
     ]
   },
@@ -1317,15 +1317,15 @@
     "examples": [
       {
         "english": "Her skin is smooth.",
-        "igbo": "Akpụkpọ anụ ya dị ire ụtọ."
+        "igbo": "Akpụkpọ ahụ ya dị ire ụtọ."
       },
       {
         "english": "He has sensitive skin.",
-        "igbo": "Ọ nwere akpụkpọ anụ na-eche mmetụta."
+        "igbo": "O nwere akpụkpọ anụ."
       },
       {
         "english": "The skin protects the body.",
-        "igbo": "Akpụkpọ anụ na-echebe ahụ."
+        "igbo": "Akpụkpọ ahụ na-echebe ahụ."
       }
     ]
   },
@@ -1336,7 +1336,7 @@
     "examples": [
       {
         "english": "The meat is cooked.",
-        "igbo": "Anụ ahụ esiri."
+        "igbo": "A na-esi anụ."
       },
       {
         "english": "He bought some meat.",
@@ -1355,15 +1355,15 @@
     "examples": [
       {
         "english": "Blood is red.",
-        "igbo": "Ọbara bụ uhie."
+        "igbo": "Ọbara na-acha uhie uhie."
       },
       {
         "english": "He donated blood.",
-        "igbo": "Ọ nyere ọbara."
+        "igbo": "O nyere ọbara."
       },
       {
         "english": "The blood flows through the veins.",
-        "igbo": "Ọbara na-asọba n'ime akwara."
+        "igbo": "Ọbara na-esi na veins na-asọpụta."
       }
     ]
   },
@@ -1374,7 +1374,7 @@
     "examples": [
       {
         "english": "The bone is strong.",
-        "igbo": "Ọkpụkpụ ahụ dị ike."
+        "igbo": "Ọkpụkpụ ahụ siri ike."
       },
       {
         "english": "He broke a bone.",
@@ -1393,15 +1393,15 @@
     "examples": [
       {
         "english": "The fat is used in cooking.",
-        "igbo": "Abụba na-eji esi nri."
+        "igbo": "A na-eji abụba na-esi nri."
       },
       {
         "english": "He trimmed the fat.",
-        "igbo": "Ọ kpụchara abụba ahụ."
+        "igbo": "Ọ kpachapụrụ abụba ahụ."
       },
       {
         "english": "The fat is stored in the body.",
-        "igbo": "Abụba na-echekwa n'ime ahụ."
+        "igbo": "A na-echekwa abụba n'ime ahụ."
       }
     ]
   },
@@ -1412,15 +1412,15 @@
     "examples": [
       {
         "english": "The egg is boiled.",
-        "igbo": "Akwa ahụ esiri."
+        "igbo": "A na-esi akwa ahụ sie."
       },
       {
         "english": "He cracked an egg.",
-        "igbo": "Ọ gbajiri akwa."
+        "igbo": "Ọ gbawara akwa."
       },
       {
         "english": "The egg is fresh.",
-        "igbo": "Akwa ahụ dị ọhụrụ."
+        "igbo": "Akwa dị ọhụrụ."
       }
     ]
   },
@@ -1431,15 +1431,15 @@
     "examples": [
       {
         "english": "The horn is sharp.",
-        "igbo": "Mpi ahụ dị nkọ."
+        "igbo": "Mpi dị nkọ."
       },
       {
         "english": "He blew the horn.",
-        "igbo": "Ọ fụụrụ mpi."
+        "igbo": "Ọ fụrụ opi."
       },
       {
         "english": "The horn is used for decoration.",
-        "igbo": "Mpi na-eji eme mma."
+        "igbo": "A na-eji mpi ahụ chọọ mma."
       }
     ]
   },
@@ -1450,15 +1450,15 @@
     "examples": [
       {
         "english": "The tail is long.",
-        "igbo": "Ọdị ahụ dị ogologo."
+        "igbo": "Ọdụ ahụ dị ogologo."
       },
       {
         "english": "He grabbed the tail.",
-        "igbo": "Ọ kpọrọ ọdụ ahụ."
+        "igbo": "O jidere ọdụ ahụ."
       },
       {
         "english": "The tail wags when the dog is happy.",
-        "igbo": "Ọdị na-agagharị mgbe nkịta na-enwe obi ụtọ."
+        "igbo": "Ọdụ ahụ na-ama jijiji mgbe nkịta nwere obi ụtọ."
       }
     ]
   },
@@ -1477,7 +1477,7 @@
       },
       {
         "english": "The feather helps the bird fly.",
-        "igbo": "Nku na-enyere nnụnụ aka ife."
+        "igbo": "Nku na-enyere nnụnụ aka ife efe."
       }
     ]
   },
@@ -1488,15 +1488,15 @@
     "examples": [
       {
         "english": "Her hair is long.",
-        "igbo": "Ntutu isi ya dị ogologo."
+        "igbo": "Ntutu isi ya di ogologo."
       },
       {
         "english": "He combed his hair.",
-        "igbo": "Ọ kpụchara ntutu isi ya."
+        "igbo": "Ọ kpụrụ isi ya."
       },
       {
         "english": "The hair is soft.",
-        "igbo": "Ntutu isi ahụ dị nro."
+        "igbo": "Ntutu isi dị nro."
       }
     ]
   },
@@ -1507,15 +1507,15 @@
     "examples": [
       {
         "english": "The head is round.",
-        "igbo": "Isi ahụ bụ gburugburu."
+        "igbo": "Isi dị okirikiri."
       },
       {
         "english": "He nodded his head.",
-        "igbo": "Ọ kwadoro isi ya."
+        "igbo": "O hulatara isi."
       },
       {
         "english": "The head contains the brain.",
-        "igbo": "Isi na-enwe ụbụrụ."
+        "igbo": "Isi nwere ụbụrụ."
       }
     ]
   },
@@ -1526,15 +1526,15 @@
     "examples": [
       {
         "english": "The ear is sensitive.",
-        "igbo": "Nti ahụ na-eche mmetụta."
+        "igbo": "Ntị nwere mmetụta."
       },
       {
         "english": "He cleaned his ear.",
-        "igbo": "Ọ sachara nti ya."
+        "igbo": "Ọ sachara ntị ya."
       },
       {
         "english": "The ear helps in hearing.",
-        "igbo": "Nti na-enyere aka n'ịgụ."
+        "igbo": "Ntị na-enyere aka n'ịnụ ihe."
       }
     ]
   },
@@ -1545,11 +1545,11 @@
     "examples": [
       {
         "english": "The eye is blue.",
-        "igbo": "Anya ahụ bụ akwụkwọ ndụ akwụkwọ ndụ."
+        "igbo": "Anya na-acha anụnụ anụnụ."
       },
       {
         "english": "He closed his eyes.",
-        "igbo": "Ọ mechiri anya ya."
+        "igbo": "O mechiri anya ya."
       },
       {
         "english": "The eye sees everything.",
@@ -1564,15 +1564,15 @@
     "examples": [
       {
         "english": "The nose is small.",
-        "igbo": "Imi ahụ dị obere."
+        "igbo": "Imi dị obere."
       },
       {
         "english": "He blew his nose.",
-        "igbo": "Ọ fụụrụ imi ya."
+        "igbo": "Ọ fụrụ imi ya."
       },
       {
         "english": "The nose helps in smelling.",
-        "igbo": "Imi na-enyere aka n'ịhụ isi."
+        "igbo": "Imi na-enyere aka n'isi."
       }
     ]
   },
@@ -1583,15 +1583,15 @@
     "examples": [
       {
         "english": "The mouth is open.",
-        "igbo": "Ọnụ ahụ meghere."
+        "igbo": "Ọnụ ghere oghe."
       },
       {
         "english": "He closed his mouth.",
-        "igbo": "Ọ mechiri ọnụ ya."
+        "igbo": "O mechiri ọnụ ya."
       },
       {
         "english": "The mouth is used for eating.",
-        "igbo": "Ọnụ na-eji eri nri."
+        "igbo": "A na-eji ọnụ rie nri."
       }
     ]
   },
@@ -1602,15 +1602,15 @@
     "examples": [
       {
         "english": "The tooth is white.",
-        "igbo": "Eze ahụ bụ ọcha."
+        "igbo": "Eze na-acha ọcha."
       },
       {
         "english": "He brushed his teeth.",
-        "igbo": "Ọ sachara eze ya."
+        "igbo": "Ọ hịara ezé."
       },
       {
         "english": "The tooth is used for chewing.",
-        "igbo": "Eze na-eji taa nri."
+        "igbo": "A na-eji eze ata ata."
       }
     ]
   },
@@ -1621,15 +1621,15 @@
     "examples": [
       {
         "english": "The tongue is pink.",
-        "igbo": "Ire ahụ bụ pink."
+        "igbo": "Ire bụ pink."
       },
       {
         "english": "He stuck out his tongue.",
-        "igbo": "Ọ kpọpụụrụ ire ya."
+        "igbo": "Ọ gbapụrụ ire ya."
       },
       {
         "english": "The tongue helps in tasting.",
-        "igbo": "Ire na-enyere aka n'ịhụ ụtọ."
+        "igbo": "Ire na-enyere aka n'ịtọ ụtọ."
       }
     ]
   },
@@ -1640,15 +1640,15 @@
     "examples": [
       {
         "english": "The fingernail is long.",
-        "igbo": "Mbọ aka ahụ dị ogologo."
+        "igbo": "Ntu mkpịsị aka dị ogologo."
       },
       {
         "english": "He trimmed his fingernails.",
-        "igbo": "Ọ kpụchara mbọ aka ya."
+        "igbo": "Ọ kpụziri mbọ aka ya."
       },
       {
         "english": "The fingernail protects the finger.",
-        "igbo": "Mbọ aka na-echebe mkpịsị aka."
+        "igbo": "Ntu aka na-echebe mkpịsị aka."
       }
     ]
   },
@@ -1659,15 +1659,15 @@
     "examples": [
       {
         "english": "The foot is large.",
-        "igbo": "Ukwu ahụ dị nnukwu."
+        "igbo": "Ụkwụ buru ibu."
       },
       {
         "english": "He washed his feet.",
-        "igbo": "Ọ sachara ukwu ya."
+        "igbo": "Ọ sara ụkwụ ya."
       },
       {
         "english": "The foot helps in walking.",
-        "igbo": "Ukwu na-enyere aka n'ịga ije."
+        "igbo": "Ụkwụ na-enyere aka na-eje ije."
       }
     ]
   },
@@ -1678,15 +1678,15 @@
     "examples": [
       {
         "english": "The leg is strong.",
-        "igbo": "Ukwu ahụ dị ike."
+        "igbo": "Ụkwụ siri ike."
       },
       {
         "english": "He injured his leg.",
-        "igbo": "Ọ merụrụ ukwu ya."
+        "igbo": "O merụrụ ya ụkwụ."
       },
       {
         "english": "The leg helps in running.",
-        "igbo": "Ukwu na-enyere aka n'ịgba ọsọ."
+        "igbo": "Ụkwụ na-enyere aka n'ịgba ọsọ."
       }
     ]
   },
@@ -1697,15 +1697,15 @@
     "examples": [
       {
         "english": "The knee is bent.",
-        "igbo": "Ikpere ahụ agbajiri."
+        "igbo": "Egburu ikpere."
       },
       {
         "english": "He injured his knee.",
-        "igbo": "Ọ merụrụ ikpere ya."
+        "igbo": "O merụrụ ikpere ya."
       },
       {
         "english": "The knee supports the leg.",
-        "igbo": "Ikpere na-akwado ukwu."
+        "igbo": "Ikpere na-akwado ụkwụ."
       }
     ]
   },
@@ -1716,15 +1716,15 @@
     "examples": [
       {
         "english": "The hand is strong.",
-        "igbo": "Aka ahụ dị ike."
+        "igbo": "Aka siri ike."
       },
       {
         "english": "He raised his hand.",
-        "igbo": "Ọ welitere aka ya."
+        "igbo": "O weliri aka ya."
       },
       {
         "english": "The hand helps in holding.",
-        "igbo": "Aka na-enyere aka n'ịjide."
+        "igbo": "Aka na-enyere aka ijide."
       }
     ]
   },
@@ -1735,15 +1735,15 @@
     "examples": [
       {
         "english": "The wing is large.",
-        "igbo": "Nku ahụ dị nnukwu."
+        "igbo": "Nku ahụ buru ibu."
       },
       {
         "english": "He clipped the wing.",
-        "igbo": "Ọ kpụchara nku ahụ."
+        "igbo": "Ọ kụpụrụ nku ahụ."
       },
       {
         "english": "The wing helps the bird fly.",
-        "igbo": "Nku na-enyere nnụnụ aka ife."
+        "igbo": "Nku na-enyere nnụnụ aka ife efe."
       }
     ]
   },
@@ -1754,15 +1754,15 @@
     "examples": [
       {
         "english": "The belly is full.",
-        "igbo": "Afọ ahụ juputara."
+        "igbo": "Afọ juru."
       },
       {
         "english": "He rubbed his belly.",
-        "igbo": "Ọ kpụchara afọ ya."
+        "igbo": "Ọ na-ete ya afọ."
       },
       {
         "english": "The belly is round.",
-        "igbo": "Afọ ahụ bụ gburugburu."
+        "igbo": "Afọ dị okirikiri."
       }
     ]
   },
@@ -1773,15 +1773,15 @@
     "examples": [
       {
         "english": "The guts are strong.",
-        "igbo": "Eriri afọ ahụ dị ike."
+        "igbo": "Ọkpụkpụ dị ike."
       },
       {
         "english": "He felt it in his guts.",
-        "igbo": "Ọ nụrụ ya n'eriri afọ ya."
+        "igbo": "O nwere mmetụta n'afọ ya."
       },
       {
         "english": "The guts are essential for digestion.",
-        "igbo": "Eriri afọ dị mkpa maka ịgbari nri."
+        "igbo": "Ọkpụkpụ dị mkpa maka mgbaze."
       }
     ]
   },
@@ -1792,7 +1792,7 @@
     "examples": [
       {
         "english": "The neck is long.",
-        "igbo": "Olu ahụ dị ogologo."
+        "igbo": "Olu dị ogologo."
       },
       {
         "english": "He turned his neck.",
@@ -1811,11 +1811,11 @@
     "examples": [
       {
         "english": "The back is strong.",
-        "igbo": "Azụ ahụ dị ike."
+        "igbo": "Azu siri ike."
       },
       {
         "english": "He leaned on his back.",
-        "igbo": "Ọ kwụgidere n'azụ ya."
+        "igbo": "Ọ dabere n'azụ ya."
       },
       {
         "english": "The back supports the body.",
@@ -1830,15 +1830,15 @@
     "examples": [
       {
         "english": "The breast is full.",
-        "igbo": "Ara ahụ juputara."
+        "igbo": "Ara ejuola."
       },
       {
         "english": "She fed the baby with her breast.",
-        "igbo": "Ọ na-enye nwa ahụ ara."
+        "igbo": "O ji ara ya nye nwa ahụ nri."
       },
       {
         "english": "The breast is sensitive.",
-        "igbo": "Ara ahụ na-eche mmetụta."
+        "igbo": "Ara nwere mmetụta."
       }
     ]
   },
@@ -1849,15 +1849,15 @@
     "examples": [
       {
         "english": "The heart is beating.",
-        "igbo": "Obi ahụ na-ama."
+        "igbo": "Obi na-akụ."
       },
       {
         "english": "He has a kind heart.",
-        "igbo": "Ọ nwere obiọma."
+        "igbo": "O nwere obi oma."
       },
       {
         "english": "The heart pumps blood.",
-        "igbo": "Obi na-afụ ọbara."
+        "igbo": "Obi na-agbapụta ọbara."
       }
     ]
   },
@@ -1872,11 +1872,11 @@
       },
       {
         "english": "He damaged his liver.",
-        "igbo": "Ọ merụrụ imeju ya."
+        "igbo": "O mebiri imeju ya."
       },
       {
         "english": "The liver detoxifies the body.",
-        "igbo": "Imeju na-ehichapụ ahụ."
+        "igbo": "Imeju na-emebi ahụ."
       }
     ]
   },
@@ -1887,15 +1887,15 @@
     "examples": [
       {
         "english": "The sun is bright.",
-        "igbo": "Anyanwụ ahụ na-enwu."
+        "igbo": "Anyanwụ na-enwu."
       },
       {
         "english": "He watched the sunrise.",
-        "igbo": "Ọ lere anyanwụ na-epụta."
+        "igbo": "Ọ na-ele anya ọwụwa anyanwụ."
       },
       {
         "english": "The sun provides warmth.",
-        "igbo": "Anyanwụ na-enye ọkụ."
+        "igbo": "Anyanwụ na-enye okpomọkụ."
       }
     ]
   },
@@ -1906,15 +1906,15 @@
     "examples": [
       {
         "english": "The moon is full.",
-        "igbo": "Ọnwa ahụ juputara."
+        "igbo": "Ọnwa ezuola."
       },
       {
         "english": "He gazed at the moon.",
-        "igbo": "Ọ lere ọnwa ahụ anya."
+        "igbo": "O lere ọnwa anya."
       },
       {
         "english": "The moonlight is soothing.",
-        "igbo": "Ọnwa na-enye ọkụ dị nro."
+        "igbo": "Ìhè ọnwa na-atọ ụtọ."
       }
     ]
   },
@@ -1925,11 +1925,11 @@
     "examples": [
       {
         "english": "The star is shining.",
-        "igbo": "Kpakpando ahụ na-enwu."
+        "igbo": "Kpakpando na-enwu."
       },
       {
         "english": "He wished upon a star.",
-        "igbo": "Ọ chere n'echiche n'elu kpakpando."
+        "igbo": "Ọ chọrọ n'elu kpakpando."
       },
       {
         "english": "The star is far away.",
@@ -1944,7 +1944,7 @@
     "examples": [
       {
         "english": "The water is clear.",
-        "igbo": "Mmiri ahụ dị ọcha."
+        "igbo": "Mmiri doro anya."
       },
       {
         "english": "He drank the water.",
@@ -1952,7 +1952,7 @@
       },
       {
         "english": "The water flows gently.",
-        "igbo": "Mmiri na-asọba nwayọ."
+        "igbo": "Mmiri na-agba nwayọọ nwayọọ."
       }
     ]
   },
@@ -1963,15 +1963,15 @@
     "examples": [
       {
         "english": "The rain is heavy.",
-        "igbo": "Mmiri ozuzo ahụ dị arọ."
+        "igbo": "Mmiri na-ezo."
       },
       {
         "english": "He danced in the rain.",
-        "igbo": "Ọ gwuo egwu n'ime mmiri ozuzo."
+        "igbo": "Ọ na-agba egwu na mmiri ozuzo."
       },
       {
         "english": "The rain nourishes the earth.",
-        "igbo": "Mmiri ozuzo na-enye ala nri."
+        "igbo": "Mmiri na-azụ ụwa."
       }
     ]
   },
@@ -1982,11 +1982,11 @@
     "examples": [
       {
         "english": "The river is wide.",
-        "igbo": "Osimiri ahụ dị obosara."
+        "igbo": "Osimiri ahụ sara mbara."
       },
       {
         "english": "He swam in the river.",
-        "igbo": "Ọ gwuo mmiri n'osimiri ahụ."
+        "igbo": "Ọ gwuru n'osimiri."
       },
       {
         "english": "The river flows to the sea.",
@@ -2005,11 +2005,11 @@
       },
       {
         "english": "He fished in the lake.",
-        "igbo": "Ọ chụụrụ azụ n'ọdọ mmiri ahụ."
+        "igbo": "Ọ na-akụ azụ n’ọdọ mmiri."
       },
       {
         "english": "The lake reflects the sky.",
-        "igbo": "Ọdọ mmiri na-egosi igwe."
+        "igbo": "Ọdọ mmiri na-egosipụta eluigwe."
       }
     ]
   },
@@ -2020,7 +2020,7 @@
     "examples": [
       {
         "english": "The sea is vast.",
-        "igbo": "Oké osimiri ahụ dị ukwuu."
+        "igbo": "Oké osimiri buru ibu."
       },
       {
         "english": "He sailed on the sea.",
@@ -2028,7 +2028,7 @@
       },
       {
         "english": "The sea is full of life.",
-        "igbo": "Oké osimiri juputara na ndụ."
+        "igbo": "Oké osimiri juputara na ndu."
       }
     ]
   },
@@ -2039,15 +2039,15 @@
     "examples": [
       {
         "english": "The salt is white.",
-        "igbo": "Nnu ahụ bụ ọcha."
+        "igbo": "Nnu na-acha ọcha."
       },
       {
         "english": "He added salt to the soup.",
-        "igbo": "Ọ tinyere nnu n'ime nri."
+        "igbo": "O tinye nnu na ofe."
       },
       {
         "english": "The salt enhances the flavor.",
-        "igbo": "Nnu na-eme ka ụtọ dị mma."
+        "igbo": "Nnu na-eme ka ụtọ ahụ dịkwuo mma."
       }
     ]
   },
@@ -2058,15 +2058,15 @@
     "examples": [
       {
         "english": "The stone is hard.",
-        "igbo": "Nkume ahụ siri ike."
+        "igbo": "Nkume siri ike."
       },
       {
         "english": "He threw a stone.",
-        "igbo": "Ọ tufuru nkume."
+        "igbo": "Ọ tụpụrụ nkume."
       },
       {
         "english": "The stone is smooth.",
-        "igbo": "Nkume ahụ dị ire ụtọ."
+        "igbo": "Nkume ahụ dị nro."
       }
     ]
   },
@@ -2077,15 +2077,15 @@
     "examples": [
       {
         "english": "The sand is hot.",
-        "igbo": "Ájá ahụ dị ọkụ."
+        "igbo": "Aja dị ọkụ."
       },
       {
         "english": "He built a sandcastle.",
-        "igbo": "Ọ wuru ụlọ ájá."
+        "igbo": "O wuru nnukwu ụlọ ájá."
       },
       {
         "english": "The sand is soft.",
-        "igbo": "Ájá ahụ dị nro."
+        "igbo": "Aja dị nro."
       }
     ]
   },
@@ -2096,15 +2096,15 @@
     "examples": [
       {
         "english": "The dust is thick.",
-        "igbo": "Uzuzu ahụ dị oké."
+        "igbo": "Uzuzu buru ibu."
       },
       {
         "english": "He wiped away the dust.",
-        "igbo": "Ọ sachara uzuzu ahụ."
+        "igbo": "O kpochapuru uzuzu."
       },
       {
         "english": "The dust settled on the furniture.",
-        "igbo": "Uzuzu ahụ kwụsịrị n'elu ngwa ụlọ."
+        "igbo": "Uzuzu juru na arịa ụlọ."
       }
     ]
   },
@@ -2115,7 +2115,7 @@
     "examples": [
       {
         "english": "The earth is round.",
-        "igbo": "Ụwa ahụ bụ gburugburu."
+        "igbo": "Ụwa gbara gburugburu."
       },
       {
         "english": "He loves the earth.",
@@ -2134,11 +2134,11 @@
     "examples": [
       {
         "english": "The cloud is dark.",
-        "igbo": "Igwe ojii ahụ dị ọchịchịrị."
+        "igbo": "Igwe ojii gbara ọchịchịrị."
       },
       {
         "english": "He watched the clouds.",
-        "igbo": "Ọ lere igwe ojii anya."
+        "igbo": "O lere igwe ojii anya."
       },
       {
         "english": "The cloud brings rain.",
@@ -2153,15 +2153,15 @@
     "examples": [
       {
         "english": "The sky is blue.",
-        "igbo": "Elu-igwe ahụ bụ akwụkwọ ndụ akwụkwọ ndụ."
+        "igbo": "Igwe na-acha anụnụ anụnụ."
       },
       {
         "english": "He looked at the sky.",
-        "igbo": "Ọ lere elu-igwe anya."
+        "igbo": "O lere anya na mbara igwe."
       },
       {
         "english": "The sky is clear.",
-        "igbo": "Elu-igwe ahụ dị ọcha."
+        "igbo": "Eluigwe doro anya."
       }
     ]
   },
@@ -2172,15 +2172,15 @@
     "examples": [
       {
         "english": "The wind is strong.",
-        "igbo": "Ifufe ahụ dị ike."
+        "igbo": "Ifufe siri ike."
       },
       {
         "english": "He felt the wind on his face.",
-        "igbo": "Ọ nụrụ ifufe n'iru ya."
+        "igbo": "O chere ifufe ihu ya."
       },
       {
         "english": "The wind blows gently.",
-        "igbo": "Ifufe na-efụ nwayọ."
+        "igbo": "Ifufe na-efe nwayọọ nwayọọ."
       }
     ]
   },
@@ -2191,15 +2191,15 @@
     "examples": [
       {
         "english": "The fog is thick.",
-        "igbo": "Anwụrụ mmiri ahụ dị oké."
+        "igbo": "Ufuo buru ibu."
       },
       {
         "english": "He walked through the fog.",
-        "igbo": "Ọ gara n'ime anwụrụ mmiri ahụ."
+        "igbo": "O jere ije n’ime igwe ojii."
       },
       {
         "english": "The fog obscures the view.",
-        "igbo": "Anwụrụ mmiri na-egbochi ọhụụ."
+        "igbo": "Igwefoji na-ekpuchi anya."
       }
     ]
   },
@@ -2210,34 +2210,34 @@
     "examples": [
       {
         "english": "The snow is falling.",
-        "igbo": "Snow na-adaba."
+        "igbo": "Snow na-ada."
       },
       {
         "english": "He built a snowman.",
-        "igbo": "Ọ wuru nwoke snow."
+        "igbo": "O wuru onye snow."
       },
       {
         "english": "The snow is cold.",
-        "igbo": "Snow ahụ dị oyi."
+        "igbo": "Snow dị oyi."
       }
     ]
   },
   {
     "english": "ice",
-    "igbo": "ice",
+    "igbo": "udu oyi",
     "category": "Noun",
     "examples": [
       {
         "english": "The ice is slippery.",
-        "igbo": "Ice ahụ na-agba ọsọ."
+        "igbo": "Akpụrụ akpụ na-amị amị."
       },
       {
         "english": "He skated on the ice.",
-        "igbo": "Ọ gbaa ọsọ n'elu ice."
+        "igbo": "Ọ nọ na ice."
       },
       {
         "english": "The ice is melting.",
-        "igbo": "Ice ahụ na-agbaze."
+        "igbo": "Akpụrụ mmiri na-agbaze."
       }
     ]
   },
@@ -2248,15 +2248,15 @@
     "examples": [
       {
         "english": "The smoke is thick.",
-        "igbo": "Anwụrụ ahụ dị oké."
+        "igbo": "Anwụrụ ọkụ dị oke."
       },
       {
         "english": "He inhaled the smoke.",
-        "igbo": "Ọ nụrụ anwụrụ ahụ."
+        "igbo": "O kuru anwụrụ ọkụ."
       },
       {
         "english": "The smoke rises into the air.",
-        "igbo": "Anwụrụ na-ebili n'elu ikuku."
+        "igbo": "Anwụrụ ọkụ na-ebili n'ikuku."
       }
     ]
   },
@@ -2267,15 +2267,15 @@
     "examples": [
       {
         "english": "The fire is hot.",
-        "igbo": "Ọkụ ahụ dị ọkụ."
+        "igbo": "Ọkụ na-ekpo ọkụ."
       },
       {
         "english": "He started a fire.",
-        "igbo": "Ọ malitere ọkụ."
+        "igbo": "Ọ mụnyere ọkụ."
       },
       {
         "english": "The fire burns brightly.",
-        "igbo": "Ọkụ na-enwu ọkụ."
+        "igbo": "Ọkụ na-ere ọkụ."
       }
     ]
   },
@@ -2286,15 +2286,15 @@
     "examples": [
       {
         "english": "The ash is gray.",
-        "igbo": "Ntu ahụ bụ isi awọ."
+        "igbo": "ntụ na-acha ntụ ntụ."
       },
       {
         "english": "He cleaned the ash.",
-        "igbo": "Ọ sachara ntu ahụ."
+        "igbo": "Ọ kpochara ntụ."
       },
       {
         "english": "The ash settled on the ground.",
-        "igbo": "Ntu ahụ kwụsịrị n'ala."
+        "igbo": "Ntụ ahụ wee biri n'ala."
       }
     ]
   },
@@ -2305,15 +2305,15 @@
     "examples": [
       {
         "english": "The road is long.",
-        "igbo": "Okporo ụzọ ahụ dị ogologo."
+        "igbo": "Ụzọ ahụ dị ogologo."
       },
       {
         "english": "He walked down the road.",
-        "igbo": "Ọ gara n'okporo ụzọ ahụ."
+        "igbo": "Ọ gara n'ụzọ."
       },
       {
         "english": "The road leads to the village.",
-        "igbo": "Okporo ụzọ na-eduga n'ugbo."
+        "igbo": "Ụzọ ahụ na-eduga n'ime obodo."
       }
     ]
   },
@@ -2332,7 +2332,7 @@
       },
       {
         "english": "The mountain is covered in snow.",
-        "igbo": "Ugwu ahụ jupụtara na snow."
+        "igbo": "snow kpuchiri ugwu ahụ."
       }
     ]
   },
@@ -2343,15 +2343,15 @@
     "examples": [
       {
         "english": "The apple is red.",
-        "igbo": "Apụl ahụ bụ uhie."
+        "igbo": "Apụl na-acha uhie uhie."
       },
       {
         "english": "He wore a red shirt.",
-        "igbo": "Ọ yi uwe uhie."
+        "igbo": "O yi uwe na-acha uhie uhie."
       },
       {
         "english": "The red rose is beautiful.",
-        "igbo": "Ifuru uhie ahụ mara mma."
+        "igbo": "Rose rose mara mma."
       }
     ]
   },
@@ -2362,15 +2362,15 @@
     "examples": [
       {
         "english": "The grass is green.",
-        "igbo": "Ahihia ahụ dị akwụkwọ ndụ."
+        "igbo": "Ahịhịa bụ akwụkwọ ndụ akwụkwọ ndụ."
       },
       {
         "english": "He painted the wall green.",
-        "igbo": "Ọ dọrọ mgbidi akwụkwọ ndụ."
+        "igbo": "O tere mgbidi ahụ akwụkwọ ndụ akwụkwọ ndụ."
       },
       {
         "english": "The green leaves are fresh.",
-        "igbo": "Akwụkwọ ndụ akwụkwọ ndụ ahụ dị ọhụrụ."
+        "igbo": "Akwụkwọ ndụ akwụkwọ ndụ dị ọhụrụ."
       }
     ]
   },
@@ -2381,15 +2381,15 @@
     "examples": [
       {
         "english": "The sun is yellow.",
-        "igbo": "Anyanwụ ahụ bụ edo edo."
+        "igbo": "Anyanwụ na-acha odo odo."
       },
       {
         "english": "He wore a yellow hat.",
-        "igbo": "Ọ yi okpu edo edo."
+        "igbo": "O yiri okpu edo edo."
       },
       {
         "english": "The yellow flower is bright.",
-        "igbo": "Ifuru edo edo ahụ na-enwu."
+        "igbo": "Ifuru odo na-egbuke egbuke."
       }
     ]
   },
@@ -2400,15 +2400,15 @@
     "examples": [
       {
         "english": "The snow is white.",
-        "igbo": "Snow ahụ bụ ọcha."
+        "igbo": "Snow na-acha ọcha."
       },
       {
         "english": "He wore a white shirt.",
-        "igbo": "Ọ yi uwe ọcha."
+        "igbo": "O yi uwe ọcha."
       },
       {
         "english": "The white dove is peaceful.",
-        "igbo": "Nnụnụ ọcha ahụ dị jụụ."
+        "igbo": "Nduru ọcha dị udo."
       }
     ]
   },
@@ -2419,15 +2419,15 @@
     "examples": [
       {
         "english": "The cat is black.",
-        "igbo": "Nwa nkịta ahụ bụ nwa."
+        "igbo": "Nwamba ahụ dị oji."
       },
       {
         "english": "He wore a black suit.",
-        "igbo": "Ọ yi uwe nwa."
+        "igbo": "O yi uwe ojii."
       },
       {
         "english": "The black night is quiet.",
-        "igbo": "Abalị nwa ahụ dị jụụ."
+        "igbo": "Abalị ojii dị jụụ."
       }
     ]
   },
@@ -2438,15 +2438,15 @@
     "examples": [
       {
         "english": "The night is dark.",
-        "igbo": "Abalị ahụ dị ọchịchịrị."
+        "igbo": "Abalị gbara ọchịchịrị."
       },
       {
         "english": "He slept through the night.",
-        "igbo": "Ọ nọrọ n'abalị ahụ."
+        "igbo": "Ọ rahụrụ n'abalị."
       },
       {
         "english": "The night sky is full of stars.",
-        "igbo": "Igwe abalị juputara na kpakpando."
+        "igbo": "Igwe abalị jupụtara na kpakpando."
       }
     ]
   },
@@ -2457,7 +2457,7 @@
     "examples": [
       {
         "english": "The day is bright.",
-        "igbo": "Ụbọchị ahụ na-enwu."
+        "igbo": "Ụbọchị na-egbuke egbuke."
       },
       {
         "english": "He worked all day.",
@@ -2465,7 +2465,7 @@
       },
       {
         "english": "The day is long.",
-        "igbo": "Ụbọchị ahụ dị ogologo."
+        "igbo": "Ụbọchị dị ogologo."
       }
     ]
   },
@@ -2476,15 +2476,15 @@
     "examples": [
       {
         "english": "The year is new.",
-        "igbo": "Afọ ahụ bụ ọhụrụ."
+        "igbo": "Afọ ọhụrụ."
       },
       {
         "english": "He celebrated the new year.",
-        "igbo": "Ọ mere emume afọ ọhụrụ."
+        "igbo": "O mere ememe afọ ọhụrụ."
       },
       {
         "english": "The year is long.",
-        "igbo": "Afọ ahụ dị ogologo."
+        "igbo": "Afọ dị ogologo."
       }
     ]
   },
@@ -2495,7 +2495,7 @@
     "examples": [
       {
         "english": "The right hand is strong.",
-        "igbo": "Aka nri ahụ dị ike."
+        "igbo": "Aka nri siri ike."
       },
       {
         "english": "He turned right.",
@@ -2503,7 +2503,7 @@
       },
       {
         "english": "The right path is clear.",
-        "igbo": "Ụzọ nri ahụ dị ọcha."
+        "igbo": "Ụzọ ziri ezi doro anya."
       }
     ]
   },
@@ -2514,7 +2514,7 @@
     "examples": [
       {
         "english": "The left hand is strong.",
-        "igbo": "Aka ekpe ahụ dị ike."
+        "igbo": "Aka ekpe siri ike."
       },
       {
         "english": "He turned left.",
@@ -2522,7 +2522,7 @@
       },
       {
         "english": "The left path is narrow.",
-        "igbo": "Ụzọ aka ekpe ahụ dị warara."
+        "igbo": "Ụzọ aka ekpe dị warara."
       }
     ]
   },
@@ -2533,15 +2533,15 @@
     "examples": [
       {
         "english": "The name is unique.",
-        "igbo": "Aha ahụ bụ pụrụ iche."
+        "igbo": "Aha ahụ pụrụ iche."
       },
       {
         "english": "He wrote his name.",
-        "igbo": "Ọ dere aha ya."
+        "igbo": "O dere aha ya."
       },
       {
         "english": "The name is important.",
-        "igbo": "Aha dị mkpa."
+        "igbo": "Aha ahụ dị mkpa."
       }
     ]
   },
@@ -2556,11 +2556,11 @@
       },
       {
         "english": "He works for a company.",
-        "igbo": "Ọ na-arụ ọrụ maka ụlọ ọrụ."
+        "igbo": "Ọ na-arụ ọrụ maka otu ụlọ ọrụ."
       },
       {
         "english": "The book is for children.",
-        "igbo": "Akwụkwọ ahụ bụ maka ụmụaka."
+        "igbo": "Akwụkwọ a bụ maka ụmụaka."
       }
     ]
   },
@@ -2575,7 +2575,7 @@
       },
       {
         "english": "He likes this song.",
-        "igbo": "Ọ na-enwe mmasị na abụ a."
+        "igbo": "Abụ a masịrị ya."
       },
       {
         "english": "This is important.",
@@ -2590,7 +2590,7 @@
     "examples": [
       {
         "english": "That is his car.",
-        "igbo": "Na bụ ụgbọ ala ya."
+        "igbo": "Nke ahụ bụ ụgbọ ala ya."
       },
       {
         "english": "He wants that book.",
@@ -2598,7 +2598,7 @@
       },
       {
         "english": "That is amazing.",
-        "igbo": "Na dị ịtụnanya."
+        "igbo": "Nke ahụ dị ịtụnanya."
       }
     ]
   },
@@ -2613,11 +2613,11 @@
       },
       {
         "english": "He lives here.",
-        "igbo": "Ọ bi ebe a."
+        "igbo": "O bi ebe a."
       },
       {
         "english": "Here is the key.",
-        "igbo": "Ebe a bụ igodo."
+        "igbo": "Nke a bụ igodo."
       }
     ]
   },
@@ -2636,7 +2636,7 @@
       },
       {
         "english": "There is a problem.",
-        "igbo": "E nwere nsogbu ebe ahụ."
+        "igbo": "Enwere nsogbu."
       }
     ]
   },
@@ -2647,15 +2647,15 @@
     "examples": [
       {
         "english": "Who is that?",
-        "igbo": "Kedu ka ọ si arụ ọrụ?"
+        "igbo": "Kedu onye bụ ihe ahụ?"
       },
       {
         "english": "Who is the man?",
-        "igbo": "Kedu ka ọ si nwoke?"
+        "igbo": "Ònye bụ nwoke ahụ?"
       },
       {
         "english": "Who is the woman?",
-        "igbo": "Kedu ka ọ si nwanyi?"
+        "igbo": "Ònye bụ nwanyị ahụ?"
       }
     ]
   },
@@ -2666,15 +2666,15 @@
     "examples": [
       {
         "english": "What is your name?",
-        "igbo": "Kedu ka aha?"
+        "igbo": "Kedu aha gị?"
       },
       {
         "english": "What is the weather?",
-        "igbo": "Kedu ka ọdịdị ihu?"
+        "igbo": "Gịnị bụ ihu igwe?"
       },
       {
         "english": "What is the time?",
-        "igbo": "Kedu ka ọbọchị?"
+        "igbo": "Gịnị bụ oge?"
       }
     ]
   },
@@ -2685,15 +2685,15 @@
     "examples": [
       {
         "english": "Where is the school?",
-        "igbo": "Ebee akwụkwọ ahụ dị nso?"
+        "igbo": "Ebee ka ụlọ akwụkwọ dị?"
       },
       {
         "english": "Where is the market?",
-        "igbo": "Ebee ahịa ahụ dị obodo?"
+        "igbo": "Ebee ka ahịa dị?"
       },
       {
         "english": "Where is the park?",
-        "igbo": "Ebee ogige ahụ dị nso?"
+        "igbo": "Ebee ka ogige ahụ dị?"
       }
     ]
   },
@@ -2704,15 +2704,15 @@
     "examples": [
       {
         "english": "When is the meeting?",
-        "igbo": "Mgbe ole nzukọ ahụ dị nkenke?"
+        "igbo": "Kedu mgbe bụ nzukọ?"
       },
       {
         "english": "When is the party?",
-        "igbo": "Mgbe ole mmadụ bịara na emume?"
+        "igbo": "Kedu mgbe bụ oriri na ọṅụṅụ?"
       },
       {
         "english": "When is the sunrise?",
-        "igbo": "Mgbe ole anyanwụ na-epụta?"
+        "igbo": "Kedu mgbe ọwụwa anyanwụ?"
       }
     ]
   },
@@ -2723,15 +2723,15 @@
     "examples": [
       {
         "english": "I am at home.",
-        "igbo": "Anọ m ebe a."
+        "igbo": "A nọ m n'ụlọ."
       },
       {
         "english": "He is at school.",
-        "igbo": "Ọ bụ nso ahụ."
+        "igbo": "Ọ nọ n'ụlọ akwụkwọ."
       },
       {
         "english": "The party is at the park.",
-        "igbo": "Nzukọ abalị ahụ dị ogige."
+        "igbo": "Ememe ahụ dị na ogige ntụrụndụ."
       }
     ]
   },
@@ -2742,15 +2742,15 @@
     "examples": [
       {
         "english": "I am in the room.",
-        "igbo": "Anọ m n'ime ahụ."
+        "igbo": "Anọ m n'ime ụlọ."
       },
       {
         "english": "He is in the forest.",
-        "igbo": "Ọ bụ ọhịa ahụ."
+        "igbo": "Ọ nọ n'ime ọhịa."
       },
       {
         "english": "The book is in the bag.",
-        "igbo": "Akwụkwọ ahụ dị n'ime abụọ."
+        "igbo": "Akwụkwọ ahụ dị na akpa ahụ."
       }
     ]
   },
@@ -2761,15 +2761,15 @@
     "examples": [
       {
         "english": "I am with you.",
-        "igbo": "Anọ m ya na ị."
+        "igbo": "Anọnyere m gị."
       },
       {
         "english": "He is with his friends.",
-        "igbo": "Ọ bụ enyi ya na."
+        "igbo": "Ya na ndị enyi ya nọ."
       },
       {
         "english": "We are with them.",
-        "igbo": "Anyị m ha."
+        "igbo": "Anyị na ha nọ."
       }
     ]
   },
@@ -2784,11 +2784,11 @@
       },
       {
         "english": "I need your help.",
-        "igbo": "M ọbụghị mmiri."
+        "igbo": "Achọrọ m enyemaka gị."
       },
       {
         "english": "I will go with you.",
-        "igbo": "M ga-atọ m ị."
+        "igbo": "M ga-eso gị gaa."
       }
     ]
   },
@@ -2803,11 +2803,11 @@
       },
       {
         "english": "I need your help.",
-        "igbo": "M ọbụghị mmiri."
+        "igbo": "Achọrọ m enyemaka gị."
       },
       {
         "english": "I will go with you.",
-        "igbo": "M ga-atọ m ị."
+        "igbo": "M ga-eso gị gaa."
       }
     ]
   },
@@ -2818,15 +2818,15 @@
     "examples": [
       {
         "english": "He is tall.",
-        "igbo": "Ọ ogologo."
+        "igbo": "O toro ogologo."
       },
       {
         "english": "He is here.",
-        "igbo": "Ọ bi ebe a."
+        "igbo": "Ọ nọ ebe a."
       },
       {
         "english": "He is with us.",
-        "igbo": "Ọ bụ enyi ya na."
+        "igbo": "Ọ nọnyeere anyị."
       }
     ]
   },
@@ -2837,15 +2837,15 @@
     "examples": [
       {
         "english": "We are here.",
-        "igbo": "Anyị m ebe a."
+        "igbo": "Anyị nọ ebe a."
       },
       {
         "english": "We are going to the party.",
-        "igbo": "Anyị ga-atọ m mmadụ bịara na emume."
+        "igbo": "Anyị na-aga oriri na ọṅụṅụ."
       },
       {
         "english": "We are happy.",
-        "igbo": "Anyị bụ n'ihi na ọkụ."
+        "igbo": "Anyị nwere obi ụtọ."
       }
     ]
   },
@@ -2856,15 +2856,15 @@
     "examples": [
       {
         "english": "We are here.",
-        "igbo": "Anyị m ebe a."
+        "igbo": "Anyị nọ ebe a."
       },
       {
         "english": "We are going to the party.",
-        "igbo": "Anyị ga-atọ m mmadụ bịara na emume."
+        "igbo": "Anyị na-aga oriri na ọṅụṅụ."
       },
       {
         "english": "We are happy.",
-        "igbo": "Anyị bụ n'ihi na ọkụ."
+        "igbo": "Anyị nwere obi ụtọ."
       }
     ]
   },
@@ -2875,15 +2875,15 @@
     "examples": [
       {
         "english": "They are here.",
-        "igbo": "Ha ebe a."
+        "igbo": "Ha nọ ebe a."
       },
       {
         "english": "They are happy.",
-        "igbo": "Ha bụ n'ihi na ọkụ."
+        "igbo": "Obi dị ha ụtọ."
       },
       {
         "english": "They are at the party.",
-        "igbo": "Ha mmadụ bịara na emume."
+        "igbo": "Ha nọ na oriri ahụ."
       }
     ]
   },
@@ -2894,15 +2894,15 @@
     "examples": [
       {
         "english": "It is here.",
-        "igbo": "Ya ahụ dị ebe a."
+        "igbo": "Ọ bụ ebe a."
       },
       {
         "english": "It is raining.",
-        "igbo": "Ya dịdị ihu."
+        "igbo": "Mmiri na-ezo."
       },
       {
         "english": "It is the book.",
-        "igbo": "Ya akwụkwọ."
+        "igbo": "Ọ bụ akwụkwọ ahụ."
       }
     ]
   },
@@ -2917,11 +2917,11 @@
       },
       {
         "english": "He drank the beer.",
-        "igbo": "Ọ ṅụrụ nri ahụ."
+        "igbo": "Ọ ṅụrụ mmanya ahụ."
       },
       {
         "english": "We drank the wine.",
-        "igbo": "Anyị m ṅụrụ nri ahụ."
+        "igbo": "Anyị ṅụrụ mmanya ahụ."
       }
     ]
   },
@@ -2932,15 +2932,15 @@
     "examples": [
       {
         "english": "He ate the food.",
-        "igbo": "Ọ rie nri ahụ."
+        "igbo": "O riri nri."
       },
       {
         "english": "We ate the pizza.",
-        "igbo": "Anyị m rie akwụkwọ abụọ."
+        "igbo": "Anyị riri pizza."
       },
       {
         "english": "She ate the apple.",
-        "igbo": "Ọ rie apụl ahụ."
+        "igbo": "O riri apụl."
       }
     ]
   },
@@ -2951,15 +2951,15 @@
     "examples": [
       {
         "english": "He bit the apple.",
-        "igbo": "Ọ tiri apụl ahụ."
+        "igbo": "Ọ tara apụl."
       },
       {
         "english": "She bit the bread.",
-        "igbo": "Ọ tiri bọta ahụ."
+        "igbo": "Ọ tara achịcha ahụ."
       },
       {
         "english": "They bit the pizza.",
-        "igbo": "Ha tiri akwụkwọ abụọ."
+        "igbo": "Ha tara pizza."
       }
     ]
   },
@@ -2970,15 +2970,15 @@
     "examples": [
       {
         "english": "He sucked the straw.",
-        "igbo": "Ọ nuo ọdụ ahụ."
+        "igbo": "Ọ ṅụrụ ahịhịa."
       },
       {
         "english": "She sucked the juice.",
-        "igbo": "Ọ nuo ọbara ahụ."
+        "igbo": "Ọ ṅụrụ ihe ọṅụṅụ ahụ."
       },
       {
         "english": "They sucked the straw.",
-        "igbo": "Ha nuo ọdụ ahụ."
+        "igbo": "Ha gbara ahịhịa."
       }
     ]
   },
@@ -2989,15 +2989,15 @@
     "examples": [
       {
         "english": "He spat on the ground.",
-        "igbo": "Ọ gbaa ọnụ mmiri ahụ."
+        "igbo": "Ọ gbụsara ọnụ mmiri n’ala."
       },
       {
         "english": "She spat on the table.",
-        "igbo": "Ọ gbaa ọnụ mmiri ahụ."
+        "igbo": "Ọ gbụrụ ọnụ mmiri na tebụl."
       },
       {
         "english": "They spat on the floor.",
-        "igbo": "Ha gbaa ọnụ mmiri ahụ."
+        "igbo": "Ha gbụọ ọnụ mmiri n'ala."
       }
     ]
   },
@@ -3008,15 +3008,15 @@
     "examples": [
       {
         "english": "He vomited on the floor.",
-        "igbo": "Ọ agbọ agbọ ahụ dị ala."
+        "igbo": "Ọ gbara ọgbọ n'ala."
       },
       {
         "english": "She vomited on the table.",
-        "igbo": "Ọ agbọ agbọ ahụ dị tebụl."
+        "igbo": "Ọ gbara na tebụl."
       },
       {
         "english": "They vomited on the carpet.",
-        "igbo": "Ha agbọ agbọ ahụ dị ọdọ mmiri."
+        "igbo": "Ha gbara na kapeeti."
       }
     ]
   },
@@ -3027,15 +3027,15 @@
     "examples": [
       {
         "english": "He blew the horn.",
-        "igbo": "Ọ fụụrụ mpi."
+        "igbo": "Ọ fụrụ opi."
       },
       {
         "english": "She blew the whistle.",
-        "igbo": "Ọ gbaa ọnụ mmiri ahụ."
+        "igbo": "Ọ fụkwara fhịhị."
       },
       {
         "english": "They blew the whistle.",
-        "igbo": "Ha gbaa ọnụ mmiri ahụ."
+        "igbo": "Ha fụrụ afụ."
       }
     ]
   },
@@ -3046,15 +3046,15 @@
     "examples": [
       {
         "english": "He breathed deeply.",
-        "igbo": "Ọ iku ume ogologo."
+        "igbo": "O kupuru ume."
       },
       {
         "english": "She breathed in the fresh air.",
-        "igbo": "Ọ iku ume ọdị ọcha ahụ."
+        "igbo": "O kupuru iku ume."
       },
       {
         "english": "They breathed out the smoke.",
-        "igbo": "Ha iku ume anwụrụ ahụ."
+        "igbo": "Ha kupụrụ anwụrụ ọkụ ahụ."
       }
     ]
   },
@@ -3065,15 +3065,15 @@
     "examples": [
       {
         "english": "He laughed loudly.",
-        "igbo": "Ọ ochi ogologo."
+        "igbo": "Ọ chịrị oke ọchị."
       },
       {
         "english": "She laughed at the joke.",
-        "igbo": "Ọ ochi ọdị ọjọọ ya."
+        "igbo": "Njakịrị ahụ ọ chịrị ọchị."
       },
       {
         "english": "They laughed together.",
-        "igbo": "Ha ochi obi ọkụ."
+        "igbo": "Ha chịrị ọnụ."
       }
     ]
   },
@@ -3084,7 +3084,7 @@
     "examples": [
       {
         "english": "I saw the movie.",
-        "igbo": "Anọ m hụ nkiri ahụ."
+        "igbo": "Ahụrụ m ihe nkiri ahụ."
       },
       {
         "english": "He saw the bird.",
@@ -3092,7 +3092,7 @@
       },
       {
         "english": "They saw the sunset.",
-        "igbo": "Ha hụdịdị ihu igwe."
+        "igbo": "Ha hụrụ ọdịda anyanwụ."
       }
     ]
   },
@@ -3103,15 +3103,15 @@
     "examples": [
       {
         "english": "I heard the music.",
-        "igbo": "Anọ m hụdịdị ihu."
+        "igbo": "Anụrụ m egwu."
       },
       {
         "english": "He heard the laughter.",
-        "igbo": "Ọ hụrụ ọjọọ ya."
+        "igbo": "Ọ nụrụ ọchị."
       },
       {
         "english": "They heard the birds singing.",
-        "igbo": "Ha hụdịdị ọbara ahụ."
+        "igbo": "Ha nụrụ ka nnụnụ na-abụ abụ."
       }
     ]
   },
@@ -3122,15 +3122,15 @@
     "examples": [
       {
         "english": "I know the answer.",
-        "igbo": "Anọ m hụ ziri ezi."
+        "igbo": "Amaara m azịza ya."
       },
       {
         "english": "He knows the language.",
-        "igbo": "Ọ bụ enyi ọhịa mmekọrịta."
+        "igbo": "Ọ ma asụsụ ahụ."
       },
       {
         "english": "They know the song.",
-        "igbo": "Ha bụ enyi ọhịa mmasị."
+        "igbo": "Ha maara abụ ahụ."
       }
     ]
   },
@@ -3141,15 +3141,15 @@
     "examples": [
       {
         "english": "I think it is a good idea.",
-        "igbo": "Anọ m hụ ọhịa mmekọrịta."
+        "igbo": "Echere m na ọ bụ ezi echiche."
       },
       {
         "english": "He thinks he is right.",
-        "igbo": "Ọ bụ nri ọhịa mmekọrịta."
+        "igbo": "O chere na o ziri ezi."
       },
       {
         "english": "They think it is important.",
-        "igbo": "Ha hụ ọhịa mmekọrịta."
+        "igbo": "Ha chere na ọ dị mkpa."
       }
     ]
   },
@@ -3160,15 +3160,15 @@
     "examples": [
       {
         "english": "I smelled the flowers.",
-        "igbo": "Anọ m hụ ifuru."
+        "igbo": "M na-esi ísì okooko osisi."
       },
       {
         "english": "He smelled the food.",
-        "igbo": "Ọ hụrụ nri ahụ."
+        "igbo": "Ọ na-esi isi nri."
       },
       {
         "english": "They smelled the smoke.",
-        "igbo": "Ha hụrụ anwụrụ ahụ."
+        "igbo": "Ha na-esi ísì."
       }
     ]
   },
@@ -3179,15 +3179,15 @@
     "examples": [
       {
         "english": "I am afraid of the dark.",
-        "igbo": "Anọ m hụ ọchịchịrị."
+        "igbo": "Ana m atụ egwu ọchịchịrị."
       },
       {
         "english": "He is afraid of the snake.",
-        "igbo": "Ọ bụ enyi ọhịa agwọ."
+        "igbo": "Ọ na-atụ agwọ egwu."
       },
       {
         "english": "They are afraid of the storm.",
-        "igbo": "Ha bụ enyi ọhịa mmiri ozuzo."
+        "igbo": "Ha na-atụ egwu oké ifufe ahụ."
       }
     ]
   },
@@ -3198,15 +3198,15 @@
     "examples": [
       {
         "english": "He slept through the night.",
-        "igbo": "Ọ nọrọ n'abalị ahụ."
+        "igbo": "Ọ rahụrụ n'abalị."
       },
       {
         "english": "She slept soundly.",
-        "igbo": "Ọ nọrọ ọhịa mmekọrịta."
+        "igbo": "Ọ na-ehi ụra nke ọma."
       },
       {
         "english": "They slept in the tent.",
-        "igbo": "Ha nọrọ ọhịa ahụ."
+        "igbo": "Ha dina n'ulo-ikwū."
       }
     ]
   },
@@ -3217,15 +3217,15 @@
     "examples": [
       {
         "english": "He lives in the city.",
-        "igbo": "Ọ bụ obodo ahụ."
+        "igbo": "O bi n'obodo."
       },
       {
         "english": "She lives in the countryside.",
-        "igbo": "Ọ bụ ọhịa ahụ."
+        "igbo": "O bi n'ime ime obodo."
       },
       {
         "english": "They live in the house.",
-        "igbo": "Ha bụ ụlọ ahụ."
+        "igbo": "Ha na-ebi n'ụlọ."
       }
     ]
   },
@@ -3236,15 +3236,15 @@
     "examples": [
       {
         "english": "He died yesterday.",
-        "igbo": "Ọ anwụ ọdị n'abalị."
+        "igbo": "Ọ nwụrụ ụnyaahụ."
       },
       {
         "english": "She died peacefully.",
-        "igbo": "Ọ anwụ mmekọrịta."
+        "igbo": "Ọ nwụrụ n'udo."
       },
       {
         "english": "They died in the accident.",
-        "igbo": "Ha anwụ ọhịa mmiri ozuzo."
+        "igbo": "Ha nwụrụ n'ihe mberede a."
       }
     ]
   },
@@ -3255,15 +3255,15 @@
     "examples": [
       {
         "english": "He killed the bird.",
-        "igbo": "Ọ jidere agwọ ahụ."
+        "igbo": "O gburu nnụnụ ahụ."
       },
       {
         "english": "She killed the plant.",
-        "igbo": "Ọ kwara ọhịa ahụ."
+        "igbo": "O gburu osisi."
       },
       {
         "english": "They killed the fish.",
-        "igbo": "Ha jidere azụ ahụ."
+        "igbo": "Ha gburu azụ̀ ndị ahụ."
       }
     ]
   },
@@ -3274,15 +3274,15 @@
     "examples": [
       {
         "english": "He fought in the battle.",
-        "igbo": "Ọ ọgụ ọhịa mmiri ozuzo."
+        "igbo": "Ọ lụrụ ọgụ."
       },
       {
         "english": "She fought with the opponent.",
-        "igbo": "Ọ ọgụ ọhịa enyi."
+        "igbo": "Oso onye iro ya agha."
       },
       {
         "english": "They fought in the war.",
-        "igbo": "Ha ọgụ ọhịa mmiri ozuzo."
+        "igbo": "Ha lụrụ agha ahụ."
       }
     ]
   },
@@ -3293,15 +3293,15 @@
     "examples": [
       {
         "english": "He hunted the deer.",
-        "igbo": "Ọ ichu nta ọhịa."
+        "igbo": "Ọ chụpụrụ mgbada."
       },
       {
         "english": "She hunted the rabbit.",
-        "igbo": "Ọ ichu nta ọhịa."
+        "igbo": "Ọ chụpụrụ oke bekee."
       },
       {
         "english": "They hunted the boar.",
-        "igbo": "Ha ichu nta ọhịa."
+        "igbo": "Ha chụpụrụ anụ ọhịa ahụ."
       }
     ]
   },
@@ -3312,15 +3312,15 @@
     "examples": [
       {
         "english": "He hit the ball.",
-        "igbo": "Ọ jidere azụ ahụ."
+        "igbo": "Ọ kụrụ bọọlụ ahụ."
       },
       {
         "english": "She hit the target.",
-        "igbo": "Ọ kwara ọhịa ahụ."
+        "igbo": "Ọ kụrụ ihe mgbaru ọsọ."
       },
       {
         "english": "They hit the mark.",
-        "igbo": "Ha jidere azụ ahụ."
+        "igbo": "Ha kụrụ akara ahụ."
       }
     ]
   },
@@ -3331,15 +3331,15 @@
     "examples": [
       {
         "english": "He cut the wood.",
-        "igbo": "Ọ jiri azụ ahụ."
+        "igbo": "Ọ kpụrụ osisi."
       },
       {
         "english": "She cut the cake.",
-        "igbo": "Ọ kpụchara akwụkwọ abụọ."
+        "igbo": "O bee achicha ahu."
       },
       {
         "english": "They cut the vegetables.",
-        "igbo": "Ha jiri ọhịa ahụ."
+        "igbo": "Ha na-egbutu akwụkwọ nri."
       }
     ]
   },
@@ -3350,15 +3350,15 @@
     "examples": [
       {
         "english": "He split the wood.",
-        "igbo": "Ọ jiri azụ ahụ."
+        "igbo": "Ọ gbawara osisi ahụ."
       },
       {
         "english": "She split the cake.",
-        "igbo": "Ọ kpụchara akwụkwọ abụọ."
+        "igbo": "Ọ kewara achicha ahụ."
       },
       {
         "english": "They split the vegetables.",
-        "igbo": "Ha jiri ọhịa ahụ."
+        "igbo": "Ha kewara akwụkwọ nri."
       }
     ]
   },
@@ -3369,15 +3369,15 @@
     "examples": [
       {
         "english": "He stabbed the man.",
-        "igbo": "Ọ jiri ọhịa ahụ."
+        "igbo": "Ọ mara nwoke ahụ mma."
       },
       {
         "english": "She stabbed the knife.",
-        "igbo": "Ọ kpụchara nku ahụ."
+        "igbo": "Ọ tụrụ mma ahụ."
       },
       {
         "english": "They stabbed the target.",
-        "igbo": "Ha jiri ọhịa ahụ."
+        "igbo": "Ha mara onye e lekwasịrị anya n'ọkpụkpụ."
       }
     ]
   },
@@ -3388,15 +3388,15 @@
     "examples": [
       {
         "english": "He scratched his arm.",
-        "igbo": "Ọ jiri ọhịa ahụ."
+        "igbo": "Ọ kpụrụ aka ya."
       },
       {
         "english": "She scratched the wall.",
-        "igbo": "Ọ jiri ọdọ mmiri ahụ."
+        "igbo": "Ọ kpụchara mgbidi ahụ."
       },
       {
         "english": "They scratched the book.",
-        "igbo": "Ha jiri ọhịa ahụ."
+        "igbo": "Ha kpụrụ akwụkwọ ahụ."
       }
     ]
   },
@@ -3407,15 +3407,15 @@
     "examples": [
       {
         "english": "He dug the hole.",
-        "igbo": "Ọ gwuru azụ ahụ."
+        "igbo": "Ọ gwuru oghere."
       },
       {
         "english": "She dug the garden.",
-        "igbo": "Ọ gwuru ọhịa ahụ."
+        "igbo": "Ọ gwuru ogige ahụ."
       },
       {
         "english": "They dug the garden.",
-        "igbo": "Ha gwuru ọhịa ahụ."
+        "igbo": "Ha gwuru ogige ahụ."
       }
     ]
   },
@@ -3426,15 +3426,15 @@
     "examples": [
       {
         "english": "He swam in the pool.",
-        "igbo": "Ọ gwuo mmiri n'ọdọ mmiri ahụ."
+        "igbo": "Ọ na-egwu mmiri n'ọdọ mmiri ahụ."
       },
       {
         "english": "She swam in the lake.",
-        "igbo": "Ọ gwuo mmiri n'ọdọ mmiri ahụ."
+        "igbo": "Ọ gwuru n'ọdọ mmiri ahụ."
       },
       {
         "english": "They swam in the sea.",
-        "igbo": "Ha gwuo mmiri n'oké osimiri ahụ."
+        "igbo": "Ha gwuru n'oké osimiri."
       }
     ]
   },
@@ -3445,15 +3445,15 @@
     "examples": [
       {
         "english": "He flew to the airport.",
-        "igbo": "Ọ gwuo mmiri n'ọdọ mmiri ahụ."
+        "igbo": "Ọ gbagoro n'ọdụ ụgbọ elu."
       },
       {
         "english": "She flew to the city.",
-        "igbo": "Ọ gwuo mmiri n'ọdọ mmiri ahụ."
+        "igbo": "O fega n'obodo."
       },
       {
         "english": "They flew to the destination.",
-        "igbo": "Ha gwuo mmiri n'oké osimiri ahụ."
+        "igbo": "Ha fegara ebe ha na-aga."
       }
     ]
   },
@@ -3464,15 +3464,15 @@
     "examples": [
       {
         "english": "He walked to the park.",
-        "igbo": "Ọ gwuo mmiri n'ọdọ mmiri ahụ."
+        "igbo": "Ọ gara n'ogige ntụrụndụ."
       },
       {
         "english": "She walked to the store.",
-        "igbo": "Ọ gwuo mmiri n'ọdọ mmiri ahụ."
+        "igbo": "Ọ gara n'ụlọ ahịa ahụ."
       },
       {
         "english": "They walked to the beach.",
-        "igbo": "Ha gwuo mmiri n'oké osimiri ahụ."
+        "igbo": "Ha gara n’akụkụ osimiri."
       }
     ]
   },
@@ -3483,15 +3483,15 @@
     "examples": [
       {
         "english": "He came to the party.",
-        "igbo": "Ọ bia mmadụ bịara na emume."
+        "igbo": "Ọ bịara oriri na ọṅụṅụ."
       },
       {
         "english": "She came to the meeting.",
-        "igbo": "Ọ bia mmadụ nzukọ ahụ."
+        "igbo": "Ọ bịara nzukọ ahụ."
       },
       {
         "english": "They came to the house.",
-        "igbo": "Ha bia mmadụ ụlọ ahụ."
+        "igbo": "Ha bịara n’ụlọ."
       }
     ]
   },
@@ -3502,15 +3502,15 @@
     "examples": [
       {
         "english": "He lay down on the grass.",
-        "igbo": "Ọ dinara ala ahụ dị akwụkwọ ndụ."
+        "igbo": "O dinara n'elu ahihia."
       },
       {
         "english": "She lay down on the bed.",
-        "igbo": "Ọ dinara ala ahụ dị ọhịa."
+        "igbo": "O dinara n'elu akwa."
       },
       {
         "english": "They lay down on the floor.",
-        "igbo": "Ha dinara ala ahụ dị ala."
+        "igbo": "Ha dinara ala."
       }
     ]
   },
@@ -3521,15 +3521,15 @@
     "examples": [
       {
         "english": "He sat on the chair.",
-        "igbo": "Ọ dinara ala ahụ dị ogologo."
+        "igbo": "Ọ nọdụrụ n'oche."
       },
       {
         "english": "She sat on the bench.",
-        "igbo": "Ọ dinara ala ahụ dị ogologo."
+        "igbo": "Ọ nọdụrụ na bench."
       },
       {
         "english": "They sat on the floor.",
-        "igbo": "Ha dinara ala ahụ dị ala."
+        "igbo": "Ha nọdụ ala n'ala."
       }
     ]
   },
@@ -3540,15 +3540,15 @@
     "examples": [
       {
         "english": "He stood up.",
-        "igbo": "Ọ guzoro ahụ."
+        "igbo": "O biliri."
       },
       {
         "english": "She stood on the stage.",
-        "igbo": "Ọ guzoro ọhịa."
+        "igbo": "O guzoro na ogbo."
       },
       {
         "english": "They stood in line.",
-        "igbo": "Ha guzoro ahụ dị ọdọ mmiri."
+        "igbo": "Ha guzoro n'ahịrị."
       }
     ]
   },
@@ -3559,15 +3559,15 @@
     "examples": [
       {
         "english": "He turned the page.",
-        "igbo": "Ọ tụgharịrị akwụkwọ ahụ."
+        "igbo": "Ọ tụgharịrị ibe ya."
       },
       {
         "english": "She turned the corner.",
-        "igbo": "Ọ tụgharịrị ọdọ mmiri ahụ."
+        "igbo": "Ọ tụgharịrị nkuku."
       },
       {
         "english": "They turned the corner.",
-        "igbo": "Ha tụgharịrị ọdọ mmiri ahụ."
+        "igbo": "Ha tụgharịrị nkuku."
       }
     ]
   },
@@ -3578,15 +3578,15 @@
     "examples": [
       {
         "english": "He fell off the bike.",
-        "igbo": "Ọ daa ọgbọ ala ahụ."
+        "igbo": "Ọ si n'ụgbọala ahụ daa."
       },
       {
         "english": "She fell down the stairs.",
-        "igbo": "Ọ daa ọhịa abalị ahụ."
+        "igbo": "Ọ dara n'elu steepụ."
       },
       {
         "english": "They fell in the hole.",
-        "igbo": "Ha daa ọhịa ọdọ mmiri ahụ."
+        "igbo": "Ha dara n'olulu ahụ."
       }
     ]
   },
@@ -3597,15 +3597,15 @@
     "examples": [
       {
         "english": "He gave the book to her.",
-        "igbo": "Ọ nye akwụkwọ abụọ."
+        "igbo": "O nyere ya akwụkwọ ahụ."
       },
       {
         "english": "She gave the gift to him.",
-        "igbo": "Ọ nye onyinye abụọ."
+        "igbo": "O nyere ya onyinye ahụ."
       },
       {
         "english": "They gave the money to the charity.",
-        "igbo": "Ha nye ọbara abụọ."
+        "igbo": "Ha nyere ndị ọrụ ebere ego ahụ."
       }
     ]
   },
@@ -3616,15 +3616,15 @@
     "examples": [
       {
         "english": "He held the baby.",
-        "igbo": "Ọ jide nwa ahụ."
+        "igbo": "O jidere nwa."
       },
       {
         "english": "She held the glass.",
-        "igbo": "Ọ jide ọdọ mmiri ahụ."
+        "igbo": "O jidere iko."
       },
       {
         "english": "They held the meeting.",
-        "igbo": "Ha jide mmadụ bịara ahụ."
+        "igbo": "Ha mere nzukọ ahụ."
       }
     ]
   },
@@ -3635,15 +3635,15 @@
     "examples": [
       {
         "english": "He squeezed the lemon.",
-        "igbo": "Ọ afanyekwa ọhịa ahụ."
+        "igbo": "O wutere lemon."
       },
       {
         "english": "She squeezed the juice.",
-        "igbo": "Ọ afanyekwa ọbara ahụ."
+        "igbo": "O wutere ihe ọṅụṅụ ahụ."
       },
       {
         "english": "They squeezed the grapes.",
-        "igbo": "Ha afanyekwa ọhịa ahụ."
+        "igbo": "Ha kpakọrọ mkpụrụ vaịn."
       }
     ]
   },
@@ -3654,15 +3654,15 @@
     "examples": [
       {
         "english": "He rubbed the lotion on his skin.",
-        "igbo": "Ọ ite ọbara ahụ."
+        "igbo": "Ọ kụra ude ahụ n’akpụkpọ ahụ́ ya."
       },
       {
         "english": "She rubbed the oil on her hair.",
-        "igbo": "Ọ ite ọbara ahụ."
+        "igbo": "O were mmanụ na ntutu isi ya."
       },
       {
         "english": "They rubbed the dirt off the car.",
-        "igbo": "Ha ite ọhịa ahụ."
+        "igbo": "Ha kpochapuru unyi n'ime ụgbọ ala ahụ."
       }
     ]
   },
@@ -3673,15 +3673,15 @@
     "examples": [
       {
         "english": "He washed his clothes.",
-        "igbo": "Ọ saa ọhịa ahụ."
+        "igbo": "Ọ sara uwe ya."
       },
       {
         "english": "She washed the dishes.",
-        "igbo": "Ọ saa ọdọ mmiri ahụ."
+        "igbo": "Ọ na-asa efere."
       },
       {
         "english": "They washed the car.",
-        "igbo": "Ha saa ọgbọ ala ahụ."
+        "igbo": "Ha sara ụgbọ ala ahụ."
       }
     ]
   },
@@ -3692,15 +3692,15 @@
     "examples": [
       {
         "english": "He wiped the table.",
-        "igbo": "Ọ hichapụ ọdọ mmiri ahụ."
+        "igbo": "O hichara tebụl ahụ."
       },
       {
         "english": "She wiped the window.",
-        "igbo": "Ọ hichapụ ọhịa ahụ."
+        "igbo": "O hichara windo."
       },
       {
         "english": "They wiped the car.",
-        "igbo": "Ha hichapụ ọgbọ ala ahụ."
+        "igbo": "Ha kpochapụrụ ụgbọ ala ahụ."
       }
     ]
   },
@@ -3711,15 +3711,15 @@
     "examples": [
       {
         "english": "He pulled the door.",
-        "igbo": "Ọ Dọọ ọdọ mmiri ahụ."
+        "igbo": "Ọ dọtara ụzọ."
       },
       {
         "english": "She pulled the string.",
-        "igbo": "Ọ Dọọ ọhịa ahụ."
+        "igbo": "Ọ dọtara eriri ahụ."
       },
       {
         "english": "They pulled the cart.",
-        "igbo": "Ha Dọọ ọgbọ ala ahụ."
+        "igbo": "Ha dọkpụrụ ụgbọ ala ahụ."
       }
     ]
   },
@@ -3730,15 +3730,15 @@
     "examples": [
       {
         "english": "He pushed the cart.",
-        "igbo": "Ọ Kwaa ọgbọ ala ahụ."
+        "igbo": "Ọ kwagidere ụgbọ ahụ."
       },
       {
         "english": "She pushed the door.",
-        "igbo": "Ọ Kwaa ọhịa ahụ."
+        "igbo": "Ọ kwapụrụ ụzọ."
       },
       {
         "english": "They pushed the car.",
-        "igbo": "Ha Kwaa ọgbọ ala ahụ."
+        "igbo": "Ha kwabatara ụgbọ ala ahụ."
       }
     ]
   },
@@ -3749,15 +3749,15 @@
     "examples": [
       {
         "english": "He threw the ball.",
-        "igbo": "Ọ tufuo azụ ahụ."
+        "igbo": "Ọ tụpụrụ bọọlụ ahụ."
       },
       {
         "english": "She threw the paper.",
-        "igbo": "Ọ tufuo akwụkwọ abụọ."
+        "igbo": "Ọ tụpụrụ akwụkwọ ahụ."
       },
       {
         "english": "They threw the stone.",
-        "igbo": "Ha tufuo nkume ahụ."
+        "igbo": "Ha tụbara nkume ahụ."
       }
     ]
   },
@@ -3768,15 +3768,15 @@
     "examples": [
       {
         "english": "He tied the knot.",
-        "igbo": "Ọ tie ọdọ mmiri ahụ."
+        "igbo": "O wee kee eriri ahụ."
       },
       {
         "english": "She tied the ribbon.",
-        "igbo": "Ọ tie ọhịa ahụ."
+        "igbo": "O wee kee rịbọn ahụ."
       },
       {
         "english": "They tied the shoes.",
-        "igbo": "Ha tie ọgbọ ala ahụ."
+        "igbo": "Ha kekọtara akpụkpọ ụkwụ."
       }
     ]
   },
@@ -3787,15 +3787,15 @@
     "examples": [
       {
         "english": "He sewed the button.",
-        "igbo": "Ọ kwa akwa ọdọ mmiri ahụ."
+        "igbo": "Ọ dụchara bọtịnụ ahụ."
       },
       {
         "english": "She sewed the dress.",
-        "igbo": "Ọ kwa akwa ọhịa ahụ."
+        "igbo": "Ọ dụkwara uwe ahụ."
       },
       {
         "english": "They sewed the clothes.",
-        "igbo": "Ha kwa akwa ọhịa ahụ."
+        "igbo": "Ha dụkwara uwe ahụ."
       }
     ]
   },
@@ -3806,15 +3806,15 @@
     "examples": [
       {
         "english": "He counted the money.",
-        "igbo": "Ọ gụọ ọbara ahụ."
+        "igbo": "Ọ gụrụ ego ahụ."
       },
       {
         "english": "She counted the guests.",
-        "igbo": "Ọ gụọ mmadụ bịara ahụ."
+        "igbo": "Ọ gụrụ ndị ọbịa ahụ."
       },
       {
         "english": "They counted the votes.",
-        "igbo": "Ha gụọ ọbara ahụ."
+        "igbo": "Ha gụpụtara votu."
       }
     ]
   },
@@ -3825,15 +3825,15 @@
     "examples": [
       {
         "english": "He said hello.",
-        "igbo": "Ọ kwuo ọhịa."
+        "igbo": "Ọ sịrị ndewo."
       },
       {
         "english": "She said thank you.",
-        "igbo": "Ọ kwuo ọbara."
+        "igbo": "Ọ sịrị daalụ."
       },
       {
         "english": "They said goodbye.",
-        "igbo": "Ha kwuo ọhịa."
+        "igbo": "Ha kwuru nke ọma."
       }
     ]
   },
@@ -3844,15 +3844,15 @@
     "examples": [
       {
         "english": "He sang the song.",
-        "igbo": "Ọ gwuo egwu n'ime nkiri ahụ."
+        "igbo": "Ọ bụrụ abụ ahụ."
       },
       {
         "english": "She sang the national anthem.",
-        "igbo": "Ọ gwuo egwu n'ime igwe ahụ."
+        "igbo": "Ọ bụrụ abụ mba."
       },
       {
         "english": "They sang the song together.",
-        "igbo": "Ha gwuo egwu ọhịa nkiri ahụ."
+        "igbo": "Ha na-abụkọ abụ ahụ ọnụ."
       }
     ]
   },
@@ -3863,15 +3863,15 @@
     "examples": [
       {
         "english": "He played the guitar.",
-        "igbo": "Ọ gwuo egwu n'ime nkịta ahụ."
+        "igbo": "Ọ kpọrọ ụbọ."
       },
       {
         "english": "She played the piano.",
-        "igbo": "Ọ gwuo egwu n'ime ọhịa ahụ."
+        "igbo": "Ọ kpọrọ piano."
       },
       {
         "english": "They played the game.",
-        "igbo": "Ha gwuo egwu ọhịa nkịta ahụ."
+        "igbo": "Ha gbara egwuregwu ahụ."
       }
     ]
   },
@@ -3882,15 +3882,15 @@
     "examples": [
       {
         "english": "The boat floated on the water.",
-        "igbo": "Ọdọ mmiri ahụ dị ọhịa."
+        "igbo": "Ụgbọ mmiri ahụ na-ese n'elu mmiri."
       },
       {
         "english": "The leaf floated on the river.",
-        "igbo": "Akwụkwọ ndụ ahụ dị ọhịa."
+        "igbo": "Akwụkwọ ahụ sere n'elu osimiri ahụ."
       },
       {
         "english": "The balloon floated in the sky.",
-        "igbo": "Igwe osimiri ahụ dị elu."
+        "igbo": "Balloon ahụ sere n'elu n'elu igwe."
       }
     ]
   },
@@ -3901,15 +3901,15 @@
     "examples": [
       {
         "english": "The river flowed through the valley.",
-        "igbo": "Osimiri ahụ dị ọhịa."
+        "igbo": "Osimiri ahụ si na ndagwurugwu ahụ gafee."
       },
       {
         "english": "The water flowed into the lake.",
-        "igbo": "Mmiri ahụ dị ọhịa."
+        "igbo": "Mmiri ahụ na-asọba n'ime ọdọ mmiri ahụ."
       },
       {
         "english": "The oil flowed into the bottle.",
-        "igbo": "Abụba ahụ dị ọhịa."
+        "igbo": "Mmanụ na-asọba na karama ahụ."
       }
     ]
   },
@@ -3920,15 +3920,15 @@
     "examples": [
       {
         "english": "The water froze in the winter.",
-        "igbo": "Mmiri ahụ dị oyi."
+        "igbo": "Mmiri jụrụ oyi n'oge oyi."
       },
       {
         "english": "He froze the ice cream.",
-        "igbo": "Ọ udu oyi azụ ahụ."
+        "igbo": "Ọ jụrụ ice cream."
       },
       {
         "english": "The ice froze in the freezer.",
-        "igbo": "Ice ahụ dị oyi."
+        "igbo": "Akpụrụ akpụrụ akpụ n'ime friza."
       }
     ]
   },
@@ -3939,15 +3939,15 @@
     "examples": [
       {
         "english": "The water swelled in the river.",
-        "igbo": "Mmiri ahụ dị ọhịa."
+        "igbo": "Mmiri ahụ zara n’osimiri ahụ."
       },
       {
         "english": "The flower swelled in the sun.",
-        "igbo": "Ifuru ahụ dị ọhịa."
+        "igbo": "Ifuru ahụ zara na anyanwụ."
       },
       {
         "english": "The dough swelled in the oven.",
-        "igbo": "Anụ ahụ dị ọhịa."
+        "igbo": "Ntụ ọka ahụ zara na oven."
       }
     ]
   },
@@ -3958,15 +3958,15 @@
     "examples": [
       {
         "english": "He burned the toast.",
-        "igbo": "Ọ ọkụ ọdọ mmiri ahụ."
+        "igbo": "Ọ gbara toast ahụ ọkụ."
       },
       {
         "english": "She burned the candle.",
-        "igbo": "Ọ ọkụ ọhịa ahụ."
+        "igbo": "Ọ gbara kandụl ahụ ọkụ."
       },
       {
         "english": "They burned the house.",
-        "igbo": "Ha ọkụ ọhịa ahụ."
+        "igbo": "Ha gbara ụlọ ahụ ọkụ."
       }
     ]
   },
@@ -3981,11 +3981,11 @@
       },
       {
         "english": "He is here.",
-        "igbo": "Ọ bi ebe a."
+        "igbo": "Ọ nọ ebe a."
       },
       {
         "english": "She is here.",
-        "igbo": "Ọ bụ ebe a."
+        "igbo": "Ọ nọ ebe a."
       }
     ]
   },
@@ -3996,15 +3996,15 @@
     "examples": [
       {
         "english": "He has a car.",
-        "igbo": "Ọ nwere ụgbọ ala ahụ."
+        "igbo": "O nwere ụgbọ ala."
       },
       {
         "english": "She has a cat.",
-        "igbo": "Ọ nwere nkịta ahụ."
+        "igbo": "O nwere pusi."
       },
       {
         "english": "They have a house.",
-        "igbo": "Ha nwere ụlọ ahụ."
+        "igbo": "Ha nwere ụlọ."
       }
     ]
   },
@@ -4015,15 +4015,15 @@
     "examples": [
       {
         "english": "I do the work.",
-        "igbo": "Anọ m mee ọhịa."
+        "igbo": "Ana m arụ ọrụ ahụ."
       },
       {
         "english": "He does the job.",
-        "igbo": "Ọ bụ enyi ọhịa."
+        "igbo": "Ọ na-arụ ọrụ ahụ."
       },
       {
         "english": "They do the project.",
-        "igbo": "Ha bụ enyi ọhịa."
+        "igbo": "Ha na-arụ ọrụ ahụ."
       }
     ]
   }

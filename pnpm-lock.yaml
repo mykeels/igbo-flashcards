@@ -32,6 +32,12 @@ dependencies:
   clsx:
     specifier: ^2.1.1
     version: 2.1.1
+  csv-parser:
+    specifier: ^3.2.0
+    version: 3.2.0
+  export-to-csv:
+    specifier: ^1.4.0
+    version: 1.4.0
   framer-motion:
     specifier: ^11.9.0
     version: 11.9.0(react-dom@18.3.1)(react@18.3.1)
@@ -4595,6 +4601,12 @@ packages:
   /csstype@3.1.3:
     resolution: {integrity: sha512-M1uQkMl8rQK/szD0LNhtqxIPLpimGm8sOBwU7lLnCpSbTyY3yeU1Vc7l4KT5zT4s/yOxHH5O7tIuuLOCnLADRw==}
 
+  /csv-parser@3.2.0:
+    resolution: {integrity: sha512-fgKbp+AJbn1h2dcAHKIdKNSSjfp43BZZykXsCjzALjKy80VXQNHPFJ6T9Afwdzoj24aMkq8GwDS7KGcDPpejrA==}
+    engines: {node: '>= 10'}
+    hasBin: true
+    dev: false
+
   /cycle@1.0.3:
     resolution: {integrity: sha512-TVF6svNzeQCOpjCqsy0/CSy8VgObG3wXusJ73xW2GbG5rGx7lC8zxDSURicsXI2UsGdi2L0QNRCi745/wUDvsA==}
     engines: {node: '>=0.4.0'}
@@ -5300,6 +5312,11 @@ packages:
     engines: {node: '>=0.10.0'}
     dependencies:
       homedir-polyfill: 1.0.3
+    dev: false
+
+  /export-to-csv@1.4.0:
+    resolution: {integrity: sha512-6CX17Cu+rC2Fi2CyZ4CkgVG3hLl6BFsdAxfXiZkmDFIDY4mRx2y2spdeH6dqPHI9rP+AsHEfGeKz84Uuw7+Pmg==}
+    engines: {node: ^v12.20.0 || >=v14.13.0}
     dev: false
 
   /express@4.21.0:
