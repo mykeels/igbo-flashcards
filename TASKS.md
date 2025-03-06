@@ -1,4 +1,4 @@
-[ ] Sound out the english word when the card is displayed.
+[x] Sound out the english word when the card is displayed.
 
 [x] Add a filter to the UI, to filter by:
   - category
@@ -13,7 +13,5 @@
 
 [ ] Generate sounds for each igbo word and example sentence, and play them when the card is displayed.
 
-[ ] Add a "sound on/off" button to the UI, to toggle the sound on and off.
-
-
+[x] Add a "sound on/off" button to the UI, to toggle the sound on and off.
 
