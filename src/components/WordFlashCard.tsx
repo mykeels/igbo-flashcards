@@ -6,12 +6,14 @@ import { z } from "zod";
 import words from "../data/words.json";
 import { useMouseHold } from "@/hooks/useMouseHold.hook";
 import { Examples } from "./Examples";
+import { speak } from "@/utils/speak";
 
 // Define the WordCard component
 const WordFlashCard: React.FC = () => {
   const [showIgbo, setShowIgbo] = useState(false);
   const [countdown, setCountdown] = useState(3);
-  const { currentWord, setNextWord } = useWord();
+  const [shouldSpeak, setShouldSpeak] = useState(false);
+  const { currentWord, setNextWord } = useWord({ shouldSpeak });
   const { ref, isHeld } = useMouseHold();
 
   // Effect to handle the countdown
@@ -59,7 +61,7 @@ const WordFlashCard: React.FC = () => {
       className="flex flex-col items-center justify-center h-screen bg-primary gap-2"
     >
       <div className="flex flex-col items-center justify-center gap-2">
-        <form method="get" action="/">
+        <form method="get" action="/" className="flex flex-row gap-2">
           <select
             name="category"
             className={clsx(
@@ -80,6 +82,14 @@ const WordFlashCard: React.FC = () => {
             <option value="pronoun">Pronoun</option>
             <option value="verb">Verb</option>
           </select>
+          <button type="button" className={clsx(
+            "text-black px-4 py-2 rounded-md border-2 border-gray-700",
+            {
+              [backgroundColor || 'bg-transparent']: shouldSpeak,
+              "bg-gray-300": !shouldSpeak,
+            })} onClick={() => setShouldSpeak(!shouldSpeak)}>
+            {shouldSpeak ? "🔈" : "🔇"}
+          </button>
         </form>
       </div>
       <div
@@ -137,7 +147,11 @@ function useSearch() {
   return search;
 }
 
-function useWord() {
+function useWord({
+  shouldSpeak = true,
+}: {
+  shouldSpeak?: boolean;
+}) {
   const search = useSearch();
   const navigate = useNavigate();
   // Function to get a random word from the list
@@ -145,9 +159,9 @@ function useWord() {
     const wordSet =
       search.category && search.category !== "all"
         ? words.filter(
-            (word) =>
-              word.category.toLowerCase() === search.category?.toLowerCase()
-          )
+          (word) =>
+            word.category.toLowerCase() === search.category?.toLowerCase()
+        )
         : words;
     return wordSet[Math.floor(Math.random() * wordSet.length)];
   };
@@ -164,6 +178,13 @@ function useWord() {
       navigate(`/?category=${search.category}&word=${currentWord.english}`, { replace: true });
     }
   }, [search?.category, currentWord.english, search.word]);
+
+  useEffect(() => {
+    if (shouldSpeak) {
+      speak(currentWord.english);
+    }
+  }, [currentWord.english, shouldSpeak]);
+
   return {
     currentWord,
     setNextWord,
