@@ -7,7 +7,7 @@ import words from "../data/words.json";
 import { useMouseHold } from "@/hooks/useMouseHold.hook";
 import { Examples } from "./Examples";
 import { speak } from "@/utils/speak";
-
+import { motion } from "framer-motion";
 // Define the WordCard component
 const WordFlashCard: React.FC = () => {
   const [showIgbo, setShowIgbo] = useState(false);
@@ -62,7 +62,7 @@ const WordFlashCard: React.FC = () => {
     >
       <div className="flex flex-col items-center justify-center gap-2">
         <form method="get" action="/" className="flex flex-row gap-2">
-          <select
+          <motion.select
             name="category"
             className={clsx(
               "w-full max-w-sm text-black border-2 border-gray-700 rounded-md p-2",
@@ -73,6 +73,9 @@ const WordFlashCard: React.FC = () => {
               const category = e.target.value;
               navigate(`/?category=${category}`);
             }}
+            initial={{ opacity: 0, x: -100 }}
+            animate={{ opacity: 1, x: 0 }}
+            transition={{ duration: 0.5, type: "spring", stiffness: 100 }}
           >
             <option value="all">All</option>
             <option value="adjective">Adjective</option>
@@ -81,24 +84,35 @@ const WordFlashCard: React.FC = () => {
             <option value="preposition">Preposition</option>
             <option value="pronoun">Pronoun</option>
             <option value="verb">Verb</option>
-          </select>
-          <button type="button" className={clsx(
-            "text-black px-4 py-2 rounded-md border-2 border-gray-700",
-            {
-              [backgroundColor || 'bg-transparent']: shouldSpeak,
-              "bg-gray-300": !shouldSpeak,
-            })} onClick={() => setShouldSpeak(!shouldSpeak)}>
+          </motion.select>
+          <motion.button 
+            type="button" 
+            className={clsx(
+              "text-black px-4 py-2 rounded-md border-2 border-gray-700",
+              {
+                [backgroundColor || 'bg-transparent']: shouldSpeak,
+                "bg-gray-300": !shouldSpeak,
+              })} 
+            onClick={() => setShouldSpeak(!shouldSpeak)}
+            initial={{ opacity: 0, x: 100 }}
+            animate={{ opacity: 1, x: 0 }}
+            transition={{ duration: 0.5, type: "spring", stiffness: 100 }}
+          >
             {shouldSpeak ? "🔈" : "🔇"}
-          </button>
+          </motion.button>
         </form>
       </div>
-      <div
+      <motion.div
         className={clsx(
           "max-w-sm mx-auto py-16 px-8 border rounded shadow-lg text-center cursor-pointer gap-8 relative",
           "flex flex-col items-center justify-center rounded-lg shadow-lg min-w-64 border-2 border-gray-700 select-none",
           backgroundColor
         )}
         onClick={handleCardClick}
+        initial={{ opacity: 0, y: 100 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.5, type: "spring", stiffness: 100 }}
+        exit={{ opacity: 0, y: -100 }}
       >
         <h2 className="text-3xl font-bold">{currentWord.english}</h2>
         {showIgbo ? (
@@ -108,7 +122,7 @@ const WordFlashCard: React.FC = () => {
             Revealing in {countdown}...
           </p>
         )}
-      </div>
+      </motion.div>
       {showIgbo && !!currentWord.examples && (
         <Examples
           examples={currentWord.examples}
