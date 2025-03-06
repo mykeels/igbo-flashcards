@@ -11,7 +11,7 @@
 
 [ ] Add a "share" button to each word's page, which will share the word's page, including the word's name, definition, and example sentence.
 
-[ ] Generate sounds for each igbo word and example sentence, and play them when the card is displayed.
+[x] Generate sounds for each igbo word and example sentence, and play them when the card is displayed.
 
 [x] Add a "sound on/off" button to the UI, to toggle the sound on and off.
 
