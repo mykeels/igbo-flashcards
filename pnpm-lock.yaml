@@ -29,6 +29,9 @@ dependencies:
   csv-parser:
     specifier: ^3.2.0
     version: 3.2.0
+  dotenv:
+    specifier: ^16.4.7
+    version: 16.4.7
   export-to-csv:
     specifier: ^1.4.0
     version: 1.4.0
@@ -4739,6 +4742,11 @@ packages:
   /dom-accessibility-api@0.6.3:
     resolution: {integrity: sha512-7ZgogeTnjuHbo+ct10G9Ffp0mif17idi0IyWNVA/wcwcm7NPOD/WEHVP3n7n3MhXqxoIYm8d6MuZohYWIZ4T3w==}
     dev: true
+
+  /dotenv@16.4.7:
+    resolution: {integrity: sha512-47qPchRCykZC03FhkYAhrvwU4xDBFIj1QPqaarj6mdM/hgUzfPHcpkHJOn3mJAufFeeAxAzeGsr5X0M4k6fLZQ==}
+    engines: {node: '>=12'}
+    dev: false
 
   /ducky@2.7.3:
     resolution: {integrity: sha512-DW4+CPlM+5DmUjJCOhLZDF0XolnZrsIVZXvYmexqCROlul+qRO/RBHN15/IHo+d+rMKS/8hMIZISdv8Kv/Yp0Q==}

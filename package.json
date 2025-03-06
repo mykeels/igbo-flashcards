@@ -24,6 +24,7 @@
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "csv-parser": "^3.2.0",
+    "dotenv": "^16.4.7",
     "export-to-csv": "^1.4.0",
     "framer-motion": "^11.9.0",
     "gh-pages": "^6.1.1",
