@@ -109,9 +109,6 @@ const WordFlashCard: React.FC = () => {
           </p>
         )}
       </div>
-      <div className="h-8 px-4 py-2 bg-black text-white flex items-center justify-center">
-        {currentWord.category}
-      </div>
       {showIgbo && !!currentWord.examples && (
         <Examples
           examples={currentWord.examples}
