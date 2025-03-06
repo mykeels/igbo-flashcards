@@ -1,13 +1,13 @@
 import { StrictMode } from "react";
 import ReactDOM from "react-dom/client";
-import { createBrowserRouter, RouterProvider } from "react-router";
+import { createHashRouter, RouterProvider } from "react-router";
 import WordFlashCard from "./components/WordFlashCard";
 
 import "./index.css";
 import { QueryClient, QueryClientProvider } from "react-query";
 
 // Create a new router instance
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: "/",
     element: <WordFlashCard />,
