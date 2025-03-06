@@ -1,19 +1,18 @@
 import { StrictMode } from "react";
 import ReactDOM from "react-dom/client";
-import {
-  RouterProvider,
-  createRouter,
-  createHashHistory,
-} from "@tanstack/react-router";
-
-// Import the generated route tree
-import { routeTree } from "./routeTree.gen";
+import { createBrowserRouter, RouterProvider } from "react-router";
+import WordFlashCard from "./components/WordFlashCard";
 
 import "./index.css";
 import { QueryClient, QueryClientProvider } from "react-query";
 
 // Create a new router instance
-const router = createRouter({ routeTree, history: createHashHistory() });
+const router = createBrowserRouter([
+  {
+    path: "/",
+    element: <WordFlashCard />,
+  },
+]);
 
 // eslint-disable-next-line react-refresh/only-export-components
 const RenderMode = ({ children }: { children: React.ReactNode }) => {

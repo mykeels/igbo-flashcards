@@ -23,7 +23,7 @@ export const Examples = ({
       {examples.slice(0, showMore ? examples.length : 1).map((example) => (
         <div
           key={example.english}
-          className={clsx("px-4 py-2 border border-black", backgroundColor)}
+          className={clsx("px-4 py-2 border border-gray-700", backgroundColor)}
         >
           <p>{example.english}</p>
           <p>{example.igbo}</p>
