@@ -32,8 +32,8 @@ export const Examples = ({
   const speakWord = async (example: { english: string; igbo: string }) => {
     audio.current?.stop();
     audio.current = sequence([
-      `/audio/${cleanFileName(word.category)}/${cleanFileName(word.english)}/examples/${cleanFileName(example.english)}.english.mp3`,
-      `/audio/${cleanFileName(word.category)}/${cleanFileName(word.english)}/examples/${cleanFileName(example.english)}.igbo.mp3`,
+      `./audio/${cleanFileName(word.category)}/${cleanFileName(word.english)}/examples/${cleanFileName(example.english)}.english.mp3`,
+      `./audio/${cleanFileName(word.category)}/${cleanFileName(word.english)}/examples/${cleanFileName(example.english)}.igbo.mp3`,
     ]);
     if (shouldSpeak) {
       audio.current?.play();

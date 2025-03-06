@@ -203,7 +203,7 @@ function useWord({
   const speakCurrentWord = useCallback(() => {
     audio.current?.stop();
     audio.current = sequence([
-      `/audio/${cleanFileName(currentWord.category)}/${cleanFileName(currentWord.english)}/${cleanFileName(currentWord.english)}.english.mp3`,
+      `./audio/${cleanFileName(currentWord.category)}/${cleanFileName(currentWord.english)}/${cleanFileName(currentWord.english)}.english.mp3`,
     ]);
     if (shouldSpeak) {
       audio.current?.play();
@@ -214,7 +214,7 @@ function useWord({
   const speakTranslationAndExamples = useCallback(() => {
     audio.current?.stop();
     audio.current = sequence([
-      `/audio/${cleanFileName(currentWord.category)}/${cleanFileName(currentWord.english)}/${cleanFileName(currentWord.english)}.igbo.mp3`,
+      `./audio/${cleanFileName(currentWord.category)}/${cleanFileName(currentWord.english)}/${cleanFileName(currentWord.english)}.igbo.mp3`,
     ]);
     if (shouldSpeak) {
       audio.current?.play();
