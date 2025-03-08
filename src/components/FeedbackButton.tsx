@@ -16,6 +16,7 @@ export const FeedbackButton = ({
       "",
       `${word.english} => ${word.igbo}`,
       "",
+      "Examples:",
       word.examples
         .map((example) => `- ${example.english} => ${example.igbo}`)
         .join("\n"),
