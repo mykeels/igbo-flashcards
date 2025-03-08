@@ -12,11 +12,12 @@ import { sequence } from "@/utils/sound";
 import { cleanFileName } from "@/utils/files";
 import { FeedbackButton } from "./FeedbackButton";
 import { ShareButton } from "./ShareButton";
+import { useShouldSpeak } from "@/hooks/useShouldSpeak.hook";
 // Define the WordCard component
 const WordFlashCard: React.FC = () => {
   const [showIgbo, setShowIgbo] = useState(false);
   const [countdown, setCountdown] = useState(3);
-  const [shouldSpeak, setShouldSpeak] = useState(false);
+  const { shouldSpeak, setShouldSpeak } = useShouldSpeak();
   const { currentWord, setNextWord } = useWord({ shouldSpeak, isShowingIgbo: showIgbo });
   const { ref, isHeld } = useMouseHold();
 

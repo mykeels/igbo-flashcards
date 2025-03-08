@@ -15,7 +15,7 @@ export const Examples = ({
   backgroundColor: string;
   shouldSpeak: boolean;
 }) => {
-  const [showMore, setShowMore] = useLocalStorage("examples:showMore", true);
+  const [showMore, setShowMore] = useLocalStorage("igbo-flashcards:examples:showMore", true);
   const toggleShowMore = () => {
     setShowMore(!showMore);
   };
