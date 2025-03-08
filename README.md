@@ -4,6 +4,14 @@ This codebase is a simple flashcard app for learning Igbo. It's built with React
 
 The words are obtained from the Swadesh list, and our word->translation list is maintained at https://docs.google.com/spreadsheets/d/16b5Z8RPludFVidmyLcLBxtveGk_UDSfEQiTHXyC0NiI/edit?usp=sharing
 
+## Giving feedback
+
+Feedback on words, examples and translations at https://mykeels.github.io/igbo-flashcards
+
+Did you find an incorrect translation, perhaps? Or a missing example?
+
+Please [let me know](https://docs.google.com/forms/d/e/1FAIpQLSeQ00Tb144rwK7PxPRIIL4ohYt0uyaAuqVHUfDjg6ikJobHoQ/viewform).
+
 ## Using the template
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
