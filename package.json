@@ -1,7 +1,7 @@
 {
   "name": "igbo-flashcards",
   "private": true,
-  "version": "0.0.14",
+  "version": "0.0.15",
   "type": "module",
   "scripts": {
     "predeploy": "npm version patch && npm run build",
