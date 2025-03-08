@@ -45,7 +45,7 @@ export const ShareButton = ({
       onClick={() => share()}
       title="Share"
     >
-      <img src="/share.png" alt="share" className="w-12" />
+      <img src="./share.png" alt="share" className="w-12" />
     </motion.button>
   ) : null;
 };

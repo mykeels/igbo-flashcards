@@ -41,7 +41,7 @@ export const FeedbackButton = ({
       onClick={() => giveFeedback()}
       title="Give Feedback"
     >
-      <img src="/feedback.png" alt="feedback" className="w-12" />
+      <img src="./feedback.png" alt="feedback" className="w-12" />
     </motion.button>
   );
 };
