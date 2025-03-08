@@ -2,7 +2,17 @@
 
 This codebase is a simple flashcard app for learning Igbo. It's built with React, Vite, and Tailwind CSS.
 
-The words are obtained from the Swadesh list, and our word->translation list is maintained at https://docs.google.com/spreadsheets/d/16b5Z8RPludFVidmyLcLBxtveGk_UDSfEQiTHXyC0NiI/edit?usp=sharing
+## Word list
+
+The words are inspired by [the Swadesh list](https://en.wikipedia.org/wiki/Swadesh_list), and our word->translation list is maintained in [this Google Sheet](https://docs.google.com/spreadsheets/d/16b5Z8RPludFVidmyLcLBxtveGk_UDSfEQiTHXyC0NiI/edit?usp=sharing).
+
+## Audio
+
+The audio is generated using [this script](./src/data/generate-audio-per-word.script.ts), which uses 
+
+- the macos `say` command to generate the audio for english words.
+- this [spitch.app](https://spitch.app/) api to generate the audio for igbo words and phrases.
+- the `ffmpeg` command to convert the audio to mp3.
 
 ## Giving feedback
 
