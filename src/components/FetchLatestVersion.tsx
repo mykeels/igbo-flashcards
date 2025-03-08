@@ -66,7 +66,7 @@ export const CurrentVersion = () => {
   return (
     <button
       onClick={() => mutate()}
-      className="block w-full text-xs text-red-400 p-4 text-center opacity-75"
+      className="block w-full text-sm text-red-400 p-4 text-center opacity-75"
     >
       {isLoading ? "Checking for updates..." : `v${packageJson.version}`}
     </button>

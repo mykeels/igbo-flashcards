@@ -130,6 +130,7 @@ const WordFlashCard: React.FC = () => {
           </p>
         )}
       </motion.div>
+      <div className="flex flex-col items-center justify-center gap-4">
       {showIgbo && !!currentWord.examples && (
         <Examples
           word={currentWord}
@@ -138,6 +139,7 @@ const WordFlashCard: React.FC = () => {
         />
       )}
       <CurrentVersion />
+      </div>
     </div>
   );
 };

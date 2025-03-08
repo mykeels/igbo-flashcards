@@ -15,7 +15,7 @@ export const Examples = ({
   backgroundColor: string;
   shouldSpeak: boolean;
 }) => {
-  const [showMore, setShowMore] = useLocalStorage("examples:showMore", false);
+  const [showMore, setShowMore] = useLocalStorage("examples:showMore", true);
   const toggleShowMore = () => {
     setShowMore(!showMore);
   };
@@ -69,7 +69,7 @@ export const Examples = ({
             index === slices.length - 1 && (
                 <button 
                 type="button" 
-                className="rounded-full border-2 border-gray-700 absolute -bottom-4 right-0 left-0 mx-auto text-xs w-6 h-6 bg-gray-700 text-white" 
+                className="rounded-full border-2 border-gray-700 absolute -bottom-4 right-0 left-0 mx-auto text-sm w-6 h-6 bg-gray-700 text-white" 
                 onClick={() => toggleShowMore()}>
                     {showMore ? "↑" : "⌄"}
                 </button>
