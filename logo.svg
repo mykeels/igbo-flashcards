@@ -2,7 +2,7 @@
   <!-- Background circle -->
   <circle cx="50" cy="50" r="45" fill="#BB017A"/>
   
-  <!-- Stylized "I" for Igbolingo -->
+  <!-- Stylized "I" for Igbo Flashcards -->
   <path d="M35 25 L35 75" stroke="white" stroke-width="8" stroke-linecap="round"/>
   
   <!-- Dot above the I -->

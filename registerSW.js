@@ -1,1 +1,1 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/igbolingo/sw.js', { scope: '/igbolingo/' })})}
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/igbo-flashcards/sw.js', { scope: '/igbo-flashcards/' })})}
