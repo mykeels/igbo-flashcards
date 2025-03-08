@@ -1,6 +1,8 @@
-# Igbolingo
+# Igbo Flashcards
 
-This codebase represents a collection of utilities for learning Igbo.
+This codebase is a simple flashcard app for learning Igbo. It's built with React, Vite, and Tailwind CSS.
+
+The words are obtained from the Swadesh list, and our word->translation list is maintained at https://docs.google.com/spreadsheets/d/16b5Z8RPludFVidmyLcLBxtveGk_UDSfEQiTHXyC0NiI/edit?usp=sharing
 
 ## Using the template
 

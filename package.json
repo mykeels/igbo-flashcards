@@ -1,5 +1,5 @@
 {
-  "name": "igbolingo",
+  "name": "igbo-flashcards",
   "private": true,
   "version": "0.0.13",
   "type": "module",
@@ -9,7 +9,7 @@
     "dev": "vite",
     "start": "vite",
     "ts": "tsc -b",
-    "build": "tsc -b && npx cross-env ASSET_URL=/igbolingo/ vite build --base=/igbolingo/",
+    "build": "tsc -b && npx cross-env ASSET_URL=/igbo-flashcards/ vite build --base=/igbo-flashcards/",
     "lint": "eslint .",
     "preview": "vite preview",
     "storybook": "storybook dev -p 6006",

@@ -26,7 +26,7 @@ export const ShareButton = ({
     if (navigator.share) {
       navigator
         .share({
-          title: "Igbolingo - Learn Igbo with flashcards",
+          title: "Igbo Flashcards - Learn 200+ Igbo words and phrases",
           text: context,
           url: location.href,
         })

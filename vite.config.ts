@@ -11,9 +11,9 @@ export default defineConfig({
     VitePWA({
       registerType: "autoUpdate",
       manifest: {
-        name: "Igbolingo",
-        short_name: "Igbolingo",
-        description: "Igbolingo",
+        name: "Igbo Flashcards",
+        short_name: "Igbo Flashcards",
+        description: "Learn 200+ Igbo words and phrases",
         theme_color: "#BB017A",
         background_color: "#000000",
         display: "fullscreen",
