@@ -14,6 +14,9 @@ The audio is generated using [this script](./src/data/generate-audio-per-word.sc
 - this [spitch.app](https://spitch.app/) api to generate the audio for igbo words and phrases.
 - the `ffmpeg` command to convert the audio to mp3.
 
+> [!NOTE]
+> There is a bit of noise at the end of the audio files that sometimes sounds like "gbu". It's not deliberate, and I am discussing with the folks at spitch.app to see if they can fix it.
+
 ## Giving feedback
 
 Feedback on words, examples and translations at https://mykeels.github.io/igbo-flashcards
