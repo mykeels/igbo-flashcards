@@ -11,6 +11,7 @@ import { CurrentVersion, FetchLatestVersion } from "./FetchLatestVersion";
 import { sequence } from "@/utils/sound";
 import { cleanFileName } from "@/utils/files";
 import { FeedbackButton } from "./FeedbackButton";
+import { ShareButton } from "./ShareButton";
 // Define the WordCard component
 const WordFlashCard: React.FC = () => {
   const [showIgbo, setShowIgbo] = useState(false);
@@ -105,6 +106,7 @@ const WordFlashCard: React.FC = () => {
           </motion.button>
           <FetchLatestVersion backgroundColor={backgroundColor} />
           {!!currentWord && !!backgroundColor && <FeedbackButton backgroundColor={backgroundColor} word={currentWord} />}
+          {!!currentWord && !!backgroundColor && <ShareButton backgroundColor={backgroundColor} word={currentWord} />}
         </form>
       </div>
       <motion.div
