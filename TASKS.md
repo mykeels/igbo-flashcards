@@ -15,3 +15,5 @@
 
 [x] Add a "sound on/off" button to the UI, to toggle the sound on and off.
 
+[x] The Examples component should store its state in local storage, so that it remembers the user's choice of how many examples to show.
+

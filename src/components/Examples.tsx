@@ -3,6 +3,7 @@ import { useRef, useState } from "react";
 import { motion } from "framer-motion";
 import { sequence } from "@/utils/sound";
 import { cleanFileName } from "@/utils/files";
+import useLocalStorage from "use-local-storage";
 
 export const Examples = ({
   word,
@@ -21,7 +22,7 @@ export const Examples = ({
   backgroundColor: string;
   shouldSpeak: boolean;
 }) => {
-  const [showMore, setShowMore] = useState(false);
+  const [showMore, setShowMore] = useLocalStorage("examples:showMore", false);
   const toggleShowMore = () => {
     setShowMore(!showMore);
   };
