@@ -57,9 +57,18 @@ export const FetchLatestVersion = ({
 };
 
 export const CurrentVersion = () => {
+  const { isLoading, mutate } = useMutation({
+    mutationFn: fetchLatestVersion,
+    onSuccess: () => {
+      window.location.reload();
+    },
+  });
   return (
-    <div className="block w-full text-xs text-red-400 p-4 text-center opacity-75">
-      v{packageJson.version}
-    </div>
+    <button
+      onClick={() => mutate()}
+      className="block w-full text-xs text-red-400 p-4 text-center opacity-75"
+    >
+      {isLoading ? "Checking for updates..." : `v${packageJson.version}`}
+    </button>
   );
 };
