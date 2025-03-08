@@ -4,21 +4,14 @@ import { motion } from "framer-motion";
 import { sequence } from "@/utils/sound";
 import { cleanFileName } from "@/utils/files";
 import useLocalStorage from "use-local-storage";
+import { Word } from "./types";
 
 export const Examples = ({
   word,
   backgroundColor,
   shouldSpeak,
 }: {
-  word: {
-    category: string;
-    english: string;
-    igbo: string;
-    examples: {
-      english: string;
-      igbo: string;
-    }[];
-  };
+  word: Word;
   backgroundColor: string;
   shouldSpeak: boolean;
 }) => {
