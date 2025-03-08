@@ -23,7 +23,6 @@ export const ShareButton = ({
       "",
       "",
     ].join("\n");
-    navigator.clipboard.writeText(context);
     if (navigator.share) {
       navigator
         .share({
@@ -32,8 +31,6 @@ export const ShareButton = ({
           url: location.href,
         })
         .catch((error) => console.log("Error sharing:", error));
-    } else {
-      alert("Context copied to clipboard!");
     }
   };
   return canShare ? (
